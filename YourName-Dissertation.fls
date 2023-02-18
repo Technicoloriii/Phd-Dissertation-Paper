@@ -612,6 +612,17 @@ INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/url/url.sty
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/url/url.sty
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/url/url.sty
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/url/url.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/cite/cite.sty
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/cite/cite.sty
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/cite/cite.sty
@@ -739,6 +750,17 @@ INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
@@ -843,6 +865,11 @@ INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tf
 INPUT ./YourName-Dissertation.lof
 INPUT YourName-Dissertation.lof
 INPUT YourName-Dissertation.lof
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmtt12.tfm
 OUTPUT YourName-Dissertation.lof
 INPUT ./YourName-Dissertation.lot
 INPUT YourName-Dissertation.lot
@@ -880,11 +907,6 @@ INPUT ./Chapter-1/Figures/fiscal federalism.JPG
 INPUT Chapter-1/Figures/fiscal federalism.JPG
 INPUT ./Chapter-1/Figures/fiscal federalism.JPG
 INPUT ./Chapter-1/Figures/fiscal federalism.JPG
-INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
-INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
-INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
-INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
-INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmtt12.tfm
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
@@ -914,11 +936,11 @@ INPUT ./Chapter-1/Figures/state and local expenditure.JPG
 INPUT Chapter-1/Figures/state and local expenditure.JPG
 INPUT ./Chapter-1/Figures/state and local expenditure.JPG
 INPUT ./Chapter-1/Figures/state and local expenditure.JPG
-INPUT ./Chapter-1/Figures/Venn graph on public goods.jpg
-INPUT ./Chapter-1/Figures/Venn graph on public goods.jpg
-INPUT Chapter-1/Figures/Venn graph on public goods.jpg
-INPUT ./Chapter-1/Figures/Venn graph on public goods.jpg
-INPUT ./Chapter-1/Figures/Venn graph on public goods.jpg
+INPUT ./Chapter-1/Figures/Venn graph on public goods.jpeg
+INPUT ./Chapter-1/Figures/Venn graph on public goods.jpeg
+INPUT Chapter-1/Figures/Venn graph on public goods.jpeg
+INPUT ./Chapter-1/Figures/Venn graph on public goods.jpeg
+INPUT ./Chapter-1/Figures/Venn graph on public goods.jpeg
 INPUT ./Chapter-2/Chapter-2.tex
 INPUT ./Chapter-2/Chapter-2.tex
 INPUT ./Chapter-2/Chapter-2.tex
@@ -935,11 +957,16 @@ INPUT ./Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg
 INPUT Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg
 INPUT ./Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg
 INPUT ./Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg
-INPUT ./Chapter-2/Figures/pca.jpg
-INPUT ./Chapter-2/Figures/pca.jpg
-INPUT Chapter-2/Figures/pca.jpg
-INPUT ./Chapter-2/Figures/pca.jpg
-INPUT ./Chapter-2/Figures/pca.jpg
+INPUT ./Chapter-2/Figures/pca.png
+INPUT ./Chapter-2/Figures/pca.png
+INPUT Chapter-2/Figures/pca.png
+INPUT ./Chapter-2/Figures/pca.png
+INPUT ./Chapter-2/Figures/pca.png
+INPUT ./Chapter-2/Figures/IGT and factors.jpg
+INPUT ./Chapter-2/Figures/IGT and factors.jpg
+INPUT Chapter-2/Figures/IGT and factors.jpg
+INPUT ./Chapter-2/Figures/IGT and factors.jpg
+INPUT ./Chapter-2/Figures/IGT and factors.jpg
 INPUT ./Chapter-3/Chapter-3.tex
 INPUT ./Chapter-3/Chapter-3.tex
 INPUT ./Chapter-3/Chapter-3.tex
@@ -950,6 +977,11 @@ INPUT ./Chapter-3/Chapter-3.tex
 INPUT Chapter-3/Chapter-3.tex
 INPUT ./Chapter-3/Chapter-3.tex
 INPUT Chapter-3/Chapter-3.tex
+INPUT ./Chapter-3/Figures/Effect of Intergovernmental Transfer.jpeg
+INPUT ./Chapter-3/Figures/Effect of Intergovernmental Transfer.jpeg
+INPUT Chapter-3/Figures/Effect of Intergovernmental Transfer.jpeg
+INPUT ./Chapter-3/Figures/Effect of Intergovernmental Transfer.jpeg
+INPUT ./Chapter-3/Figures/Effect of Intergovernmental Transfer.jpeg
 INPUT ./Chapter-4/Chapter-4.tex
 INPUT ./Chapter-4/Chapter-4.tex
 INPUT ./Chapter-4/Chapter-4.tex
@@ -1000,6 +1032,21 @@ INPUT ./Chapter-1/Figures/source of state and local revenue.JPG
 INPUT Chapter-1/Figures/source of state and local revenue.JPG
 INPUT ./Chapter-1/Figures/source of state and local revenue.JPG
 INPUT ./Chapter-1/Figures/source of state and local revenue.JPG
+INPUT ./Appendix-A/republican.jpg
+INPUT ./Appendix-A/republican.jpg
+INPUT Appendix-A/republican.jpg
+INPUT ./Appendix-A/republican.jpg
+INPUT ./Appendix-A/republican.jpg
+INPUT ./Appendix-A/democratic.jpg
+INPUT ./Appendix-A/democratic.jpg
+INPUT Appendix-A/democratic.jpg
+INPUT ./Appendix-A/democratic.jpg
+INPUT ./Appendix-A/democratic.jpg
+INPUT ./Appendix-A/swing.jpg
+INPUT ./Appendix-A/swing.jpg
+INPUT Appendix-A/swing.jpg
+INPUT ./Appendix-A/swing.jpg
+INPUT ./Appendix-A/swing.jpg
 INPUT ./Appendix-B/Appendix-B.tex
 INPUT ./Appendix-B/Appendix-B.tex
 INPUT ./Appendix-B/Appendix-B.tex
@@ -1087,15 +1134,17 @@ INPUT ./Appendix-E/Appendix-E.aux
 INPUT Appendix-E/Appendix-E.aux
 INPUT Appendix-E/Appendix-E.aux
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
-INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
-INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb

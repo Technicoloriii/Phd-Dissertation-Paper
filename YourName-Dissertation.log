@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.16)  12 FEB 2023 14:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.16)  18 FEB 2023 22:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -460,39 +460,57 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip128
+\LTright=\skip129
+\LTpre=\skip130
+\LTpost=\skip131
+\LTchunksize=\count315
+\LTcapwidth=\dimen189
+\LT@head=\box62
+\LT@firsthead=\box63
+\LT@foot=\box64
+\LT@lastfoot=\box65
+\LT@gbox=\box66
+\LT@cols=\count316
+\LT@rows=\count317
+\c@LT@tables=\count318
+\c@LT@chunks=\count319
+\LT@p@ftn=\toks30
 ) (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 ) (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box62
-\beforetitleunit=\skip128
-\aftertitleunit=\skip129
-\ttl@plus=\dimen189
-\ttl@minus=\dimen190
-\ttl@toksa=\toks30
-\titlewidth=\dimen191
-\titlewidthlast=\dimen192
-\titlewidthfirst=\dimen193
+\ttl@box=\box67
+\beforetitleunit=\skip132
+\aftertitleunit=\skip133
+\ttl@plus=\dimen190
+\ttl@minus=\dimen191
+\ttl@toksa=\toks31
+\titlewidth=\dimen192
+\titlewidthlast=\dimen193
+\titlewidthfirst=\dimen194
 ) (./SupplementaryMaterial/UserDefinedCommands.tex) (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count315
-\lst@gtempboxa=\box63
-\lst@token=\toks31
-\lst@length=\count316
-\lst@currlwidth=\dimen194
-\lst@column=\count317
-\lst@pos=\count318
-\lst@lostspace=\dimen195
-\lst@width=\dimen196
-\lst@newlines=\count319
-\lst@lineno=\count320
-\lst@maxwidth=\dimen197
+\lst@mode=\count320
+\lst@gtempboxa=\box68
+\lst@token=\toks32
+\lst@length=\count321
+\lst@currlwidth=\dimen195
+\lst@column=\count322
+\lst@pos=\count323
+\lst@lostspace=\dimen196
+\lst@width=\dimen197
+\lst@newlines=\count324
+\lst@lineno=\count325
+\lst@maxwidth=\dimen198
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count321
-\lst@skipnumbers=\count322
-\lst@framebox=\box64
+\c@lstnumber=\count326
+\lst@skipnumbers=\count327
+\lst@framebox=\box69
 ) (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
@@ -574,6 +592,10 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
@@ -582,24 +604,24 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 281.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count323
-\scratchdimen=\dimen198
-\scratchbox=\box65
-\nofMPsegments=\count324
-\nofMParguments=\count325
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count326
-\MPscratchDim=\dimen199
-\MPnumerator=\count327
-\makeMPintoPDFobject=\count328
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count328
+\scratchdimen=\dimen199
+\scratchbox=\box70
+\nofMPsegments=\count329
+\nofMParguments=\count330
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen256
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
+\everyMPtoPDFconversion=\toks34
 ) (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\c@lstlisting=\count329
+\c@lstlisting=\count334
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 309.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -659,131 +681,132 @@ Package microtype Info: Loading generic protrusion settings for font family
 \tf@toc=\write3
 \openout3 = `YourName-Dissertation.toc'.
 
- [5] (./YourName-Dissertation.lof)
-\tf@lof=\write4
-\openout4 = `YourName-Dissertation.lof'.
-
- [6
-
-] (./YourName-Dissertation.lot)
-\tf@lot=\write5
-\openout5 = `YourName-Dissertation.lot'.
-
- [7
-
-] (./SupplementaryMaterial/ListOfSymbols.tex
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page viii undefined on input line 5.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page viii undefined on input line 8.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel7' on page viii undefined on input line 11.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page viii undefined on input line 14.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel4' on page viii undefined on input line 17.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel5' on page viii undefined on input line 20.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel6' on page viii undefined on input line 23.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel7' on page viii undefined on input line 26.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel8' on page viii undefined on input line 29.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel9' on page viii undefined on input line 32.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel10' on page viii undefined on input line 35.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page viii undefined on input line 38.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel4' on page viii undefined on input line 41.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel5' on page viii undefined on input line 44.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel6' on page viii undefined on input line 47.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel7' on page viii undefined on input line 50.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel8' on page viii undefined on input line 53.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page viii undefined on input line 56.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page viii undefined on input line 59.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page viii undefined on input line 62.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page viii undefined on input line 65.
-
-[8
-
-
-]
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 68.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 71.
-
-
-LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 74.
-
-) [9] (./SupplementaryMaterial/Acknowledgments.tex) [10
-
-]
-\openout2 = `Chapter-1/Chapter-1.aux'.
-
- (./Chapter-1/Chapter-1.tex
-Chapter 1.
-<Chapter-1/Figures/fiscal federalism.JPG, id=40, 618.81187pt x 409.53pt>
-File: Chapter-1/Figures/fiscal federalism.JPG Graphic file (type jpg)
-<use Chapter-1/Figures/fiscal federalism.JPG>
-Package pdftex.def Info: Chapter-1/Figures/fiscal federalism.JPG  used on input line 10.
-(pdftex.def)             Requested size: 433.16536pt x 286.66904pt.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 12.
-(d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+ [5] [6] (./YourName-Dissertation.lof
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 14.
+ (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [1
+)
+\tf@lof=\write4
+\openout4 = `YourName-Dissertation.lof'.
+
+ [7
+
+] (./YourName-Dissertation.lot)
+\tf@lot=\write5
+\openout5 = `YourName-Dissertation.lot'.
+
+ [8
+
+] (./SupplementaryMaterial/ListOfSymbols.tex
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 5.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 8.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel7' on page ix undefined on input line 11.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 14.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel4' on page ix undefined on input line 17.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel5' on page ix undefined on input line 20.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel6' on page ix undefined on input line 23.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel7' on page ix undefined on input line 26.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel8' on page ix undefined on input line 29.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel9' on page ix undefined on input line 32.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel10' on page ix undefined on input line 35.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 38.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel4' on page ix undefined on input line 41.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel5' on page ix undefined on input line 44.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel6' on page ix undefined on input line 47.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel7' on page ix undefined on input line 50.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel8' on page ix undefined on input line 53.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 56.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 59.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 62.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page ix undefined on input line 65.
+
+[9
+
+
+]
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page x undefined on input line 68.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page x undefined on input line 71.
+
+
+LaTeX Warning: Reference `ChX-figure: FigureLabel3' on page x undefined on input line 74.
+
+) [10] (./SupplementaryMaterial/Acknowledgments.tex) [11
+
+]
+\openout2 = `Chapter-1/Chapter-1.aux'.
+
+ (./Chapter-1/Chapter-1.tex
+Chapter 1.
+<Chapter-1/Figures/fiscal federalism.JPG, id=43, 618.81187pt x 409.53pt>
+File: Chapter-1/Figures/fiscal federalism.JPG Graphic file (type jpg)
+<use Chapter-1/Figures/fiscal federalism.JPG>
+Package pdftex.def Info: Chapter-1/Figures/fiscal federalism.JPG  used on input line 10.
+(pdftex.def)             Requested size: 433.16536pt x 286.66904pt.
+[1
 
 
 
 ]
-<Chapter-1/Figures/source of federal general revenue.jpg, id=44, 432.087pt x 290.832pt>
+<Chapter-1/Figures/source of federal general revenue.jpg, id=47, 432.087pt x 290.832pt>
 File: Chapter-1/Figures/source of federal general revenue.jpg Graphic file (type jpg)
 <use Chapter-1/Figures/source of federal general revenue.jpg>
 Package pdftex.def Info: Chapter-1/Figures/source of federal general revenue.jpg  used on input line 33.
 (pdftex.def)             Requested size: 159.86967pt x 107.60614pt.
-<Chapter-1/Figures/source of state general revenue.jpg, id=45, 401.208pt x 269.37pt>
+<Chapter-1/Figures/source of state general revenue.jpg, id=48, 401.208pt x 269.37pt>
 File: Chapter-1/Figures/source of state general revenue.jpg Graphic file (type jpg)
 <use Chapter-1/Figures/source of state general revenue.jpg>
 Package pdftex.def Info: Chapter-1/Figures/source of state general revenue.jpg  used on input line 39.
 (pdftex.def)             Requested size: 160.48035pt x 107.74608pt.
-<Chapter-1/Figures/sources of local general revenue.jpg, id=46, 400.113pt x 266.742pt>
+<Chapter-1/Figures/sources of local general revenue.jpg, id=49, 400.113pt x 266.742pt>
 File: Chapter-1/Figures/sources of local general revenue.jpg Graphic file (type jpg)
 <use Chapter-1/Figures/sources of local general revenue.jpg>
 Package pdftex.def Info: Chapter-1/Figures/sources of local general revenue.jpg  used on input line 45.
@@ -794,7 +817,7 @@ Overfull \hbox (0.88673pt too wide) in paragraph at lines 45--45
  []
 
 [2 <./Chapter-1/Figures/fiscal federalism.JPG>]
-<Chapter-1/Figures/federal expenditure.JPG, id=50, 385.221pt x 238.272pt>
+<Chapter-1/Figures/federal expenditure.JPG, id=54, 385.221pt x 238.272pt>
 File: Chapter-1/Figures/federal expenditure.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/federal expenditure.JPG>
 Package pdftex.def Info: Chapter-1/Figures/federal expenditure.JPG  used on input line 72.
@@ -804,7 +827,7 @@ Overfull \hbox (1.14677pt too wide) in paragraph at lines 72--72
  [][] 
  []
 
-<Chapter-1/Figures/state and local expenditure.JPG, id=51, 385.002pt x 233.673pt>
+<Chapter-1/Figures/state and local expenditure.JPG, id=55, 385.002pt x 233.673pt>
 File: Chapter-1/Figures/state and local expenditure.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/state and local expenditure.JPG>
 Package pdftex.def Info: Chapter-1/Figures/state and local expenditure.JPG  used on input line 78.
@@ -815,17 +838,22 @@ Overfull \hbox (1.0329pt too wide) in paragraph at lines 78--78
  []
 
 [3 <./Chapter-1/Figures/source of federal general revenue.jpg> <./Chapter-1/Figures/source of state general revenue.jpg> <./Chapter-1/Figures/sources of local general revenue.jpg>]
-<Chapter-1/Figures/Venn graph on public goods.jpg, id=57, 350.05782pt x 150.5625pt>
-File: Chapter-1/Figures/Venn graph on public goods.jpg Graphic file (type jpg)
-<use Chapter-1/Figures/Venn graph on public goods.jpg>
-Package pdftex.def Info: Chapter-1/Figures/Venn graph on public goods.jpg  used on input line 91.
-(pdftex.def)             Requested size: 350.05695pt x 150.56212pt.
- [4 <./Chapter-1/Figures/federal expenditure.JPG> <./Chapter-1/Figures/state and local expenditure.JPG> <./Chapter-1/Figures/Venn graph on public goods.jpg>] [5] [6]
+<Chapter-1/Figures/Venn graph on public goods.jpeg, id=60, 1169.3286pt x 693.792pt>
+File: Chapter-1/Figures/Venn graph on public goods.jpeg Graphic file (type jpg)
+<use Chapter-1/Figures/Venn graph on public goods.jpeg>
+Package pdftex.def Info: Chapter-1/Figures/Venn graph on public goods.jpeg  used on input line 91.
+(pdftex.def)             Requested size: 467.72316pt x 277.51187pt.
+
+Overfull \hbox (19.64827pt too wide) in paragraph at lines 91--93
+ [][] 
+ []
+
+[4 <./Chapter-1/Figures/federal expenditure.JPG> <./Chapter-1/Figures/state and local expenditure.JPG>] [5 <./Chapter-1/Figures/Venn graph on public goods.jpeg>] [6]
 Overfull \hbox (45.9848pt too wide) in paragraph at lines 157--172
 [][] 
  []
 
-) [7]
+[7]) [8]
 \openout2 = `Chapter-2/Chapter-2.aux'.
 
  (./Chapter-2/Chapter-2.tex
@@ -840,134 +868,220 @@ Overfull \hbox (10.40526pt too wide) in paragraph at lines 11--29
  [][][] 
  []
 
-[8
+[9
 
 
 
 
-] [9] [10] [11]
-<Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg, id=86, 487.8225pt x 294.04857pt>
+] [10] [11] [12] [13]
+<Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg, id=95, 487.8225pt x 294.04857pt>
 File: Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg Graphic file (type jpg)
 <use Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg>
-Package pdftex.def Info: Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg  used on input line 57.
+Package pdftex.def Info: Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg  used on input line 74.
 (pdftex.def)             Requested size: 487.8213pt x 294.04785pt.
 
-Overfull \hbox (39.74641pt too wide) in paragraph at lines 57--59
+Overfull \hbox (39.74641pt too wide) in paragraph at lines 74--76
  [][] 
  []
 
-[12] [13 <./Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg>] [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+[14 <./Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg>] [15] [16] [17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+[]|\T1/lmr/m/n/12 (+20) 2000-2019
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+\T1/lmr/m/n/12 (+20) an-nu-ally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
 []|\T1/lmr/m/n/12 (+20) Working age
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
 \T1/lmr/m/n/12 (+20) pop-u-la-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 138--138
+Underfull \hbox (badness 3460) in paragraph at lines 156--156
 []|\T1/lmr/m/n/12 (+20) State me-dian
  []
 
 
-Underfull \hbox (badness 5862) in paragraph at lines 138--138
+Underfull \hbox (badness 5862) in paragraph at lines 156--156
 \T1/lmr/m/n/12 (+20) house-hold in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
 []|\T1/lmr/m/n/12 (+6) unemployment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--142
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
 []|\T1/lmr/m/n/12 (+20) public road
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--142
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
 []|\T1/lmr/m/n/12 (+20) Bureau of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--142
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
 \T1/lmr/m/n/12 (+20) trans-porta-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
-[17]
-<Chapter-2/Figures/pca.jpg, id=106, 424.58624pt x 292.09125pt>
-File: Chapter-2/Figures/pca.jpg Graphic file (type jpg)
-<use Chapter-2/Figures/pca.jpg>
-Package pdftex.def Info: Chapter-2/Figures/pca.jpg  used on input line 155.
-(pdftex.def)             Requested size: 424.5852pt x 292.09052pt.
- [18] [19 <./Chapter-2/Figures/pca.jpg>]) [20]
+[19] [20]
+<Chapter-2/Figures/pca.png, id=119, 462.528pt x 346.896pt>
+File: Chapter-2/Figures/pca.png Graphic file (type png)
+<use Chapter-2/Figures/pca.png>
+Package pdftex.def Info: Chapter-2/Figures/pca.png  used on input line 177.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (14.45197pt too wide) in paragraph at lines 177--179
+ [][] 
+ []
+
+[21 <./Chapter-2/Figures/pca.png>] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+[]|\T1/lmr/m/n/12 (+7) Dependent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+[]|\T1/lmr/m/n/12 (+20) Combinations of lev-els,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[]|\T1/lmr/m/n/12 (+20) Working age pop-u-la-tion
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 223--223
+
+ []
+
+[24]
+<Chapter-2/Figures/IGT and factors.jpg, id=135, 452.4403pt x 338.76563pt>
+File: Chapter-2/Figures/IGT and factors.jpg Graphic file (type jpg)
+<use Chapter-2/Figures/IGT and factors.jpg>
+Package pdftex.def Info: Chapter-2/Figures/IGT and factors.jpg  used on input line 250.
+(pdftex.def)             Requested size: 452.43921pt x 338.76479pt.
+
+Overfull \hbox (4.36432pt too wide) in paragraph at lines 250--252
+ [][] 
+ []
+
+[25 <./Chapter-2/Figures/IGT and factors.jpg>] [26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 359--359
+[]|\T1/lmr/m/n/12 (+20) Democratic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+[]|\T1/lmr/m/n/12 (+20) working age
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+\T1/lmr/m/n/12 (+20) pop-u-la-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
+[]|\T1/lmr/m/n/12 (+20) Log(median
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
+\T1/lmr/m/n/12 (+20) house-hold in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--369
+[]|\T1/lmr/m/n/12 (+20) unemployment
+ []
+
+[28] [29] [30] [31]) [32]
 \openout2 = `Chapter-3/Chapter-3.aux'.
 
  (./Chapter-3/Chapter-3.tex
 Chapter 3.
-) [21
+<Chapter-3/Figures/Effect of Intergovernmental Transfer.jpeg, id=163, 1254.3663pt x 850.1361pt>
+File: Chapter-3/Figures/Effect of Intergovernmental Transfer.jpeg Graphic file (type jpg)
+<use Chapter-3/Figures/Effect of Intergovernmental Transfer.jpeg>
+Package pdftex.def Info: Chapter-3/Figures/Effect of Intergovernmental Transfer.jpeg  used on input line 8.
+(pdftex.def)             Requested size: 501.73764pt x 340.04842pt.
+
+Overfull \hbox (53.66275pt too wide) in paragraph at lines 8--10
+ [][] 
+ []
+
+[33
 
 
 
 
-]
+] [34 <./Chapter-3/Figures/Effect of Intergovernmental Transfer.jpeg>]) [35]
 \openout2 = `Chapter-4/Chapter-4.aux'.
 
  (./Chapter-4/Chapter-4.tex
 Chapter 4.
-) [22
+) [36
 
 
 
@@ -977,7 +1091,7 @@ Chapter 4.
 
  (./Chapter-5/Chapter-5.tex
 Chapter 5.
-) [23
+) [37
 
 
 
@@ -987,7 +1101,7 @@ Chapter 5.
 
  (./Chapter-6/Chapter-6.tex
 Chapter 6.
-) [24
+) [38
 
 
 
@@ -997,62 +1111,89 @@ Chapter 6.
 
  (./Appendix-A/Appendix-A.tex
 Appendix A.
-<Chapter-1/Figures/source of federal revenue.JPG, id=129, 374.14781pt x 518.6878pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\T1/lmr/m/n/12 (+20) Bureau of trans-
+ []
+
+
+Overfull \hbox (1.69751pt too wide) in paragraph at lines 9--25
+ [][][] 
+ []
+
+<Chapter-1/Figures/source of federal revenue.JPG, id=183, 374.14781pt x 518.6878pt>
 File: Chapter-1/Figures/source of federal revenue.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/source of federal revenue.JPG>
-Package pdftex.def Info: Chapter-1/Figures/source of federal revenue.JPG  used on input line 17.
+Package pdftex.def Info: Chapter-1/Figures/source of federal revenue.JPG  used on input line 38.
 (pdftex.def)             Requested size: 194.55797pt x 269.71921pt.
-<Chapter-1/Figures/source of state and local revenue.JPG, id=130, 539.76656pt x 243.91125pt>
+<Chapter-1/Figures/source of state and local revenue.JPG, id=184, 539.76656pt x 243.91125pt>
 File: Chapter-1/Figures/source of state and local revenue.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/source of state and local revenue.JPG>
-Package pdftex.def Info: Chapter-1/Figures/source of state and local revenue.JPG  used on input line 23.
+Package pdftex.def Info: Chapter-1/Figures/source of state and local revenue.JPG  used on input line 44.
 (pdftex.def)             Requested size: 280.68022pt x 126.83456pt.
 
-Overfull \hbox (81.51094pt too wide) in paragraph at lines 23--23
+Overfull \hbox (81.51094pt too wide) in paragraph at lines 44--44
  [][] 
  []
 
-) [25
+[39
 
 
 
 
- <./Chapter-1/Figures/source of federal revenue.JPG> <./Chapter-1/Figures/source of state and local revenue.JPG>]
+]
+<Appendix-A/republican.jpg, id=189, 566.115pt x 258.21469pt>
+File: Appendix-A/republican.jpg Graphic file (type jpg)
+<use Appendix-A/republican.jpg>
+Package pdftex.def Info: Appendix-A/republican.jpg  used on input line 54.
+(pdftex.def)             Requested size: 396.2778pt x 180.74904pt.
+<Appendix-A/democratic.jpg, id=190, 592.46344pt x 312.41719pt>
+File: Appendix-A/democratic.jpg Graphic file (type jpg)
+<use Appendix-A/democratic.jpg>
+Package pdftex.def Info: Appendix-A/democratic.jpg  used on input line 62.
+(pdftex.def)             Requested size: 414.72157pt x 218.69052pt.
+ [40 <./Chapter-1/Figures/source of federal revenue.JPG> <./Chapter-1/Figures/source of state and local revenue.JPG> <./Appendix-A/republican.jpg>]
+<Appendix-A/swing.jpg, id=194, 511.9125pt x 359.09157pt>
+File: Appendix-A/swing.jpg Graphic file (type jpg)
+<use Appendix-A/swing.jpg>
+Package pdftex.def Info: Appendix-A/swing.jpg  used on input line 70.
+(pdftex.def)             Requested size: 358.3363pt x 251.36238pt.
+) [41 <./Appendix-A/democratic.jpg> <./Appendix-A/swing.jpg>]
 \openout2 = `Appendix-B/Appendix-B.aux'.
 
  (./Appendix-B/Appendix-B.tex
 Appendix B.
-) [26
+) [42
 
 
 
 
-] [27]
+] [43]
 \openout2 = `Appendix-C/Appendix-C.aux'.
 
  (./Appendix-C/Appendix-C.tex
 Appendix C.
-) [28
+) [44
 
 
 
 
-] [29]
+] [45]
 \openout2 = `Appendix-D/Appendix-D.aux'.
 
  (./Appendix-D/Appendix-D.tex
 Appendix D.
-) [30
+) [46
 
 
 
 
-] [31]
+] [47]
 \openout2 = `Appendix-E/Appendix-E.aux'.
 
  (./Appendix-E/Appendix-E.tex
 Appendix E.
-) [32
+) [48
 
 
 
@@ -1061,11 +1202,11 @@ Appendix E.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
- [33
+ [49
 
 
 
-] [34] [35]) [36] (./SupplementaryMaterial/Vita.tex) [37
+] [50] [51] [52]) [53] (./SupplementaryMaterial/Vita.tex) [54
 
 ] (./YourName-Dissertation.aux (./Chapter-1/Chapter-1.aux) (./Chapter-2/Chapter-2.aux) (./Chapter-3/Chapter-3.aux) (./Chapter-4/Chapter-4.aux) (./Chapter-5/Chapter-5.aux) (./Chapter-6/Chapter-6.aux) (./Appendix-A/Appendix-A.aux) (./Appendix-B/Appendix-B.aux) (./Appendix-C/Appendix-C.aux) (./Appendix-D/Appendix-D.aux) (./Appendix-E/Appendix-E.aux))
 
@@ -1073,18 +1214,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 15563 strings out of 476093
- 308366 string characters out of 5789096
- 1865787 words of memory out of 5000000
- 35343 multiletter control sequences out of 15000+600000
- 590257 words of font info for 193 fonts, out of 8000000 for 9000
+ 15789 strings out of 476093
+ 312867 string characters out of 5789096
+ 1873787 words of memory out of 5000000
+ 35541 multiletter control sequences out of 15000+600000
+ 591097 words of font info for 201 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,14n,77p,2520b,720s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on YourName-Dissertation.pdf (47 pages, 1087451 bytes).
+ 72i,15n,77p,2522b,752s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
+Output written on YourName-Dissertation.pdf (65 pages, 3666741 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
+ 298 PDF objects out of 1000 (max. 8388607)
+ 188 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 43576 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 43601 words of extra memory for PDF output out of 51595 (max. 10000000)
 
