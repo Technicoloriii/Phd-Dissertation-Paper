@@ -169,20 +169,40 @@ The social and economic characteristics that commonly included in the formula wh
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 As mentioned above, too many factors may exists in the formula that decides the grants distribution. What's even worse, one can distinguish the multicollinearity problem in the variables I collected just by intuition, for example, working age population weight and unemployment rate are strongly related variables, higher population is doomed to occupy more public road. To answer the first question,these two problems are obvious hinder thus it's hard to judge how similar jurisdictions could be in social and economic characteristics directly. So I conduct a primary components analysis to reduce the data dimension and overcome multicollinearity problem to check if the reduced-dimension data are cluster distributed or scattered distributed.
 
-According to the primary components variance analysis result, the explained variance of each primary components ration is $ [9.26107325e-01 6.46212361e-02 8.18645817e-03 1.03638367e-03
-            4.62668749e-05 2.33064549e-06]$, the first two dimension 97.5\% of the information, thus I only keep the first two dimensions. By only keeping the two principle components with most information, comparing the characteristics between jurisdictions became a possible procedure. The scatter plot after data dimension reduction is shown as Figure \ref*{Figure 2.2}
+According to the primary components variance analysis result, the explained variance of each primary components ratio is:
+
+$$[9.2615e^{-01}\ 6.4621^{-02}\ 8.1864e^{-03}\ 1.0363e^{-03}\ 4.6269e^{-05}\ 2.3309e^{-06}]$$
+The first two dimensions express 93.2\% of the information. The first three dimensions include 94.5\% of the information. Thus I did principle components analysis by compress the data into two and three dimensions separately. By keeping these two and three principle components with most information, comparing the characteristics between jurisdictions became a possible procedure. The scatter plot after data dimension reduction is shown as Figure \ref*{Figure 2.2}
+
+% \begin{figure}[H]
+%     \centering
+%     \includegraphics[scale=1]{Chapter-2/Figures/pca.png}
+%     \caption[Social Characteristics Principle components Analysis]{Social Characteristics Principle Component Analysis
+%         \texttt{} }
+%     \label{Figure 2.2}
+% \end{figure}
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[scale=1]{Chapter-2/Figures/pca.png}
-    \caption[Social Characteristics Principle components Analysis]{Social Characteristics Principle Component Analysis
-        \texttt{} }
-    \label{Figure 2.2}
+    \centering  %居中
+    \subfigure[2 Principle Components Analysis Scatter]{   %第一张子图
+        \begin{minipage}{7cm}
+            \centering    %子图居中
+            \includegraphics[scale=0.45]{Chapter-2/Figures/pca.png}  %以pic.jpg的0.5倍大小输出
+        \end{minipage}
+    }
+    \subfigure[3 principle Components Analysis Scatter]{ %第二张子图
+        \begin{minipage}{7cm}
+            \centering    %子图居中
+            \includegraphics[scale=0.45]{Chapter-2/Figures/pca_3d.png}%以pic.jpg的0.5倍大小输出
+        \end{minipage}
+    }
+    \caption[Principle Components Analysis Scatter Plot]{Social Characteristics Principle Components Analysis Scatter Plot}    %大图名称
+    \label{Figure 2.2}    %图片引用标记
 \end{figure}
 
 Though reduced dimensions do not have specific economic meaning, but one clear information shown in Figure \ref*{Figure 2.2} is that a lot of states characteristics are cluster distributed, which means plenty jurisdiction features in my data are quite are quite similar. This implication is a side evidence for Martin's \cite{martin2018dividing} deduction that some jurisdiction with similar features can be a free riders, this also predicts the funds outflow of the winning coalition.
 
-Another potential implication is that, the distribution is obviously hierarchical  in terms political parties. Republican states, republican states and swing states are clearly cluster distributed in their own area. Red dots and blue dots distributes on two sides while swing states in the middle. This means any modification on the grants formula that benefits one party is a huge damage to another. This may explain why in the legislative bargaining process, two parties are sharply opposed and swing states are relatively indifferent. This is not counterintuitive, since traditional republican states are highly likely to share similar social characteristics, but this figure may offer a different view on any fiscal collective behavior of the party. When a member in the bargaining process take any behavior, are they doing that due to their political status or arguing benefits for their represented jurisdiction? It seems that any collective political behavior within a party should find a micro-foundation. In other words, when analyze the motivation,one should focus on the motivation of particular member rather than the benefits that a group can take.
+Another potential implication is that, the distribution is obviously hierarchical in terms political parties. Republican states, democratic states and swing states are clearly cluster distributed in their own area. In 2d plot shown in Figure \ref*{Figure 2.2} (a) , Red dots and blue dots distributes on two sides while swing states in the middle. This means any modification on the grants formula that benefits one party is a huge damage to another. This may explain why in the legislative bargaining process, two parties are sharply opposed and swing states are relatively indifferent. What makes Swing states different from the other parties is implied in the 3-D plot shown in Figure \ref*{Figure 2.2} (b), the green dots are not in the same level in the third dimension. This is not counterintuitive, since traditional republican states are highly likely to share similar social characteristics, but this figure may offer a different view on any fiscal collective behavior of the party. When a member in the bargaining process take any behavior, are they doing that due to their political status or arguing benefits for their represented jurisdiction? It seems that any collective political behavior within a party should find a micro-foundation. In other words, when analyze the motivation, one should focus on the motivation of particular member rather than the motivation of a whole group.
 
 \subsection{Political Impact Investigation}
 %%political factor regression

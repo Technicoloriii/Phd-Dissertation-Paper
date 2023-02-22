@@ -15,45 +15,45 @@ A level-1 auxiliary file: Appendix-E/Appendix-E.aux
 The style file: GLG-bibstyle.bst
 Database file #1: Biblio-Database.bib
 Warning--empty journal in gamkhar2007impact
-You've used 59 entries,
+You've used 64 entries,
             2552 wiz_defined-function locations,
-            920 strings with 13104 characters,
-and the built_in function-call counts, 25187 in all, are:
-= -- 1934
-> -- 495
-< -- 47
-+ -- 161
-- -- 102
-* -- 1677
-:= -- 2568
-add.period$ -- 112
-call.type$ -- 59
-change.case$ -- 1
+            943 strings with 13713 characters,
+and the built_in function-call counts, 27183 in all, are:
+= -- 2090
+> -- 525
+< -- 51
++ -- 172
+- -- 108
+* -- 1799
+:= -- 2775
+add.period$ -- 121
+call.type$ -- 64
+change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 60
-duplicate$ -- 2728
-empty$ -- 2655
-format.name$ -- 130
-if$ -- 5859
+cite$ -- 65
+duplicate$ -- 2947
+empty$ -- 2872
+format.name$ -- 137
+if$ -- 6325
 int.to.chr$ -- 0
-int.to.str$ -- 59
-missing$ -- 486
-newline$ -- 184
-num.names$ -- 59
-pop$ -- 679
+int.to.str$ -- 64
+missing$ -- 524
+newline$ -- 199
+num.names$ -- 64
+pop$ -- 740
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 953
+skip$ -- 1029
 stack$ -- 0
-substring$ -- 1477
-swap$ -- 1869
-text.length$ -- 47
+substring$ -- 1593
+swap$ -- 2013
+text.length$ -- 51
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 196
-width$ -- 61
-write$ -- 527
+while$ -- 213
+width$ -- 66
+write$ -- 572
 (There was 1 warning)
