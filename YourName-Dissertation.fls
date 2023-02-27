@@ -664,12 +664,6 @@ INPUT ./Chapter-3/Chapter-3.tex
 INPUT ./Chapter-4/Chapter-4.tex
 INPUT ./Chapter-4/Chapter-4.tex
 INPUT ./Chapter-4/Chapter-4.tex
-INPUT ./Chapter-5/Chapter-5.tex
-INPUT ./Chapter-5/Chapter-5.tex
-INPUT ./Chapter-5/Chapter-5.tex
-INPUT ./Chapter-6/Chapter-6.tex
-INPUT ./Chapter-6/Chapter-6.tex
-INPUT ./Chapter-6/Chapter-6.tex
 INPUT ./Appendix-A/Appendix-A.tex
 INPUT ./Appendix-A/Appendix-A.tex
 INPUT ./Appendix-A/Appendix-A.tex
@@ -724,12 +718,6 @@ INPUT Chapter-3/Chapter-3.aux
 INPUT ./Chapter-4/Chapter-4.aux
 INPUT Chapter-4/Chapter-4.aux
 INPUT Chapter-4/Chapter-4.aux
-INPUT ./Chapter-5/Chapter-5.aux
-INPUT Chapter-5/Chapter-5.aux
-INPUT Chapter-5/Chapter-5.aux
-INPUT ./Chapter-6/Chapter-6.aux
-INPUT Chapter-6/Chapter-6.aux
-INPUT Chapter-6/Chapter-6.aux
 INPUT ./Appendix-A/Appendix-A.aux
 INPUT Appendix-A/Appendix-A.aux
 INPUT Appendix-A/Appendix-A.aux
@@ -1004,6 +992,16 @@ INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmr7.tfm
+INPUT ./Chapter-3/Figures/mfyeffect.jpg
+INPUT ./Chapter-3/Figures/mfyeffect.jpg
+INPUT Chapter-3/Figures/mfyeffect.jpg
+INPUT ./Chapter-3/Figures/mfyeffect.jpg
+INPUT ./Chapter-3/Figures/mfyeffect.jpg
+INPUT ./Chapter-3/Figures/budget constrain distortion.jpg
+INPUT ./Chapter-3/Figures/budget constrain distortion.jpg
+INPUT Chapter-3/Figures/budget constrain distortion.jpg
+INPUT ./Chapter-3/Figures/budget constrain distortion.jpg
+INPUT ./Chapter-3/Figures/budget constrain distortion.jpg
 INPUT ./Chapter-4/Chapter-4.tex
 INPUT ./Chapter-4/Chapter-4.tex
 INPUT ./Chapter-4/Chapter-4.tex
@@ -1014,26 +1012,6 @@ INPUT ./Chapter-4/Chapter-4.tex
 INPUT Chapter-4/Chapter-4.tex
 INPUT ./Chapter-4/Chapter-4.tex
 INPUT Chapter-4/Chapter-4.tex
-INPUT ./Chapter-5/Chapter-5.tex
-INPUT ./Chapter-5/Chapter-5.tex
-INPUT ./Chapter-5/Chapter-5.tex
-OUTPUT Chapter-5/Chapter-5.aux
-INPUT ./Chapter-5/Chapter-5.tex
-INPUT ./Chapter-5/Chapter-5.tex
-INPUT ./Chapter-5/Chapter-5.tex
-INPUT Chapter-5/Chapter-5.tex
-INPUT ./Chapter-5/Chapter-5.tex
-INPUT Chapter-5/Chapter-5.tex
-INPUT ./Chapter-6/Chapter-6.tex
-INPUT ./Chapter-6/Chapter-6.tex
-INPUT ./Chapter-6/Chapter-6.tex
-OUTPUT Chapter-6/Chapter-6.aux
-INPUT ./Chapter-6/Chapter-6.tex
-INPUT ./Chapter-6/Chapter-6.tex
-INPUT ./Chapter-6/Chapter-6.tex
-INPUT Chapter-6/Chapter-6.tex
-INPUT ./Chapter-6/Chapter-6.tex
-INPUT Chapter-6/Chapter-6.tex
 INPUT ./Appendix-A/Appendix-A.tex
 INPUT ./Appendix-A/Appendix-A.tex
 INPUT ./Appendix-A/Appendix-A.tex
@@ -1134,12 +1112,6 @@ INPUT Chapter-3/Chapter-3.aux
 INPUT ./Chapter-4/Chapter-4.aux
 INPUT Chapter-4/Chapter-4.aux
 INPUT Chapter-4/Chapter-4.aux
-INPUT ./Chapter-5/Chapter-5.aux
-INPUT Chapter-5/Chapter-5.aux
-INPUT Chapter-5/Chapter-5.aux
-INPUT ./Chapter-6/Chapter-6.aux
-INPUT Chapter-6/Chapter-6.aux
-INPUT Chapter-6/Chapter-6.aux
 INPUT ./Appendix-A/Appendix-A.aux
 INPUT Appendix-A/Appendix-A.aux
 INPUT Appendix-A/Appendix-A.aux

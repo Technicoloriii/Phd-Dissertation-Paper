@@ -5,8 +5,6 @@ A level-1 auxiliary file: Chapter-1/Chapter-1.aux
 A level-1 auxiliary file: Chapter-2/Chapter-2.aux
 A level-1 auxiliary file: Chapter-3/Chapter-3.aux
 A level-1 auxiliary file: Chapter-4/Chapter-4.aux
-A level-1 auxiliary file: Chapter-5/Chapter-5.aux
-A level-1 auxiliary file: Chapter-6/Chapter-6.aux
 A level-1 auxiliary file: Appendix-A/Appendix-A.aux
 A level-1 auxiliary file: Appendix-B/Appendix-B.aux
 A level-1 auxiliary file: Appendix-C/Appendix-C.aux
@@ -15,45 +13,46 @@ A level-1 auxiliary file: Appendix-E/Appendix-E.aux
 The style file: GLG-bibstyle.bst
 Database file #1: Biblio-Database.bib
 Warning--empty journal in gamkhar2007impact
-You've used 64 entries,
+Warning--can't use both volume and number fields in karnik2008flypaper
+You've used 77 entries,
             2552 wiz_defined-function locations,
-            943 strings with 13713 characters,
-and the built_in function-call counts, 27183 in all, are:
-= -- 2090
-> -- 525
-< -- 51
-+ -- 172
-- -- 108
-* -- 1799
-:= -- 2775
-add.period$ -- 121
-call.type$ -- 64
+            1009 strings with 15465 characters,
+and the built_in function-call counts, 32240 in all, are:
+= -- 2475
+> -- 610
+< -- 62
++ -- 202
+- -- 125
+* -- 2124
+:= -- 3297
+add.period$ -- 146
+call.type$ -- 77
 change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 65
-duplicate$ -- 2947
-empty$ -- 2872
-format.name$ -- 137
-if$ -- 6325
+cite$ -- 79
+duplicate$ -- 3500
+empty$ -- 3421
+format.name$ -- 158
+if$ -- 7503
 int.to.chr$ -- 0
-int.to.str$ -- 64
-missing$ -- 524
-newline$ -- 199
-num.names$ -- 64
-pop$ -- 740
+int.to.str$ -- 77
+missing$ -- 624
+newline$ -- 238
+num.names$ -- 77
+pop$ -- 885
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1029
+skip$ -- 1219
 stack$ -- 0
-substring$ -- 1593
-swap$ -- 2013
-text.length$ -- 51
+substring$ -- 1869
+swap$ -- 2385
+text.length$ -- 62
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 213
-width$ -- 66
-write$ -- 572
-(There was 1 warning)
+warning$ -- 2
+while$ -- 255
+width$ -- 79
+write$ -- 686
+(There were 2 warnings)

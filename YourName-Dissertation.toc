@@ -1,8 +1,8 @@
 \acswitchoff 
-\contentsline {chapter}{List of Figures}{vii}{}%
-\contentsline {chapter}{List of Tables}{viii}{}%
-\contentsline {chapter}{List of Symbols}{ix}{}%
-\contentsline {chapter}{Acknowledgments}{xi}{}%
+\contentsline {chapter}{List of Figures}{vi}{}%
+\contentsline {chapter}{List of Tables}{vii}{}%
+\contentsline {chapter}{List of Symbols}{viii}{}%
+\contentsline {chapter}{Acknowledgments}{x}{}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{}%
 \contentsline {section}{\numberline {1.1}About Fiscal Federalism}{1}{}%
 \contentsline {subsection}{\numberline {1.1.1}Fiscal Federalism Structure in America}{2}{}%
@@ -30,30 +30,25 @@
 \contentsline {subsection}{\numberline {3.1.1}Effect of IGT on Local Governments' Total Spending Amounts}{34}{}%
 \contentsline {subsubsection}{\numberline {3.1.1.1}Phrase One}{37}{}%
 \contentsline {subsubsection}{\numberline {3.1.1.2}Phrase two}{39}{}%
-\contentsline {subsubsection}{\numberline {3.1.1.3}Phrase Three}{39}{}%
-\contentsline {subsection}{\numberline {3.1.2}Effect of IGT on Local Governments' Spending Segments}{39}{}%
-\contentsline {section}{\numberline {3.2}}{39}{}%
-\contentsline {chapter}{\numberline {4}What is the Actual Decision Making Process in the Central Government}{40}{}%
-\contentsline {section}{\numberline {4.1}The Actual Decision-making Process of Intergovernmental Transfer in America}{40}{}%
-\contentsline {chapter}{\numberline {5}What is the Effect of Fiscal Policy on Local Government}{41}{}%
-\contentsline {section}{\numberline {5.1}How to Explain the Fly Paper Effect}{41}{}%
-\contentsline {section}{\numberline {5.2}What May be the Impact on the Supply of Public Goods of Local Government}{41}{}%
-\contentsline {chapter}{\numberline {6}How to Explain the Difference between the Asymmetric Behavior between central and local government.}{42}{}%
-\contentsline {section}{\numberline {6.1}How to Explain the Fly Paper Effect}{42}{}%
-\contentsline {section}{\numberline {6.2}What May be the Impact on the Supply of Public Goods of Local Government}{42}{}%
+\contentsline {subsubsection}{\numberline {3.1.1.3}Phrase Three}{40}{}%
+\contentsline {subsection}{\numberline {3.1.2}Effect of IGT on Local Governments' Spending Segments}{41}{}%
+\contentsline {section}{\numberline {3.2}Effect of IGT on Local Governments' Revenue Collection Behavior}{42}{}%
+\contentsline {chapter}{\numberline {4}Empirical Investigation on Local Governments' Behavior}{43}{}%
+\contentsline {section}{\numberline {4.1}The Investigation on the tax effort}{43}{}%
+\contentsline {section}{\numberline {4.2}The investigation on debt and soft budget issue}{43}{}%
 \renewcommand {\cftchappresnum }{Appendix }
-\contentsline {chapter}{\numberline {A}Supportive Data and Figures}{43}{}%
-\contentsline {section}{\numberline {A.1}Data}{43}{}%
-\contentsline {section}{\numberline {A.2}Figures}{44}{}%
-\contentsline {chapter}{\numberline {B}Results}{46}{}%
-\contentsline {section}{\numberline {B.1}Introduction}{46}{}%
-\contentsline {section}{\numberline {B.2}More Declaration}{46}{}%
-\contentsline {chapter}{\numberline {C}Appendix for the proof}{47}{}%
-\contentsline {section}{\numberline {C.1}Introduction}{47}{}%
-\contentsline {section}{\numberline {C.2}More Declaration}{47}{}%
-\contentsline {chapter}{\numberline {D}Title of the Fourth Appendix}{48}{}%
-\contentsline {section}{\numberline {D.1}Introduction}{48}{}%
-\contentsline {section}{\numberline {D.2}More Declaration}{48}{}%
-\contentsline {chapter}{\numberline {E}Title of the Fifth Appendix}{49}{}%
-\contentsline {section}{\numberline {E.1}Introduction}{49}{}%
-\contentsline {chapter}{Bibliography}{50}{}%
+\contentsline {chapter}{\numberline {A}Supportive Data and Figures}{44}{}%
+\contentsline {section}{\numberline {A.1}Data}{44}{}%
+\contentsline {section}{\numberline {A.2}Figures}{45}{}%
+\contentsline {chapter}{\numberline {B}Results}{47}{}%
+\contentsline {section}{\numberline {B.1}Introduction}{47}{}%
+\contentsline {section}{\numberline {B.2}More Declaration}{47}{}%
+\contentsline {chapter}{\numberline {C}Appendix for the proof}{48}{}%
+\contentsline {section}{\numberline {C.1}Introduction}{48}{}%
+\contentsline {section}{\numberline {C.2}More Declaration}{48}{}%
+\contentsline {chapter}{\numberline {D}Title of the Fourth Appendix}{49}{}%
+\contentsline {section}{\numberline {D.1}Introduction}{49}{}%
+\contentsline {section}{\numberline {D.2}More Declaration}{49}{}%
+\contentsline {chapter}{\numberline {E}Title of the Fifth Appendix}{50}{}%
+\contentsline {section}{\numberline {E.1}Introduction}{50}{}%
+\contentsline {chapter}{Bibliography}{51}{}%

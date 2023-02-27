@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Yan_Hao_PhD-Dissertation.aux
+A level-1 auxiliary file: Chapter-1/Chapter-1.aux
+A level-1 auxiliary file: Chapter-2/Chapter-2.aux
+A level-1 auxiliary file: Chapter-3/Chapter-3.aux
+A level-1 auxiliary file: Chapter-4/Chapter-4.aux
+A level-1 auxiliary file: Appendix-A/Appendix-A.aux
+A level-1 auxiliary file: Appendix-B/Appendix-B.aux
+A level-1 auxiliary file: Appendix-C/Appendix-C.aux
+A level-1 auxiliary file: Appendix-D/Appendix-D.aux
+A level-1 auxiliary file: Appendix-E/Appendix-E.aux
+The style file: GLG-bibstyle.bst
+Database file #1: Biblio-Database.bib
+Warning--empty journal in gamkhar2007impact
+Warning--can't use both volume and number fields in karnik2008flypaper
+You've used 77 entries,
+            2552 wiz_defined-function locations,
+            1009 strings with 15471 characters,
+and the built_in function-call counts, 32240 in all, are:
+= -- 2475
+> -- 610
+< -- 62
++ -- 202
+- -- 125
+* -- 2124
+:= -- 3297
+add.period$ -- 146
+call.type$ -- 77
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 79
+duplicate$ -- 3500
+empty$ -- 3421
+format.name$ -- 158
+if$ -- 7503
+int.to.chr$ -- 0
+int.to.str$ -- 77
+missing$ -- 624
+newline$ -- 238
+num.names$ -- 77
+pop$ -- 885
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1219
+stack$ -- 0
+substring$ -- 1869
+swap$ -- 2385
+text.length$ -- 62
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 255
+width$ -- 79
+write$ -- 686
+(There were 2 warnings)
