@@ -14,45 +14,47 @@ The style file: GLG-bibstyle.bst
 Database file #1: Biblio-Database.bib
 Warning--empty journal in gamkhar2007impact
 Warning--can't use both volume and number fields in karnik2008flypaper
-You've used 77 entries,
+Warning--there's a number but no volume in fuyong2010
+Warning--missing institution in bravo2013income
+You've used 94 entries,
             2552 wiz_defined-function locations,
-            1009 strings with 15471 characters,
-and the built_in function-call counts, 32240 in all, are:
-= -- 2475
-> -- 610
-< -- 62
-+ -- 202
-- -- 125
-* -- 2124
-:= -- 3297
-add.period$ -- 146
-call.type$ -- 77
-change.case$ -- 2
+            1096 strings with 18009 characters,
+and the built_in function-call counts, 39127 in all, are:
+= -- 2983
+> -- 753
+< -- 74
++ -- 248
+- -- 154
+* -- 2579
+:= -- 3999
+add.period$ -- 177
+call.type$ -- 94
+change.case$ -- 3
 chr.to.int$ -- 0
-cite$ -- 79
-duplicate$ -- 3500
-empty$ -- 3421
-format.name$ -- 158
-if$ -- 7503
+cite$ -- 98
+duplicate$ -- 4262
+empty$ -- 4158
+format.name$ -- 197
+if$ -- 9111
 int.to.chr$ -- 0
-int.to.str$ -- 77
-missing$ -- 624
-newline$ -- 238
-num.names$ -- 77
-pop$ -- 885
+int.to.str$ -- 94
+missing$ -- 760
+newline$ -- 289
+num.names$ -- 94
+pop$ -- 1088
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1219
+skip$ -- 1476
 stack$ -- 0
-substring$ -- 1869
-swap$ -- 2385
-text.length$ -- 62
+substring$ -- 2223
+swap$ -- 2901
+text.length$ -- 74
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 255
-width$ -- 79
-write$ -- 686
-(There were 2 warnings)
+warning$ -- 4
+while$ -- 303
+width$ -- 96
+write$ -- 834
+(There were 4 warnings)

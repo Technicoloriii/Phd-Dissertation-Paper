@@ -83,7 +83,12 @@
 \usepackage{lmodern}
 \usepackage{textcomp}
 \usepackage{microtype}
+%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%中文引用%%%%%%
+% \usepackage{CJKutf8}
+% \AtBeginDocument{\begin{CJK}{UTF8}{gbsn}}
 
+% \AtEndDocument{\end{CJK}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Packages I like to use. %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -322,22 +327,22 @@ Appendix-E/Appendix-E%
 
 % Generates the List of Figures
 \begin{singlespace}
-  \renewcommand{\listfigurename}{\sffamily\Huge List of Figures}
-  \setlength{\cftparskip}{\baselineskip}
-  \addcontentsline{toc}{chapter}{List of Figures}
-  %\fancypagestyle{plain}{%
-  %\fancyhf{} % clear all header and footer fields
-  %\fancyfoot[C]{\thepage}} % except the center
-  \listoffigures
+    \renewcommand{\listfigurename}{\sffamily\Huge List of Figures}
+    \setlength{\cftparskip}{\baselineskip}
+    \addcontentsline{toc}{chapter}{List of Figures}
+    %\fancypagestyle{plain}{%
+    %\fancyhf{} % clear all header and footer fields
+    %\fancyfoot[C]{\thepage}} % except the center
+    \listoffigures
 \end{singlespace}
 \clearpage
 
 % Generates the List of Tables
 \begin{singlespace}
-  \renewcommand{\listtablename}{\sffamily\Huge List of Tables}
-  \setlength{\cftparskip}{\baselineskip}
-  \addcontentsline{toc}{chapter}{List of Tables}
-  \listoftables
+    \renewcommand{\listtablename}{\sffamily\Huge List of Tables}
+    \setlength{\cftparskip}{\baselineskip}
+    \addcontentsline{toc}{chapter}{List of Tables}
+    \listoftables
 \end{singlespace}
 \clearpage
 
@@ -368,47 +373,47 @@ Appendix-E/Appendix-E%
 % closing the "}" just before the bibliography.  %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \allowdisplaybreaks{
-  %\pagestyle{fancy}
-  %\fancyhead{}
-  %
-  %%%%%%%%%%%%%%%%%%%%%%
-  % THE ACTUAL CONTENT %
-  %%%%%%%%%%%%%%%%%%%%%%
-  % Chapters
-  \include{Chapter-1/Chapter-1}
-  \include{Chapter-2/Chapter-2}
-  \include{Chapter-3/Chapter-3}
-  \include{Chapter-4/Chapter-4}
-  % \include{Chapter-5/Chapter-5}
-  % \include{Chapter-6/Chapter-6}
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  % Appendices
-  %
-  % Because of a quirk in LaTeX (see p. 48 of The LaTeX
-  % Companion, 2e), you cannot use \include along with
-  % \addtocontents if you want things to appear the proper
-  % sequence.
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \appendix
-  \titleformat{\chapter}[display]{\fontsize{30}{30}\selectfont\bfseries\sffamily}{Appendix \thechapter\textcolor{gray75}{\raisebox{3pt}{|}}}{0pt}{}{}
-  % If you have a single appendix, then to prevent LaTeX from
-  % calling it ``Appendix A'', you should uncomment the following two
-  % lines that redefine the \thechapter and \thesection:
-  %\renewcommand\thechapter{}
-  %\renewcommand\thesection{\arabic{section}}
-  \include{Appendix-A/Appendix-A}
-  \include{Appendix-B/Appendix-B}
-  \include{Appendix-C/Appendix-C}
-  \include{Appendix-D/Appendix-D}
-  \include{Appendix-E/Appendix-E}
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  % ESM students need to include a Nontechnical Abstract as the %
-  % last appendix.                                              %
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  % This \include command should point to the file containing
-  % that abstract.
-  %\include{nontechnical-abstract}
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %\pagestyle{fancy}
+    %\fancyhead{}
+    %
+    %%%%%%%%%%%%%%%%%%%%%%
+    % THE ACTUAL CONTENT %
+    %%%%%%%%%%%%%%%%%%%%%%
+    % Chapters
+    \include{Chapter-1/Chapter-1}
+    \include{Chapter-2/Chapter-2}
+    \include{Chapter-3/Chapter-3}
+    \include{Chapter-4/Chapter-4}
+    % \include{Chapter-5/Chapter-5}
+    % \include{Chapter-6/Chapter-6}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % Appendices
+    %
+    % Because of a quirk in LaTeX (see p. 48 of The LaTeX
+    % Companion, 2e), you cannot use \include along with
+    % \addtocontents if you want things to appear the proper
+    % sequence.
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \appendix
+    \titleformat{\chapter}[display]{\fontsize{30}{30}\selectfont\bfseries\sffamily}{Appendix \thechapter\textcolor{gray75}{\raisebox{3pt}{|}}}{0pt}{}{}
+    % If you have a single appendix, then to prevent LaTeX from
+    % calling it ``Appendix A'', you should uncomment the following two
+    % lines that redefine the \thechapter and \thesection:
+    %\renewcommand\thechapter{}
+    %\renewcommand\thesection{\arabic{section}}
+    \include{Appendix-A/Appendix-A}
+    \include{Appendix-B/Appendix-B}
+    \include{Appendix-C/Appendix-C}
+    \include{Appendix-D/Appendix-D}
+    \include{Appendix-E/Appendix-E}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % ESM students need to include a Nontechnical Abstract as the %
+    % last appendix.                                              %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % This \include command should point to the file containing
+    % that abstract.
+    %\include{nontechnical-abstract}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 } % End of the \allowdisplaybreak command %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -419,9 +424,9 @@ Appendix-E/Appendix-E%
 % bibliography. LaTeX's standard stuff is shown below. If you
 % bibtex, then this section should look something like:
 \begin{singlespace}
-  \bibliographystyle{GLG-bibstyle}
-  \addcontentsline{toc}{chapter}{Bibliography}
-  \bibliography{Biblio-Database}
+    \bibliographystyle{GLG-bibstyle}
+    \addcontentsline{toc}{chapter}{Bibliography}
+    \bibliography{Biblio-Database}
 \end{singlespace}
 
 %\begin{singlespace}

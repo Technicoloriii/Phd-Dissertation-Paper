@@ -2,7 +2,7 @@
 \contentsline {chapter}{List of Figures}{vi}{}%
 \contentsline {chapter}{List of Tables}{vii}{}%
 \contentsline {chapter}{List of Symbols}{viii}{}%
-\contentsline {chapter}{Acknowledgments}{x}{}%
+\contentsline {chapter}{Acknowledgments}{ix}{}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{}%
 \contentsline {section}{\numberline {1.1}About Fiscal Federalism}{1}{}%
 \contentsline {subsection}{\numberline {1.1.1}Fiscal Federalism Structure in America}{2}{}%
@@ -29,26 +29,27 @@
 \contentsline {section}{\numberline {3.1}Effect of IGT on Local Governments' Spending}{34}{}%
 \contentsline {subsection}{\numberline {3.1.1}Effect of IGT on Local Governments' Total Spending Amounts}{34}{}%
 \contentsline {subsubsection}{\numberline {3.1.1.1}Phrase One}{37}{}%
-\contentsline {subsubsection}{\numberline {3.1.1.2}Phrase two}{39}{}%
-\contentsline {subsubsection}{\numberline {3.1.1.3}Phrase Three}{40}{}%
-\contentsline {subsection}{\numberline {3.1.2}Effect of IGT on Local Governments' Spending Segments}{41}{}%
-\contentsline {section}{\numberline {3.2}Effect of IGT on Local Governments' Revenue Collection Behavior}{42}{}%
-\contentsline {chapter}{\numberline {4}Empirical Investigation on Local Governments' Behavior}{43}{}%
-\contentsline {section}{\numberline {4.1}The Investigation on the tax effort}{43}{}%
-\contentsline {section}{\numberline {4.2}The investigation on debt and soft budget issue}{43}{}%
+\contentsline {subsubsection}{\numberline {3.1.1.2}Phrase two}{40}{}%
+\contentsline {subsubsection}{\numberline {3.1.1.3}Phrase Three}{41}{}%
+\contentsline {subsection}{\numberline {3.1.2}Effect of IGT on Local Governments' Spending Segments}{44}{}%
+\contentsline {section}{\numberline {3.2}Effect of IGT on Local Governments' Revenue Collection Behavior}{46}{}%
+\contentsline {section}{\numberline {3.3}A Dynamic Game with Incomplete Information for Central and Local Governments}{47}{}%
+\contentsline {chapter}{\numberline {4}Empirical Investigation on Local Governments' Behavior}{48}{}%
+\contentsline {section}{\numberline {4.1}The Investigation on the tax effort}{48}{}%
+\contentsline {section}{\numberline {4.2}The investigation on debt and soft budget issue}{48}{}%
 \renewcommand {\cftchappresnum }{Appendix }
-\contentsline {chapter}{\numberline {A}Supportive Data and Figures}{44}{}%
-\contentsline {section}{\numberline {A.1}Data}{44}{}%
-\contentsline {section}{\numberline {A.2}Figures}{45}{}%
-\contentsline {chapter}{\numberline {B}Results}{47}{}%
-\contentsline {section}{\numberline {B.1}Introduction}{47}{}%
-\contentsline {section}{\numberline {B.2}More Declaration}{47}{}%
-\contentsline {chapter}{\numberline {C}Appendix for the proof}{48}{}%
-\contentsline {section}{\numberline {C.1}Introduction}{48}{}%
-\contentsline {section}{\numberline {C.2}More Declaration}{48}{}%
-\contentsline {chapter}{\numberline {D}Title of the Fourth Appendix}{49}{}%
-\contentsline {section}{\numberline {D.1}Introduction}{49}{}%
-\contentsline {section}{\numberline {D.2}More Declaration}{49}{}%
-\contentsline {chapter}{\numberline {E}Title of the Fifth Appendix}{50}{}%
-\contentsline {section}{\numberline {E.1}Introduction}{50}{}%
-\contentsline {chapter}{Bibliography}{51}{}%
+\contentsline {chapter}{\numberline {A}Supportive Data and Figures}{49}{}%
+\contentsline {section}{\numberline {A.1}Data}{49}{}%
+\contentsline {section}{\numberline {A.2}Figures}{50}{}%
+\contentsline {chapter}{\numberline {B}Results}{52}{}%
+\contentsline {section}{\numberline {B.1}Introduction}{52}{}%
+\contentsline {section}{\numberline {B.2}More Declaration}{52}{}%
+\contentsline {chapter}{\numberline {C}Appendix for the proof}{53}{}%
+\contentsline {section}{\numberline {C.1}Introduction}{53}{}%
+\contentsline {section}{\numberline {C.2}More Declaration}{53}{}%
+\contentsline {chapter}{\numberline {D}Title of the Fourth Appendix}{54}{}%
+\contentsline {section}{\numberline {D.1}Introduction}{54}{}%
+\contentsline {section}{\numberline {D.2}More Declaration}{54}{}%
+\contentsline {chapter}{\numberline {E}Title of the Fifth Appendix}{55}{}%
+\contentsline {section}{\numberline {E.1}Introduction}{55}{}%
+\contentsline {chapter}{Bibliography}{56}{}%
