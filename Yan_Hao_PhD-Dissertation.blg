@@ -6,58 +6,58 @@ A level-1 auxiliary file: Chapter-2/Chapter-2.aux
 A level-1 auxiliary file: Chapter-3/Chapter-3.aux
 A level-1 auxiliary file: Chapter-4/Chapter-4.aux
 A level-1 auxiliary file: Chapter-5/Chapter-5.aux
+A level-1 auxiliary file: Chapter-6/Chapter-6.aux
 A level-1 auxiliary file: Appendix-A/Appendix-A.aux
 A level-1 auxiliary file: Appendix-B/Appendix-B.aux
 A level-1 auxiliary file: Appendix-C/Appendix-C.aux
-A level-1 auxiliary file: Appendix-D/Appendix-D.aux
-A level-1 auxiliary file: Appendix-E/Appendix-E.aux
 The style file: GLG-bibstyle.bst
 Database file #1: Biblio-Database.bib
 Warning--there's a number but no volume in lv2018transfer
+Warning--empty pages in spahn2012conditioning
+Warning--empty journal in de2007local
 Warning--empty journal in gamkhar2007impact
 Warning--can't use both volume and number fields in karnik2008flypaper
 Warning--there's a number but no volume in fuyong2010
 Warning--missing institution in bravo2013income
-Warning--empty pages in schneider2008citizen
-You've used 119 entries,
+You've used 132 entries,
             2552 wiz_defined-function locations,
-            1221 strings with 21734 characters,
-and the built_in function-call counts, 50048 in all, are:
-= -- 3838
-> -- 954
-< -- 95
-+ -- 314
-- -- 195
-* -- 3312
-:= -- 5095
-add.period$ -- 224
-call.type$ -- 119
+            1298 strings with 23630 characters,
+and the built_in function-call counts, 55534 in all, are:
+= -- 4257
+> -- 1057
+< -- 107
++ -- 348
+- -- 216
+* -- 3691
+:= -- 5659
+add.period$ -- 252
+call.type$ -- 132
 change.case$ -- 3
 chr.to.int$ -- 0
-cite$ -- 125
-duplicate$ -- 5428
-empty$ -- 5305
-format.name$ -- 250
-if$ -- 11662
+cite$ -- 139
+duplicate$ -- 6041
+empty$ -- 5871
+format.name$ -- 277
+if$ -- 12922
 int.to.chr$ -- 0
-int.to.str$ -- 119
-missing$ -- 966
-newline$ -- 364
-num.names$ -- 119
-pop$ -- 1361
+int.to.str$ -- 132
+missing$ -- 1076
+newline$ -- 403
+num.names$ -- 132
+pop$ -- 1509
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1902
+skip$ -- 2101
 stack$ -- 0
-substring$ -- 2901
-swap$ -- 3729
-text.length$ -- 95
+substring$ -- 3201
+swap$ -- 4152
+text.length$ -- 107
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 6
-while$ -- 390
-width$ -- 122
-write$ -- 1054
-(There were 6 warnings)
+warning$ -- 7
+while$ -- 435
+width$ -- 135
+write$ -- 1171
+(There were 7 warnings)

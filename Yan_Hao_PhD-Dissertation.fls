@@ -703,6 +703,9 @@ INPUT ./Chapter-4/Chapter-4.tex
 INPUT ./Chapter-5/Chapter-5.tex
 INPUT ./Chapter-5/Chapter-5.tex
 INPUT ./Chapter-5/Chapter-5.tex
+INPUT ./Chapter-6/Chapter-6.tex
+INPUT ./Chapter-6/Chapter-6.tex
+INPUT ./Chapter-6/Chapter-6.tex
 INPUT ./Appendix-A/Appendix-A.tex
 INPUT ./Appendix-A/Appendix-A.tex
 INPUT ./Appendix-A/Appendix-A.tex
@@ -712,11 +715,7 @@ INPUT ./Appendix-B/Appendix-B.tex
 INPUT ./Appendix-C/Appendix-C.tex
 INPUT ./Appendix-C/Appendix-C.tex
 INPUT ./Appendix-C/Appendix-C.tex
-INPUT ./Appendix-D/Appendix-D.tex
-INPUT ./Appendix-D/Appendix-D.tex
-INPUT ./Appendix-D/Appendix-D.tex
-INPUT ./Appendix-E/Appendix-E.tex
-INPUT ./Appendix-E/Appendix-E.tex
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/tools/.tex
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/listings/listings.sty
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/listings/listings.sty
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/listings/listings.sty
@@ -760,6 +759,9 @@ INPUT Chapter-4/Chapter-4.aux
 INPUT ./Chapter-5/Chapter-5.aux
 INPUT Chapter-5/Chapter-5.aux
 INPUT Chapter-5/Chapter-5.aux
+INPUT ./Chapter-6/Chapter-6.aux
+INPUT Chapter-6/Chapter-6.aux
+INPUT Chapter-6/Chapter-6.aux
 INPUT ./Appendix-A/Appendix-A.aux
 INPUT Appendix-A/Appendix-A.aux
 INPUT Appendix-A/Appendix-A.aux
@@ -769,12 +771,6 @@ INPUT Appendix-B/Appendix-B.aux
 INPUT ./Appendix-C/Appendix-C.aux
 INPUT Appendix-C/Appendix-C.aux
 INPUT Appendix-C/Appendix-C.aux
-INPUT ./Appendix-D/Appendix-D.aux
-INPUT Appendix-D/Appendix-D.aux
-INPUT Appendix-D/Appendix-D.aux
-INPUT ./Appendix-E/Appendix-E.aux
-INPUT Appendix-E/Appendix-E.aux
-INPUT Appendix-E/Appendix-E.aux
 OUTPUT Yan_Hao_PhD-Dissertation.aux
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -915,13 +911,6 @@ INPUT SupplementaryMaterial/ListOfSymbols.tex
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmr17.tfm
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
-INPUT ./SupplementaryMaterial/Acknowledgments.tex
-INPUT ./SupplementaryMaterial/Acknowledgments.tex
-INPUT ./SupplementaryMaterial/Acknowledgments.tex
-INPUT SupplementaryMaterial/Acknowledgments.tex
-INPUT ./SupplementaryMaterial/Acknowledgments.tex
-INPUT ./SupplementaryMaterial/Acknowledgments.tex
-INPUT SupplementaryMaterial/Acknowledgments.tex
 INPUT ./Chapter-1/Chapter-1.tex
 INPUT ./Chapter-1/Chapter-1.tex
 INPUT ./Chapter-1/Chapter-1.tex
@@ -1094,6 +1083,46 @@ INPUT ./Chapter-4/Figures/distofp4.jpg
 INPUT Chapter-4/Figures/distofp4.jpg
 INPUT ./Chapter-4/Figures/distofp4.jpg
 INPUT ./Chapter-4/Figures/distofp4.jpg
+INPUT ./Chapter-4/Figures/alpha01.jpg
+INPUT ./Chapter-4/Figures/alpha01.jpg
+INPUT Chapter-4/Figures/alpha01.jpg
+INPUT ./Chapter-4/Figures/alpha01.jpg
+INPUT ./Chapter-4/Figures/alpha01.jpg
+INPUT ./Chapter-4/Figures/alpha04.jpg
+INPUT ./Chapter-4/Figures/alpha04.jpg
+INPUT Chapter-4/Figures/alpha04.jpg
+INPUT ./Chapter-4/Figures/alpha04.jpg
+INPUT ./Chapter-4/Figures/alpha04.jpg
+INPUT ./Chapter-4/Figures/alpha07.jpg
+INPUT ./Chapter-4/Figures/alpha07.jpg
+INPUT Chapter-4/Figures/alpha07.jpg
+INPUT ./Chapter-4/Figures/alpha07.jpg
+INPUT ./Chapter-4/Figures/alpha07.jpg
+INPUT ./Chapter-4/Figures/alpha09.jpg
+INPUT ./Chapter-4/Figures/alpha09.jpg
+INPUT Chapter-4/Figures/alpha09.jpg
+INPUT ./Chapter-4/Figures/alpha09.jpg
+INPUT ./Chapter-4/Figures/alpha09.jpg
+INPUT ./Chapter-4/Figures/beta01.jpg
+INPUT ./Chapter-4/Figures/beta01.jpg
+INPUT Chapter-4/Figures/beta01.jpg
+INPUT ./Chapter-4/Figures/beta01.jpg
+INPUT ./Chapter-4/Figures/beta01.jpg
+INPUT ./Chapter-4/Figures/beta04.jpg
+INPUT ./Chapter-4/Figures/beta04.jpg
+INPUT Chapter-4/Figures/beta04.jpg
+INPUT ./Chapter-4/Figures/beta04.jpg
+INPUT ./Chapter-4/Figures/beta04.jpg
+INPUT ./Chapter-4/Figures/beta07.jpg
+INPUT ./Chapter-4/Figures/beta07.jpg
+INPUT Chapter-4/Figures/beta07.jpg
+INPUT ./Chapter-4/Figures/beta07.jpg
+INPUT ./Chapter-4/Figures/beta07.jpg
+INPUT ./Chapter-4/Figures/beta09.jpg
+INPUT ./Chapter-4/Figures/beta09.jpg
+INPUT Chapter-4/Figures/beta09.jpg
+INPUT ./Chapter-4/Figures/beta09.jpg
+INPUT ./Chapter-4/Figures/beta09.jpg
 INPUT ./Chapter-5/Chapter-5.tex
 INPUT ./Chapter-5/Chapter-5.tex
 INPUT ./Chapter-5/Chapter-5.tex
@@ -1104,27 +1133,16 @@ INPUT ./Chapter-5/Chapter-5.tex
 INPUT Chapter-5/Chapter-5.tex
 INPUT ./Chapter-5/Chapter-5.tex
 INPUT Chapter-5/Chapter-5.tex
-INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/tfm/public/lm/ec-lmr6.tfm
-INPUT ./Chapter-5/Figures/tree.jpg
-INPUT ./Chapter-5/Figures/tree.jpg
-INPUT Chapter-5/Figures/tree.jpg
-INPUT ./Chapter-5/Figures/tree.jpg
-INPUT ./Chapter-5/Figures/tree.jpg
-INPUT ./Chapter-5/Figures/public spending on infrustracture.JPG
-INPUT ./Chapter-5/Figures/public spending on infrustracture.JPG
-INPUT Chapter-5/Figures/public spending on infrustracture.JPG
-INPUT ./Chapter-5/Figures/public spending on infrustracture.JPG
-INPUT ./Chapter-5/Figures/public spending on infrustracture.JPG
-INPUT ./Chapter-5/Figures/spending on infrastructure.JPG
-INPUT ./Chapter-5/Figures/spending on infrastructure.JPG
-INPUT Chapter-5/Figures/spending on infrastructure.JPG
-INPUT ./Chapter-5/Figures/spending on infrastructure.JPG
-INPUT ./Chapter-5/Figures/spending on infrastructure.JPG
-INPUT ./Chapter-5/Figures/fuel tax2.JPG
-INPUT ./Chapter-5/Figures/fuel tax2.JPG
-INPUT Chapter-5/Figures/fuel tax2.JPG
-INPUT ./Chapter-5/Figures/fuel tax2.JPG
-INPUT ./Chapter-5/Figures/fuel tax2.JPG
+INPUT ./Chapter-6/Chapter-6.tex
+INPUT ./Chapter-6/Chapter-6.tex
+INPUT ./Chapter-6/Chapter-6.tex
+OUTPUT Chapter-6/Chapter-6.aux
+INPUT ./Chapter-6/Chapter-6.tex
+INPUT ./Chapter-6/Chapter-6.tex
+INPUT ./Chapter-6/Chapter-6.tex
+INPUT Chapter-6/Chapter-6.tex
+INPUT ./Chapter-6/Chapter-6.tex
+INPUT Chapter-6/Chapter-6.tex
 INPUT ./Appendix-A/Appendix-A.tex
 INPUT ./Appendix-A/Appendix-A.tex
 INPUT ./Appendix-A/Appendix-A.tex
@@ -1180,26 +1198,6 @@ INPUT ./Appendix-C/Appendix-C.tex
 INPUT Appendix-C/Appendix-C.tex
 INPUT ./Appendix-C/Appendix-C.tex
 INPUT Appendix-C/Appendix-C.tex
-INPUT ./Appendix-D/Appendix-D.tex
-INPUT ./Appendix-D/Appendix-D.tex
-INPUT ./Appendix-D/Appendix-D.tex
-OUTPUT Appendix-D/Appendix-D.aux
-INPUT ./Appendix-D/Appendix-D.tex
-INPUT ./Appendix-D/Appendix-D.tex
-INPUT ./Appendix-D/Appendix-D.tex
-INPUT Appendix-D/Appendix-D.tex
-INPUT ./Appendix-D/Appendix-D.tex
-INPUT Appendix-D/Appendix-D.tex
-INPUT ./Appendix-E/Appendix-E.tex
-INPUT ./Appendix-E/Appendix-E.tex
-INPUT ./Appendix-E/Appendix-E.tex
-OUTPUT Appendix-E/Appendix-E.aux
-INPUT ./Appendix-E/Appendix-E.tex
-INPUT ./Appendix-E/Appendix-E.tex
-INPUT ./Appendix-E/Appendix-E.tex
-INPUT Appendix-E/Appendix-E.tex
-INPUT ./Appendix-E/Appendix-E.tex
-INPUT Appendix-E/Appendix-E.tex
 INPUT ./Yan_Hao_PhD-Dissertation.bbl
 INPUT Yan_Hao_PhD-Dissertation.bbl
 INPUT ./Yan_Hao_PhD-Dissertation.bbl
@@ -1228,6 +1226,9 @@ INPUT Chapter-4/Chapter-4.aux
 INPUT ./Chapter-5/Chapter-5.aux
 INPUT Chapter-5/Chapter-5.aux
 INPUT Chapter-5/Chapter-5.aux
+INPUT ./Chapter-6/Chapter-6.aux
+INPUT Chapter-6/Chapter-6.aux
+INPUT Chapter-6/Chapter-6.aux
 INPUT ./Appendix-A/Appendix-A.aux
 INPUT Appendix-A/Appendix-A.aux
 INPUT Appendix-A/Appendix-A.aux
@@ -1237,31 +1238,28 @@ INPUT Appendix-B/Appendix-B.aux
 INPUT ./Appendix-C/Appendix-C.aux
 INPUT Appendix-C/Appendix-C.aux
 INPUT Appendix-C/Appendix-C.aux
-INPUT ./Appendix-D/Appendix-D.aux
-INPUT Appendix-D/Appendix-D.aux
-INPUT Appendix-D/Appendix-D.aux
-INPUT ./Appendix-E/Appendix-E.aux
-INPUT Appendix-E/Appendix-E.aux
-INPUT Appendix-E/Appendix-E.aux
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc
-INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
-INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmex10.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi10.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi5.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi6.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi7.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr6.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr7.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
+INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy6.pfb
 INPUT d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb
