@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.16)  9 NOV 2023 20:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.16)  21 NOV 2023 14:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -742,12 +742,12 @@ LaTeX Warning: Reference `demand' on page xii undefined on input line 83.
  (./Chapter-1/Chapter-1.tex
 Chapter 1.
 
-Underfull \hbox (badness 3492) in paragraph at lines 12--12
+Underfull \hbox (badness 3492) in paragraph at lines 13--13
 []|\T1/lmr/m/n/12 (+20) State and Lo-cal
  []
 
 
-Overfull \hbox (10.40526pt too wide) in paragraph at lines 10--28
+Overfull \hbox (10.40526pt too wide) in paragraph at lines 11--29
  [][][][] 
  []
 
@@ -759,58 +759,58 @@ Overfull \hbox (10.40526pt too wide) in paragraph at lines 10--28
 <Chapter-1/Figures/fiscal federalism.jpeg, id=53, 722.7pt x 398.9304pt>
 File: Chapter-1/Figures/fiscal federalism.jpeg Graphic file (type jpg)
 <use Chapter-1/Figures/fiscal federalism.jpeg>
-Package pdftex.def Info: Chapter-1/Figures/fiscal federalism.jpeg  used on input line 34.
+Package pdftex.def Info: Chapter-1/Figures/fiscal federalism.jpeg  used on input line 35.
 (pdftex.def)             Requested size: 433.62334pt x 239.36008pt.
  [2] [3 <./Chapter-1/Figures/fiscal federalism.jpeg>] [4] [5]
 <Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg, id=67, 487.8225pt x 294.04857pt>
 File: Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg Graphic file (type jpg)
 <use Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg>
-Package pdftex.def Info: Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg  used on input line 87.
+Package pdftex.def Info: Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg  used on input line 88.
 (pdftex.def)             Requested size: 487.8213pt x 294.04785pt.
 
-Overfull \hbox (39.74641pt too wide) in paragraph at lines 87--89
+Overfull \hbox (39.74641pt too wide) in paragraph at lines 88--90
  [][] 
  []
 
 [6] [7 <./Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 100.
+(Font)              <10> on input line 101.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 100.
+(Font)              <7> on input line 101.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 100.
+(Font)              <5> on input line 101.
 <Chapter-1/Figures/source of federal general revenue.jpg, id=75, 432.087pt x 290.832pt>
 File: Chapter-1/Figures/source of federal general revenue.jpg Graphic file (type jpg)
 <use Chapter-1/Figures/source of federal general revenue.jpg>
-Package pdftex.def Info: Chapter-1/Figures/source of federal general revenue.jpg  used on input line 105.
+Package pdftex.def Info: Chapter-1/Figures/source of federal general revenue.jpg  used on input line 106.
 (pdftex.def)             Requested size: 138.90211pt x 93.49416pt.
 <Chapter-1/Figures/source of state general revenue.jpg, id=76, 401.208pt x 269.37pt>
 File: Chapter-1/Figures/source of state general revenue.jpg Graphic file (type jpg)
 <use Chapter-1/Figures/source of state general revenue.jpg>
-Package pdftex.def Info: Chapter-1/Figures/source of state general revenue.jpg  used on input line 107.
+Package pdftex.def Info: Chapter-1/Figures/source of state general revenue.jpg  used on input line 108.
 (pdftex.def)             Requested size: 138.90211pt x 93.25745pt.
 <Chapter-1/Figures/sources of local general revenue.jpg, id=77, 400.113pt x 266.742pt>
 File: Chapter-1/Figures/sources of local general revenue.jpg Graphic file (type jpg)
 <use Chapter-1/Figures/sources of local general revenue.jpg>
-Package pdftex.def Info: Chapter-1/Figures/sources of local general revenue.jpg  used on input line 109.
+Package pdftex.def Info: Chapter-1/Figures/sources of local general revenue.jpg  used on input line 110.
 (pdftex.def)             Requested size: 138.90211pt x 92.59998pt.
 <Chapter-1/Figures/federal expenditure.JPG, id=78, 385.221pt x 238.272pt>
 File: Chapter-1/Figures/federal expenditure.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/federal expenditure.JPG>
-Package pdftex.def Info: Chapter-1/Figures/federal expenditure.JPG  used on input line 139.
+Package pdftex.def Info: Chapter-1/Figures/federal expenditure.JPG  used on input line 140.
 (pdftex.def)             Requested size: 200.31606pt x 123.90215pt.
 
-Overfull \hbox (1.14677pt too wide) in paragraph at lines 139--139
+Overfull \hbox (1.14677pt too wide) in paragraph at lines 140--140
  [][] 
  []
 
 <Chapter-1/Figures/state and local expenditure.JPG, id=79, 385.002pt x 233.673pt>
 File: Chapter-1/Figures/state and local expenditure.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/state and local expenditure.JPG>
-Package pdftex.def Info: Chapter-1/Figures/state and local expenditure.JPG  used on input line 145.
+Package pdftex.def Info: Chapter-1/Figures/state and local expenditure.JPG  used on input line 146.
 (pdftex.def)             Requested size: 200.20218pt x 121.51065pt.
 
-Overfull \hbox (1.0329pt too wide) in paragraph at lines 145--145
+Overfull \hbox (1.0329pt too wide) in paragraph at lines 146--146
  [][] 
  []
 
@@ -818,15 +818,15 @@ Overfull \hbox (1.0329pt too wide) in paragraph at lines 145--145
 <Chapter-1/Figures/Venn graph on public goods.jpeg, id=86, 1169.3286pt x 693.792pt>
 File: Chapter-1/Figures/Venn graph on public goods.jpeg Graphic file (type jpg)
 <use Chapter-1/Figures/Venn graph on public goods.jpeg>
-Package pdftex.def Info: Chapter-1/Figures/Venn graph on public goods.jpeg  used on input line 157.
+Package pdftex.def Info: Chapter-1/Figures/Venn graph on public goods.jpeg  used on input line 158.
 (pdftex.def)             Requested size: 467.72316pt x 277.51187pt.
 
-Overfull \hbox (19.64827pt too wide) in paragraph at lines 157--159
+Overfull \hbox (19.64827pt too wide) in paragraph at lines 158--160
  [][] 
  []
 
 [9 <./Chapter-1/Figures/federal expenditure.JPG> <./Chapter-1/Figures/state and local expenditure.JPG>] [10 <./Chapter-1/Figures/Venn graph on public goods.jpeg>] [11] [12]
-Overfull \hbox (65.37549pt too wide) in paragraph at lines 218--233
+Overfull \hbox (65.37549pt too wide) in paragraph at lines 219--234
 [][] 
  []
 
@@ -855,230 +855,230 @@ Overfull \hbox (101.6031pt too wide) in paragraph at lines 321--344
  [][][] 
  []
 
-[27] [28] [29] [30] [31] [32] [33]) [34] [35]
+[27] [28] [29] [30] [31] [32] [33]) [34]
 \openout2 = `Chapter-3/Chapter-3.aux'.
 
  (./Chapter-3/Chapter-3.tex
 Chapter 3.
-[36
+[35
 
 
 
 
-] [37] [38] [39] [40]
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+] [36] [37] [38] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 []|\T1/lmr/m/n/12 (+20) Working age
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 \T1/lmr/m/n/12 (+20) pop-u-la-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 73--73
+Underfull \hbox (badness 3460) in paragraph at lines 74--74
 []|\T1/lmr/m/n/12 (+20) State me-dian
  []
 
 
-Underfull \hbox (badness 5862) in paragraph at lines 73--73
+Underfull \hbox (badness 5862) in paragraph at lines 74--74
 \T1/lmr/m/n/12 (+20) house-hold in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 []|\T1/lmr/m/n/12 (+6) unemployment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 []|\T1/lmr/m/n/12 (+20) public road
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 []|\T1/lmr/m/n/12 (+20) Bureau of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 \T1/lmr/m/n/12 (+20) trans-porta-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 []|\T1/lmr/m/n/12 (+20) 2000-2019
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
-<Chapter-3/Figures/heatmap.png, id=198, 574.145pt x 493.845pt>
+<Chapter-3/Figures/heatmap.png, id=195, 574.145pt x 493.845pt>
 File: Chapter-3/Figures/heatmap.png Graphic file (type png)
 <use Chapter-3/Figures/heatmap.png>
-Package pdftex.def Info: Chapter-3/Figures/heatmap.png  used on input line 90.
+Package pdftex.def Info: Chapter-3/Figures/heatmap.png  used on input line 91.
 (pdftex.def)             Requested size: 401.89876pt x 345.68913pt.
-[41]
-<Chapter-3/Figures/contribution.png, id=203, 1003.75pt x 602.25pt>
+[40]
+<Chapter-3/Figures/contribution.png, id=200, 1003.75pt x 602.25pt>
 File: Chapter-3/Figures/contribution.png Graphic file (type png)
 <use Chapter-3/Figures/contribution.png>
-Package pdftex.def Info: Chapter-3/Figures/contribution.png  used on input line 107.
+Package pdftex.def Info: Chapter-3/Figures/contribution.png  used on input line 108.
 (pdftex.def)             Requested size: 200.74644pt x 120.44786pt.
 
-Overfull \hbox (1.57716pt too wide) in paragraph at lines 107--107
+Overfull \hbox (1.57716pt too wide) in paragraph at lines 108--108
  [][] 
  []
 
-<Chapter-3/Figures/contribution2.png, id=204, 1003.75pt x 602.25pt>
+<Chapter-3/Figures/contribution2.png, id=201, 1003.75pt x 602.25pt>
 File: Chapter-3/Figures/contribution2.png Graphic file (type png)
 <use Chapter-3/Figures/contribution2.png>
-Package pdftex.def Info: Chapter-3/Figures/contribution2.png  used on input line 113.
+Package pdftex.def Info: Chapter-3/Figures/contribution2.png  used on input line 114.
 (pdftex.def)             Requested size: 200.74644pt x 120.44786pt.
 
-Overfull \hbox (1.57716pt too wide) in paragraph at lines 113--113
+Overfull \hbox (1.57716pt too wide) in paragraph at lines 114--114
  [][] 
  []
 
-[42 <./Chapter-3/Figures/heatmap.png>]
-<Chapter-3/Figures/pca.png, id=209, 462.528pt x 346.896pt>
+[41 <./Chapter-3/Figures/heatmap.png>]
+<Chapter-3/Figures/pca.png, id=206, 462.528pt x 346.896pt>
 File: Chapter-3/Figures/pca.png Graphic file (type png)
 <use Chapter-3/Figures/pca.png>
-Package pdftex.def Info: Chapter-3/Figures/pca.png  used on input line 136.
+Package pdftex.def Info: Chapter-3/Figures/pca.png  used on input line 137.
 (pdftex.def)             Requested size: 208.13567pt x 156.10175pt.
 
-Overfull \hbox (8.96638pt too wide) in paragraph at lines 136--136
+Overfull \hbox (8.96638pt too wide) in paragraph at lines 137--137
  [][] 
  []
 
-<Chapter-3/Figures/pca_3d.png, id=210, 475.42819pt x 427.36865pt>
+<Chapter-3/Figures/pca_3d.png, id=207, 475.42819pt x 427.36865pt>
 File: Chapter-3/Figures/pca_3d.png Graphic file (type png)
 <use Chapter-3/Figures/pca_3d.png>
-Package pdftex.def Info: Chapter-3/Figures/pca_3d.png  used on input line 142.
+Package pdftex.def Info: Chapter-3/Figures/pca_3d.png  used on input line 143.
 (pdftex.def)             Requested size: 213.9407pt x 192.3141pt.
 
-Overfull \hbox (14.77142pt too wide) in paragraph at lines 142--142
+Overfull \hbox (14.77142pt too wide) in paragraph at lines 143--143
  [][] 
  []
 
-[43 <./Chapter-3/Figures/contribution.png (PNG copy)> <./Chapter-3/Figures/contribution2.png (PNG copy)> <./Chapter-3/Figures/pca.png> <./Chapter-3/Figures/pca_3d.png>] [44]
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[42 <./Chapter-3/Figures/contribution.png (PNG copy)> <./Chapter-3/Figures/contribution2.png (PNG copy)> <./Chapter-3/Figures/pca.png> <./Chapter-3/Figures/pca_3d.png>] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
 []|\T1/lmr/m/n/12 (+7) Dependent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
 []|\T1/lmr/m/n/12 (+20) Combinations of lev-els,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--177
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
 []|\T1/lmr/m/n/12 (+20) Working age pop-u-la-tion
  []
 
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
 
  []
 
 
-Overfull \hbox (1.93326pt too wide) detected at line 187
+Overfull \hbox (1.93326pt too wide) detected at line 188
 \OT1/lmr/m/n/12 (\OML/lmm/m/it/12 d; r; r; r\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/lmm/m/it/12 d; r; r; d\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/lmm/m/it/12 d; r; d; r\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/lmm/m/it/12 d; r; d; d\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/lmm/m/it/12 d; d; r; r\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/lmm/m/it/12 d; d; r; d\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/lmm/m/it/12 d; d; d; r\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/lmm/m/it/12 d; d; d; d\OT1/lmr/m/n/12 )
  []
 
-[46]
-<Chapter-3/Figures/IGT and factors.jpg, id=226, 452.4403pt x 338.76563pt>
+[45]
+<Chapter-3/Figures/IGT and factors.jpg, id=223, 452.4403pt x 338.76563pt>
 File: Chapter-3/Figures/IGT and factors.jpg Graphic file (type jpg)
 <use Chapter-3/Figures/IGT and factors.jpg>
-Package pdftex.def Info: Chapter-3/Figures/IGT and factors.jpg  used on input line 214.
+Package pdftex.def Info: Chapter-3/Figures/IGT and factors.jpg  used on input line 215.
 (pdftex.def)             Requested size: 452.43921pt x 338.76479pt.
 
-Overfull \hbox (4.36432pt too wide) in paragraph at lines 214--216
+Overfull \hbox (4.36432pt too wide) in paragraph at lines 215--217
  [][] 
  []
 
-[47 <./Chapter-3/Figures/IGT and factors.jpg>] [48] [49]
-Underfull \hbox (badness 10000) in paragraph at lines 323--323
+[46 <./Chapter-3/Figures/IGT and factors.jpg>] [47] [48]
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
 []|\T1/lmr/m/n/12 (+20) Democratic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--329
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
 []|\T1/lmr/m/n/12 (+20) working age
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--329
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
 \T1/lmr/m/n/12 (+20) pop-u-la-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--331
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
 []|\T1/lmr/m/n/12 (+20) Log(median
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--331
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
 \T1/lmr/m/n/12 (+20) house-hold in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--333
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
 []|\T1/lmr/m/n/12 (+20) unemployment
  []
 
-[50] [51] [52] [53]) [54]
+[49] [50] [51] [52]) [53]
 \openout2 = `Chapter-4/Chapter-4.aux'.
 
  (./Chapter-4/Chapter-4.tex
@@ -1093,7 +1093,7 @@ Overfull \hbox (24.45552pt too wide) in paragraph at lines 3--3
 \T1/lmss/bx/n/30 (-20) fer on Lo-cal Gov-ern-ments' Spend-
  []
 
-<Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg, id=252, 1254.3663pt x 850.1361pt>
+<Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg, id=249, 1254.3663pt x 850.1361pt>
 File: Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg Graphic file (type jpg)
 <use Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg>
 Package pdftex.def Info: Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg  used on input line 9.
@@ -1103,86 +1103,86 @@ Overfull \hbox (53.66275pt too wide) in paragraph at lines 9--11
  [][] 
  []
 
-[55
+[54
 
 
 
 
-] [56 <./Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg>] [57] [58] [59]
-<Chapter-4/Figures/mfyeffect.jpg, id=269, 658.71094pt x 542.77782pt>
+] [55 <./Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg>] [56] [57] [58]
+<Chapter-4/Figures/mfyeffect.jpg, id=266, 658.71094pt x 542.77782pt>
 File: Chapter-4/Figures/mfyeffect.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/mfyeffect.jpg>
 Package pdftex.def Info: Chapter-4/Figures/mfyeffect.jpg  used on input line 153.
 (pdftex.def)             Requested size: 263.4797pt x 217.10727pt.
- [60 <./Chapter-4/Figures/mfyeffect.jpg>] [61]
-<Chapter-4/Figures/budget constrain distortion.jpg, id=277, 688.0104pt x 564.57324pt>
+ [59 <./Chapter-4/Figures/mfyeffect.jpg>] [60]
+<Chapter-4/Figures/budget constrain distortion.jpg, id=273, 688.0104pt x 564.57324pt>
 File: Chapter-4/Figures/budget constrain distortion.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/budget constrain distortion.jpg>
 Package pdftex.def Info: Chapter-4/Figures/budget constrain distortion.jpg  used on input line 175.
 (pdftex.def)             Requested size: 275.19928pt x 225.82529pt.
- [62] [63 <./Chapter-4/Figures/budget constrain distortion.jpg>] [64] [65]
-<Chapter-4/Figures/distofp1.jpg, id=290, 332.74312pt x 208.52907pt>
+ [61] [62 <./Chapter-4/Figures/budget constrain distortion.jpg>] [63] [64]
+<Chapter-4/Figures/distofp1.jpg, id=287, 332.74312pt x 208.52907pt>
 File: Chapter-4/Figures/distofp1.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/distofp1.jpg>
 Package pdftex.def Info: Chapter-4/Figures/distofp1.jpg  used on input line 278.
 (pdftex.def)             Requested size: 201.63232pt x 126.36252pt.
-<Chapter-4/Figures/distofp2.jpg, id=291, 396.7322pt x 231.86626pt>
+<Chapter-4/Figures/distofp2.jpg, id=288, 396.7322pt x 231.86626pt>
 File: Chapter-4/Figures/distofp2.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/distofp2.jpg>
 Package pdftex.def Info: Chapter-4/Figures/distofp2.jpg  used on input line 280.
 (pdftex.def)             Requested size: 201.63232pt x 117.84334pt.
-<Chapter-4/Figures/distofp3.jpg, id=292, 376.40625pt x 240.14719pt>
+<Chapter-4/Figures/distofp3.jpg, id=289, 376.40625pt x 240.14719pt>
 File: Chapter-4/Figures/distofp3.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/distofp3.jpg>
 Package pdftex.def Info: Chapter-4/Figures/distofp3.jpg  used on input line 282.
 (pdftex.def)             Requested size: 201.63232pt x 128.64418pt.
-<Chapter-4/Figures/distofp4.jpg, id=293, 452.4403pt x 230.36063pt>
+<Chapter-4/Figures/distofp4.jpg, id=290, 452.4403pt x 230.36063pt>
 File: Chapter-4/Figures/distofp4.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/distofp4.jpg>
 Package pdftex.def Info: Chapter-4/Figures/distofp4.jpg  used on input line 284.
 (pdftex.def)             Requested size: 201.63232pt x 102.65953pt.
-<Chapter-4/Figures/alpha01.jpg, id=294, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/alpha01.jpg, id=291, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/alpha01.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/alpha01.jpg>
 Package pdftex.def Info: Chapter-4/Figures/alpha01.jpg  used on input line 294.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
-<Chapter-4/Figures/alpha04.jpg, id=295, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/alpha04.jpg, id=292, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/alpha04.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/alpha04.jpg>
 Package pdftex.def Info: Chapter-4/Figures/alpha04.jpg  used on input line 296.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
-<Chapter-4/Figures/alpha07.jpg, id=296, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/alpha07.jpg, id=293, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/alpha07.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/alpha07.jpg>
 Package pdftex.def Info: Chapter-4/Figures/alpha07.jpg  used on input line 298.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
-<Chapter-4/Figures/alpha09.jpg, id=297, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/alpha09.jpg, id=294, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/alpha09.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/alpha09.jpg>
 Package pdftex.def Info: Chapter-4/Figures/alpha09.jpg  used on input line 300.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
- [66 <./Chapter-4/Figures/distofp1.jpg> <./Chapter-4/Figures/distofp2.jpg> <./Chapter-4/Figures/distofp3.jpg> <./Chapter-4/Figures/distofp4.jpg>]
-<Chapter-4/Figures/beta01.jpg, id=301, 361.35pt x 229.60782pt>
+ [65 <./Chapter-4/Figures/distofp1.jpg> <./Chapter-4/Figures/distofp2.jpg> <./Chapter-4/Figures/distofp3.jpg> <./Chapter-4/Figures/distofp4.jpg>]
+<Chapter-4/Figures/beta01.jpg, id=298, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/beta01.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/beta01.jpg>
 Package pdftex.def Info: Chapter-4/Figures/beta01.jpg  used on input line 314.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
-<Chapter-4/Figures/beta04.jpg, id=302, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/beta04.jpg, id=299, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/beta04.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/beta04.jpg>
 Package pdftex.def Info: Chapter-4/Figures/beta04.jpg  used on input line 316.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
-<Chapter-4/Figures/beta07.jpg, id=303, 361.35pt x 225.84375pt>
+<Chapter-4/Figures/beta07.jpg, id=300, 361.35pt x 225.84375pt>
 File: Chapter-4/Figures/beta07.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/beta07.jpg>
 Package pdftex.def Info: Chapter-4/Figures/beta07.jpg  used on input line 318.
 (pdftex.def)             Requested size: 201.63232pt x 126.02019pt.
-<Chapter-4/Figures/beta09.jpg, id=304, 361.35pt x 225.84375pt>
+<Chapter-4/Figures/beta09.jpg, id=301, 361.35pt x 225.84375pt>
 File: Chapter-4/Figures/beta09.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/beta09.jpg>
 Package pdftex.def Info: Chapter-4/Figures/beta09.jpg  used on input line 320.
 (pdftex.def)             Requested size: 201.63232pt x 126.02019pt.
- [67 <./Chapter-4/Figures/alpha01.jpg> <./Chapter-4/Figures/alpha04.jpg> <./Chapter-4/Figures/alpha07.jpg> <./Chapter-4/Figures/alpha09.jpg>] [68 <./Chapter-4/Figures/beta01.jpg> <./Chapter-4/Figures/beta04.jpg> <./Chapter-4/Figures/beta07.jpg> <./Chapter-4/Figures/beta09.jpg>] [69] [70]) [71] [72]
+ [66 <./Chapter-4/Figures/alpha01.jpg> <./Chapter-4/Figures/alpha04.jpg> <./Chapter-4/Figures/alpha07.jpg> <./Chapter-4/Figures/alpha09.jpg>] [67 <./Chapter-4/Figures/beta01.jpg> <./Chapter-4/Figures/beta04.jpg> <./Chapter-4/Figures/beta07.jpg> <./Chapter-4/Figures/beta09.jpg>] [68] [69]) [70] [71]
 \openout2 = `Chapter-5/Chapter-5.aux'.
 
  (./Chapter-5/Chapter-5.tex
@@ -1192,22 +1192,22 @@ Overfull \hbox (5.12282pt too wide) in paragraph at lines 2--2
 \T1/lmss/bx/n/30 (-20) men-tals' Rev-enue Col-lec-tion Be-
  []
 
-[73
+[72
 
 
 
 
-] [74] [75] [76] [77] [78] [79]) [80]
+] [73] [74] [75] [76] [77] [78]) [79]
 \openout2 = `Chapter-6/Chapter-6.aux'.
 
  (./Chapter-6/Chapter-6.tex
 Chapter 6.
-[81
+[80
 
 
 
 
-]) [82]
+]) [81]
 \openout2 = `Appendix-A/Appendix-A.aux'.
 
  (./Appendix-A/Appendix-A.tex
@@ -1222,12 +1222,12 @@ Overfull \hbox (1.69751pt too wide) in paragraph at lines 9--25
  [][][][][][][][][][][] 
  []
 
-<Chapter-1/Figures/source of federal revenue.JPG, id=357, 374.14781pt x 518.6878pt>
+<Chapter-1/Figures/source of federal revenue.JPG, id=354, 374.14781pt x 518.6878pt>
 File: Chapter-1/Figures/source of federal revenue.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/source of federal revenue.JPG>
 Package pdftex.def Info: Chapter-1/Figures/source of federal revenue.JPG  used on input line 38.
 (pdftex.def)             Requested size: 194.55797pt x 269.71921pt.
-<Chapter-1/Figures/source of state and local revenue.JPG, id=358, 539.76656pt x 243.91125pt>
+<Chapter-1/Figures/source of state and local revenue.JPG, id=355, 539.76656pt x 243.91125pt>
 File: Chapter-1/Figures/source of state and local revenue.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/source of state and local revenue.JPG>
 Package pdftex.def Info: Chapter-1/Figures/source of state and local revenue.JPG  used on input line 44.
@@ -1237,34 +1237,34 @@ Overfull \hbox (81.51094pt too wide) in paragraph at lines 44--44
  [][] 
  []
 
-[83
+[82
 
 
 
 
 ]
-<Appendix-A/republican.jpg, id=362, 566.115pt x 258.21469pt>
+<Appendix-A/republican.jpg, id=359, 566.115pt x 258.21469pt>
 File: Appendix-A/republican.jpg Graphic file (type jpg)
 <use Appendix-A/republican.jpg>
 Package pdftex.def Info: Appendix-A/republican.jpg  used on input line 54.
 (pdftex.def)             Requested size: 396.2778pt x 180.74904pt.
-<Appendix-A/democratic.jpg, id=363, 592.46344pt x 312.41719pt>
+<Appendix-A/democratic.jpg, id=360, 592.46344pt x 312.41719pt>
 File: Appendix-A/democratic.jpg Graphic file (type jpg)
 <use Appendix-A/democratic.jpg>
 Package pdftex.def Info: Appendix-A/democratic.jpg  used on input line 62.
 (pdftex.def)             Requested size: 414.72157pt x 218.69052pt.
- [84 <./Chapter-1/Figures/source of federal revenue.JPG> <./Chapter-1/Figures/source of state and local revenue.JPG> <./Appendix-A/republican.jpg>]
-<Appendix-A/swing.jpg, id=367, 511.9125pt x 359.09157pt>
+ [83 <./Chapter-1/Figures/source of federal revenue.JPG> <./Chapter-1/Figures/source of state and local revenue.JPG> <./Appendix-A/republican.jpg>]
+<Appendix-A/swing.jpg, id=364, 511.9125pt x 359.09157pt>
 File: Appendix-A/swing.jpg Graphic file (type jpg)
 <use Appendix-A/swing.jpg>
 Package pdftex.def Info: Appendix-A/swing.jpg  used on input line 70.
 (pdftex.def)             Requested size: 358.3363pt x 251.36238pt.
-) [85 <./Appendix-A/democratic.jpg> <./Appendix-A/swing.jpg>]
+) [84 <./Appendix-A/democratic.jpg> <./Appendix-A/swing.jpg>]
 \openout2 = `Appendix-B/Appendix-B.aux'.
 
  (./Appendix-B/Appendix-B.tex
 Appendix B.
-) [86
+) [85
 
 
 
@@ -1274,7 +1274,7 @@ Appendix B.
 
  (./Appendix-C/Appendix-C.tex
 Appendix C.
-) [87
+) [86
 
 
 
@@ -1283,11 +1283,11 @@ Appendix C.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
- [88
+ [87
 
 
 
-] [89] [90] [91] [92] [93] [94] [95]) [96] (./SupplementaryMaterial/Vita.tex [97
+] [88] [89] [90] [91] [92] [93] [94]) [95] (./SupplementaryMaterial/Vita.tex [96
 
 ])
 Underfull \hbox (badness 10000) in paragraph at lines 29--449
@@ -1314,24 +1314,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--449
 
  []
 
-[98] (./Yan_Hao_PhD-Dissertation.aux (./Chapter-1/Chapter-1.aux) (./Chapter-2/Chapter-2.aux) (./Chapter-3/Chapter-3.aux) (./Chapter-4/Chapter-4.aux) (./Chapter-5/Chapter-5.aux) (./Chapter-6/Chapter-6.aux) (./Appendix-A/Appendix-A.aux) (./Appendix-B/Appendix-B.aux) (./Appendix-C/Appendix-C.aux))
+[97] (./Yan_Hao_PhD-Dissertation.aux (./Chapter-1/Chapter-1.aux) (./Chapter-2/Chapter-2.aux) (./Chapter-3/Chapter-3.aux) (./Chapter-4/Chapter-4.aux) (./Chapter-5/Chapter-5.aux) (./Chapter-6/Chapter-6.aux) (./Appendix-A/Appendix-A.aux) (./Appendix-B/Appendix-B.aux) (./Appendix-C/Appendix-C.aux))
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 16220 strings out of 476093
- 321105 string characters out of 5789096
+ 16223 strings out of 476093
+ 321134 string characters out of 5789096
  1873787 words of memory out of 5000000
- 35857 multiletter control sequences out of 15000+600000
- 613401 words of font info for 264 fonts, out of 8000000 for 9000
+ 35860 multiletter control sequences out of 15000+600000
+ 613400 words of font info for 264 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,15n,92p,2445b,859s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,15n,92p,2443b,859s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmex10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi5.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi6.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr6.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr7.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy6.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Yan_Hao_PhD-Dissertation.pdf (110 pages, 13568084 bytes).
+Output written on Yan_Hao_PhD-Dissertation.pdf (109 pages, 13567679 bytes).
 PDF statistics:
- 513 PDF objects out of 1000 (max. 8388607)
- 317 compressed objects within 4 object streams
+ 510 PDF objects out of 1000 (max. 8388607)
+ 315 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  53936 words of extra memory for PDF output out of 61914 (max. 10000000)
 

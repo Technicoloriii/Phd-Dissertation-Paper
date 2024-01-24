@@ -1,7 +1,7 @@
 INFO:  latexindent.exe version 3.20.1, 2023-01-07, a script to indent .tex files
        latexindent.exe lives here: D:/Programs/Tex/texlive/2022/bin/win32/
-       Thu Nov  9 20:43:42 2023
-       Filename: d:/PhD PSU/Dissertation/Dissertation paper/PSU_Thesis-main/Chapter-6/__latexindent_temp_Chapter-6.tex
+       Tue Nov 21 14:06:37 2023
+       Filename: d:/PhD PSU/Dissertation/Dissertation paper/PSU_Thesis-main/Chapter-2/__latexindent_temp_Chapter-2.tex
 INFO:  Processing switches:
        -y|--yaml: YAML settings specified via command line
        -c|--cruft: cruft directory
@@ -16,9 +16,9 @@ INFO:  YAML reading settings
        latexindent.pl didn't find indentconfig.yaml or .indentconfig.yaml
        see all possible locations: https://latexindentpl.readthedocs.io/en/latest/sec-appendices.html#indentconfig-options)
 INFO:  YAML settings read: -y switch
-       YAML setting: defaultIndent:'    '
-       single-quoted string found in -y switch: '    ', substitute to     
-       Updating mainSettings with defaultIndent:     
+       YAML setting: defaultIndent:'  '
+       single-quoted string found in -y switch: '  ', substitute to   
+       Updating mainSettings with defaultIndent:   
 INFO:  Phase 1: searching for objects
 INFO:  Phase 2: finding surrounding indentation
 INFO:  Phase 3: indenting objects
