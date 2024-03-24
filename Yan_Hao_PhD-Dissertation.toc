@@ -1,66 +1,116 @@
 \acswitchoff 
-\contentsline {chapter}{List of Figures}{viii}{}%
-\contentsline {chapter}{List of Tables}{x}{}%
-\contentsline {chapter}{List of Symbols}{xi}{}%
+\contentsline {chapter}{List of Figures}{ix}{}%
+\contentsline {chapter}{List of Tables}{xi}{}%
+\contentsline {chapter}{List of Symbols}{xiii}{}%
+\contentsline {chapter}{Acknowledgments}{xvi}{}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{}%
-\contentsline {section}{\numberline {1.1}About Fiscal Federalism}{1}{}%
-\contentsline {subsection}{\numberline {1.1.1}The Evaluation of the Fiscal Federalism System}{3}{}%
-\contentsline {subsubsection}{\numberline {1.1.1.1}First-Generation Theory of Fiscal Federalism}{4}{}%
-\contentsline {subsubsection}{\numberline {1.1.1.2}Second-Generation Theory of Fiscal Federalism}{5}{}%
-\contentsline {section}{\numberline {1.2}Fiscal Federalism Structure in America}{7}{}%
-\contentsline {subsection}{\numberline {1.2.1}Revenue and Responsibilities of different levels governments}{7}{}%
-\contentsline {subsection}{\numberline {1.2.2}Interaction between National Government and Subnational Governments}{10}{}%
-\contentsline {section}{\numberline {1.3}Introduction of the Structure in the Following Chapters}{12}{}%
-\contentsline {chapter}{\numberline {2}Questions on the Central Level}{14}{}%
-\contentsline {section}{\numberline {2.1}National Government's Choice}{14}{}%
-\contentsline {section}{\numberline {2.2}A Dynamic Game Analysis with Complete Information}{14}{}%
-\contentsline {subsection}{\numberline {2.2.1}No Provision Game}{21}{}%
-\contentsline {subsection}{\numberline {2.2.2}Joint Provision Game}{22}{}%
-\contentsline {subsection}{\numberline {2.2.3}General Transfer Game}{23}{}%
-\contentsline {subsection}{\numberline {2.2.4}Categorical Transfer Game}{25}{}%
-\contentsline {section}{\numberline {2.3}Backward Induction Solution of the Policy Outcome}{29}{}%
-\contentsline {subsection}{\numberline {2.3.1}Utility Evaluation of Subnational Governments}{29}{}%
-\contentsline {subsection}{\numberline {2.3.2}Utility Evaluation of National Governments}{31}{}%
-\contentsline {section}{\numberline {2.4}Review and Summary}{33}{}%
-\contentsline {chapter}{\numberline {3}National Governments' Administration on Intergovernmental Transfer}{35}{}%
-\contentsline {section}{\numberline {3.1}Literature on Game Theory Modeling of Bargaining Process}{35}{}%
-\contentsline {section}{\numberline {3.2}Some Empirical Evidence for the Grants Distribution}{37}{}%
-\contentsline {section}{\numberline {3.3}An Empirical Investigation on IGT Distribution Mechanism}{38}{}%
-\contentsline {subsection}{\numberline {3.3.1}Sample and Characteristic Selection}{39}{}%
-\contentsline {subsection}{\numberline {3.3.2}Principle Components Analysis of Social and Economic Characteristics}{40}{}%
-\contentsline {subsection}{\numberline {3.3.3}Political Impact Investigation}{43}{}%
-\contentsline {subsubsection}{\numberline {3.3.3.1}Variable and Data}{44}{}%
-\contentsline {subsubsection}{\numberline {3.3.3.2}Model Setting}{47}{}%
-\contentsline {subsubsection}{\numberline {3.3.3.3}Result Analysis}{50}{}%
-\contentsline {subsubsection}{\numberline {3.3.3.4}Deficiencies and Rethinking on Related Topics}{52}{}%
-\contentsline {chapter}{\numberline {4}Effect of Intergovernmental Transfer on Local Governments' Spending Behavior}{54}{}%
-\contentsline {section}{\numberline {4.1}Effect of IGT on Local Governments' Spending}{55}{}%
-\contentsline {subsection}{\numberline {4.1.1}Effect of IGT on Local Governments' Total Spending Amounts}{55}{}%
-\contentsline {subsubsection}{\numberline {4.1.1.1}Phrase One}{59}{}%
-\contentsline {subsubsection}{\numberline {4.1.1.2}Phrase two}{60}{}%
-\contentsline {subsubsection}{\numberline {4.1.1.3}Phrase Three}{61}{}%
-\contentsline {subsection}{\numberline {4.1.2}Effect of IGT on Local Governments' Spending Segments}{67}{}%
-\contentsline {section}{\numberline {4.2}Summary on Flypaper Effect}{68}{}%
-\contentsline {chapter}{\numberline {5}Effect on Subnational Governmentals' Revenue Collection Behavior}{72}{}%
-\contentsline {section}{\numberline {5.1}Problem Introduction}{72}{}%
-\contentsline {section}{\numberline {5.2}Former Theory and Bibliography}{73}{}%
-\contentsline {section}{\numberline {5.3}A Ramsey Problem for Subnational Government}{74}{}%
-\contentsline {subsection}{\numberline {5.3.1}Budget Constraint for Subnational Government}{74}{}%
-\contentsline {subsection}{\numberline {5.3.2}Utility Construction}{75}{}%
-\contentsline {section}{\numberline {5.4}Model Inference}{76}{}%
-\contentsline {section}{\numberline {5.5}Affecting Mechanism}{77}{}%
-\contentsline {section}{\numberline {5.6}Review and Summary}{79}{}%
-\contentsline {chapter}{\numberline {6}Summary, Thoughts and Rethink}{80}{}%
-\contentsline {section}{\numberline {6.1}Overall Interests and Partial Interests}{80}{}%
-\contentsline {section}{\numberline {6.2}Efficiency and Equity}{81}{}%
-\contentsline {section}{\numberline {6.3}Long Term Interest and Short Term Interest}{81}{}%
+\contentsline {section}{\numberline {1.1}Fiscal Federalism: An Overview}{1}{}%
+\contentsline {subsection}{\numberline {1.1.1}Theoretical Frameworks and Evolutions}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.1.1}First-Generation Theory: Efficiency in Fiscal Structures}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.1.2}Second-Generation Theory: Beyond Efficiency---Fiscal Federalism's Broader Impacts}{3}{}%
+\contentsline {section}{\numberline {1.2}Fiscal Federalism in the United States}{4}{}%
+\contentsline {subsection}{\numberline {1.2.1}Revenue and Responsibilities of Different Levels of Government}{4}{}%
+\contentsline {subsection}{\numberline {1.2.2}Interaction between National and Subnational Governments}{5}{}%
+\contentsline {section}{\numberline {1.3}Impetus and aiming of the Dissertation}{5}{}%
+\contentsline {section}{\numberline {1.4}General Overview of Research Approach}{6}{}%
+\contentsline {subsection}{\numberline {1.4.1}Theoretical Analysis}{7}{}%
+\contentsline {subsection}{\numberline {1.4.2}Empirical Analysis}{7}{}%
+\contentsline {section}{\numberline {1.5}Significance of the Dissertation}{9}{}%
+\contentsline {section}{\numberline {1.6}Overview of Subsequent Chapters}{9}{}%
+\contentsline {chapter}{\numberline {2}Intergovernmental Transfer Decision: an Outcome of the Interaction between Central and Local Government}{11}{}%
+\contentsline {section}{\numberline {2.1}Introduction}{11}{}%
+\contentsline {section}{\numberline {2.2}Background}{13}{}%
+\contentsline {section}{\numberline {2.3}Problem Statement}{14}{}%
+\contentsline {section}{\numberline {2.4}Literature Review}{14}{}%
+\contentsline {subsection}{\numberline {2.4.1}On National Government Level}{15}{}%
+\contentsline {subsection}{\numberline {2.4.2}On Subnational Government Level}{16}{}%
+\contentsline {subsection}{\numberline {2.4.3}My Rethinking of the Literature}{17}{}%
+\contentsline {subsubsection}{\numberline {2.4.3.1}Revisiting Voter Information Assumptions}{17}{}%
+\contentsline {subsubsection}{\numberline {2.4.3.2}Expanding the Transfer Toolset}{17}{}%
+\contentsline {section}{\numberline {2.5}Method}{18}{}%
+\contentsline {subsection}{\numberline {2.5.1}Game Theory Model Construction}{18}{}%
+\contentsline {subsubsection}{\numberline {2.5.1.1}Player Set}{19}{}%
+\contentsline {subsubsection}{\numberline {2.5.1.2}Action Set}{19}{}%
+\contentsline {subsubsection}{\numberline {2.5.1.3}Utility Set}{21}{}%
+\contentsline {section}{\numberline {2.6}Model Solving Procedure}{23}{}%
+\contentsline {subsection}{\numberline {2.6.1}No Provision Game}{24}{}%
+\contentsline {subsection}{\numberline {2.6.2}Joint Provision Game}{25}{}%
+\contentsline {subsection}{\numberline {2.6.3}General Transfer Game}{26}{}%
+\contentsline {subsection}{\numberline {2.6.4}Categorical Transfer Game}{27}{}%
+\contentsline {section}{\numberline {2.7}Results}{29}{}%
+\contentsline {subsection}{\numberline {2.7.1}Implication on Public Goods Provision}{29}{}%
+\contentsline {subsection}{\numberline {2.7.2}Implication on Intergovernmental Transfer Choice}{31}{}%
+\contentsline {section}{\numberline {2.8}Explain of Fiscal Phenomenon during Intergovernmental Transfer}{35}{}%
+\contentsline {subsection}{\numberline {2.8.1}Flypaper Effect and Fungibility Effect}{35}{}%
+\contentsline {subsection}{\numberline {2.8.2}The Overwhelming Weight of Categorical Transfer}{38}{}%
+\contentsline {section}{\numberline {2.9}Review and Summary}{39}{}%
+\contentsline {chapter}{\numberline {3}Political Party Control and Intergovernmental Grants: a Panel Data Analysis}{41}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{41}{}%
+\contentsline {section}{\numberline {3.2}Background}{43}{}%
+\contentsline {subsection}{\numberline {3.2.1}1st Dimension: Degree of Federal Administrator}{43}{}%
+\contentsline {subsection}{\numberline {3.2.2}2nd Dimension: Method of determining grant amounts}{44}{}%
+\contentsline {section}{\numberline {3.3}Literature Review}{45}{}%
+\contentsline {subsection}{\numberline {3.3.1}Review on Theoretical Investigation}{46}{}%
+\contentsline {subsection}{\numberline {3.3.2}Review on Empirical Investigation}{47}{}%
+\contentsline {section}{\numberline {3.4}Problems and Hypothesis}{49}{}%
+\contentsline {subsection}{\numberline {3.4.1}Problems}{50}{}%
+\contentsline {subsection}{\numberline {3.4.2}Hypothesis}{51}{}%
+\contentsline {section}{\numberline {3.5}Research Method Design}{52}{}%
+\contentsline {subsection}{\numberline {3.5.1}Method on the First Question--Principal Components Analysis (PCA)}{52}{}%
+\contentsline {subsubsection}{\numberline {3.5.1.1}Data and variables for PCA Analysis}{52}{}%
+\contentsline {subsubsection}{\numberline {3.5.1.2}PCA Process}{53}{}%
+\contentsline {subsection}{\numberline {3.5.2}Method on Question 2 to 5--Fixed Effect Regression}{54}{}%
+\contentsline {subsubsection}{\numberline {3.5.2.1}Data and variables}{54}{}%
+\contentsline {subsubsection}{\numberline {3.5.2.2}Fixed Effect Regression}{55}{}%
+\contentsline {section}{\numberline {3.6}Result analysis}{56}{}%
+\contentsline {section}{\numberline {3.7}Review and Summary}{59}{}%
+\contentsline {chapter}{\numberline {4}Effect of Intergovernmental Transfer on Local Governments' Spending Behavior}{60}{}%
+\contentsline {section}{\numberline {4.1}Fungibility and Flypaper Effect}{61}{}%
+\contentsline {section}{\numberline {4.2}Literature on Flypaper Effect}{62}{}%
+\contentsline {subsection}{\numberline {4.2.1}Phrase One}{62}{}%
+\contentsline {subsection}{\numberline {4.2.2}Phrase two}{63}{}%
+\contentsline {subsection}{\numberline {4.2.3}Phrase Three}{64}{}%
+\contentsline {section}{\numberline {4.3}Mathematical Expression of Flypaper effect}{65}{}%
+\contentsline {subsection}{\numberline {4.3.1}Benchmark model}{65}{}%
+\contentsline {subsection}{\numberline {4.3.2}Ramsey Model with Distortionary Tax Collection}{67}{}%
+\contentsline {section}{\numberline {4.4}Summary: About the Reason of Flypaper Effect}{70}{}%
+\contentsline {section}{\numberline {4.5}Policy Implication}{71}{}%
+\contentsline {chapter}{\numberline {5}Effect of Grants Restriction on Subnational Governments' Revenue Collection Effort: a Kalman Filter Application}{73}{}%
+\contentsline {section}{\numberline {5.1}Introduction}{73}{}%
+\contentsline {section}{\numberline {5.2}Background}{74}{}%
+\contentsline {section}{\numberline {5.3}Literature Review}{75}{}%
+\contentsline {subsection}{\numberline {5.3.1}Theoretical and Empirical Insights on Intergovernmental Transfers and Tax Effort}{76}{}%
+\contentsline {subsection}{\numberline {5.3.2}Empirical Challenges and Insights in Assessing Transfer Effects on Tax Effort}{77}{}%
+\contentsline {subsection}{\numberline {5.3.3}Review and Summary on Literature Review}{78}{}%
+\contentsline {section}{\numberline {5.4}Problem Statement and Research Method}{79}{}%
+\contentsline {subsection}{\numberline {5.4.1}Research Method}{80}{}%
+\contentsline {section}{\numberline {5.5}Model Construction}{81}{}%
+\contentsline {subsection}{\numberline {5.5.1}General Setup of the Ramsey Problem}{81}{}%
+\contentsline {subsection}{\numberline {5.5.2}Problem Solve Process}{83}{}%
+\contentsline {section}{\numberline {5.6}Theoretical Conjecture}{84}{}%
+\contentsline {subsection}{\numberline {5.6.1}The effect of general transfer on tax collection effort}{84}{}%
+\contentsline {subsection}{\numberline {5.6.2}The effect of categorical grants in productive area on tax collection effort}{86}{}%
+\contentsline {subsection}{\numberline {5.6.3}The effect of categorical grants in welfare area on tax collection effort}{86}{}%
+\contentsline {section}{\numberline {5.7}Regression Model Design and Hypothesis}{87}{}%
+\contentsline {section}{\numberline {5.8}Variables and Sample}{87}{}%
+\contentsline {subsection}{\numberline {5.8.1}Construction of moderating variables}{88}{}%
+\contentsline {subsection}{\numberline {5.8.2}Measure of tax collection effort}{90}{}%
+\contentsline {section}{\numberline {5.9}Regression Results and Analysis}{93}{}%
+\contentsline {section}{\numberline {5.10}Review and Summary}{95}{}%
+\contentsline {chapter}{\numberline {6}Summary, Thoughts and Rethink}{97}{}%
+\contentsline {section}{\numberline {6.1}Overall Interests and Partial Interests}{97}{}%
+\contentsline {section}{\numberline {6.2}Efficiency and Equity}{99}{}%
+\contentsline {section}{\numberline {6.3}Long Term Interest and Short Term Interest}{100}{}%
 \renewcommand {\cftchappresnum }{Appendix }
-\contentsline {chapter}{\numberline {A}Supportive Data and Figures}{82}{}%
-\contentsline {section}{\numberline {A.1}Data}{82}{}%
-\contentsline {section}{\numberline {A.2}Figures}{83}{}%
-\contentsline {chapter}{\numberline {B}Results}{85}{}%
-\contentsline {section}{\numberline {B.1}More Declaration}{85}{}%
-\contentsline {chapter}{\numberline {C}Appendix for the proof}{86}{}%
-\contentsline {section}{\numberline {C.1}Proof of the Equalization Effect of General Transfer}{86}{}%
-\contentsline {section}{\numberline {C.2}Proof of the Free Rider Effect under Inaccurate Ascribe}{86}{}%
-\contentsline {chapter}{Bibliography}{87}{}%
+\contentsline {chapter}{\numberline {A}Tables}{102}{}%
+\contentsline {section}{\numberline {A.1}Chapter 1}{102}{}%
+\contentsline {section}{\numberline {A.2}Chapter 2}{106}{}%
+\contentsline {section}{\numberline {A.3}Chapter 3}{107}{}%
+\contentsline {section}{\numberline {A.4}Chapter 4}{115}{}%
+\contentsline {section}{\numberline {A.5}Chapter 5}{116}{}%
+\contentsline {chapter}{\numberline {B}Figures}{124}{}%
+\contentsline {section}{\numberline {B.1}Chapter 1}{124}{}%
+\contentsline {section}{\numberline {B.2}Chapter 2}{129}{}%
+\contentsline {section}{\numberline {B.3}Chapter 3}{133}{}%
+\contentsline {section}{\numberline {B.4}Chapter 4}{138}{}%
+\contentsline {section}{\numberline {B.5}Chapter 5}{144}{}%

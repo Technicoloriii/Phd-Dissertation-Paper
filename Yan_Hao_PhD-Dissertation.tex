@@ -115,7 +115,12 @@
 \usepackage{url}
 \usepackage{longtable}
 % http://www.tex.ac.uk/cgi-bin/texfaq2html?label=citesort
-\usepackage{cite}
+% \usepackage{cite}
+\usepackage{pdfpages}
+
+\usepackage[style=apa,sortcites=true,sorting=nyt,backend=biber]{biblatex}
+\DeclareLanguageMapping{american}{american-apa}
+\addbibresource{Biblio-Database.bib}
 
 \usepackage{titlesec}
 
@@ -166,15 +171,15 @@
 % FRONT-MATTER %
 %%%%%%%%%%%%%%%%
 % Title
-\title{Central and Local Government Fiscal Behavior under Fiscal Federalism---a Theoretical Analysis under Asymmetric Setting with Empirical Evidence}
+\title{Central and Local Government Fiscal Behavior under Fiscal Federalism--a Theoretical Analysis with Empirical Evidence}
 
 % Author and Department
 \author{Yan Hao}
-\dept{School of Public Affairs}
+\dept{Public Administration}
 % the degree will be conferred on this date
-\degreedate{Nov 2023}
+\degreedate{May 2024}
 % year of your copyright
-\copyrightyear{2023}
+\copyrightyear{2024}
 
 % This command is used for students submitting a thesis to the
 % Schreyer Honors College and for students in Engineering Science.
@@ -186,8 +191,8 @@
 % This is the document type. For example, this could also be:
 %	Comprehensive Document
 %	Thesis Proposal
-\documenttype{Thesis}
-%\documenttype{Dissertation}
+% \documenttype{Thesis}
+\documenttype{Dissertation}
 %\documenttype{Comprehensive Document}
 
 
@@ -197,7 +202,7 @@
 
 % This is the college to which you are submitting the
 % thesis/dissertation.
-\collegesubmittedto{School of Public Affairs}
+% \collegesubmittedto{School of Public Affairs}
 
 
 %%%%%%%%%%%%%%%%%%
@@ -207,7 +212,7 @@
 % and up to 6 readers.
 %
 % Begin by specifying the number of readers.
-\numberofreaders{3}
+\numberofreaders{4}
 
 % For baccalaureate honors degrees, enter the name of your
 % honors advisor below.
@@ -231,21 +236,25 @@
 
 % Input reader information below. The optional argument, which
 % comes first, goes on the second line before the name.
-\advisor[Thesis Advisor][Chair of Committee]
+\advisor[Dissertation Advisor][Chair of Committee]
 		{Odd Stalebrink}
 		{Associate Professor of Public Administration}
 
-\readerone[Dissertation Committee Member]
+\readerone[Professor-in-Charge, Master of Public Administration\\Professor-in-Charge, Juris Doctor and Master of Public Administration]
 			{Younhee Kim}
 			{Associate Professor of Public Administration}
 
-\readertwo[Dissertation Committee Member]
+\readertwo[]
 			{Daniel J. Mallinson}
 			{Associate Professor of Public Administration}
 
-\readerthree[Dissertation Committee Member]
+\readerthree[]
 			{David Argente}
 			{Assistant Professor of Economics}
+
+\readerfour[Director of Graduate Studies]
+			{Goktug Morcol}
+			{Professor of Public Administration}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\readerfour[Optional Title Here]
 %			{Reader Name}
@@ -276,7 +285,7 @@ Chapter-5/Chapter-5,%
 Chapter-6/Chapter-6,%
 Appendix-A/Appendix-A,%
 Appendix-B/Appendix-B,%
-Appendix-C/Appendix-C,%
+% Appendix-C/Appendix-C,%
 % Appendix-D/Appendix-D,%
 % Appendix-E/Appendix-E%
 }
@@ -354,7 +363,7 @@ Appendix-C/Appendix-C,%
 
 % Generates the Acknowledgments. The argument should point to
 % the file containing your Acknowledgments. 
-%\thesisacknowledgments{SupplementaryMaterial/Acknowledgments}
+\thesisacknowledgments{SupplementaryMaterial/Acknowledgments}
 
 % Generates the Epigraph/Dedication. The first argument should
 % point to the file containing your Epigraph/Dedication and
@@ -405,7 +414,7 @@ Appendix-C/Appendix-C,%
     %\renewcommand\thesection{\arabic{section}}
     \include{Appendix-A/Appendix-A}
     \include{Appendix-B/Appendix-B}
-    \include{Appendix-C/Appendix-C}
+    % \include{Appendix-C/Appendix-C}
     % \include{Appendix-D/Appendix-D}
     % \include{Appendix-E/Appendix-E}
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -425,11 +434,13 @@ Appendix-C/Appendix-C,%
 % You can use BibTeX or other bibliography facility for your
 % bibliography. LaTeX's standard stuff is shown below. If you
 % bibtex, then this section should look something like:
-\begin{singlespace}
-    \bibliographystyle{GLG-bibstyle}
-    \addcontentsline{toc}{chapter}{Bibliography}
-    \bibliography{Biblio-Database}
-\end{singlespace}
+
+
+% \begin{singlespace}
+%     \bibliographystyle{GLG-bibstyle}
+%     \addcontentsline{toc}{chapter}{Bibliography}
+%     \bibliography{Biblio-Database}
+% \end{singlespace}
 
 %\begin{singlespace}
 %\begin{thebibliography}{99}

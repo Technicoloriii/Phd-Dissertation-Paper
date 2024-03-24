@@ -1,63 +1,27 @@
-This is BibTeX, Version 0.99d (TeX Live 2022)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: Yan_Hao_PhD-Dissertation.aux
-A level-1 auxiliary file: Chapter-1/Chapter-1.aux
-A level-1 auxiliary file: Chapter-2/Chapter-2.aux
-A level-1 auxiliary file: Chapter-3/Chapter-3.aux
-A level-1 auxiliary file: Chapter-4/Chapter-4.aux
-A level-1 auxiliary file: Chapter-5/Chapter-5.aux
-A level-1 auxiliary file: Chapter-6/Chapter-6.aux
-A level-1 auxiliary file: Appendix-A/Appendix-A.aux
-A level-1 auxiliary file: Appendix-B/Appendix-B.aux
-A level-1 auxiliary file: Appendix-C/Appendix-C.aux
-The style file: GLG-bibstyle.bst
-Database file #1: Biblio-Database.bib
-Warning--there's a number but no volume in lv2018transfer
-Warning--empty pages in spahn2012conditioning
-Warning--empty journal in de2007local
-Warning--empty journal in gamkhar2007impact
-Warning--can't use both volume and number fields in karnik2008flypaper
-Warning--there's a number but no volume in fuyong2010
-Warning--missing institution in bravo2013income
-You've used 132 entries,
-            2552 wiz_defined-function locations,
-            1298 strings with 23630 characters,
-and the built_in function-call counts, 55534 in all, are:
-= -- 4257
-> -- 1057
-< -- 107
-+ -- 348
-- -- 216
-* -- 3691
-:= -- 5659
-add.period$ -- 252
-call.type$ -- 132
-change.case$ -- 3
-chr.to.int$ -- 0
-cite$ -- 139
-duplicate$ -- 6041
-empty$ -- 5871
-format.name$ -- 277
-if$ -- 12922
-int.to.chr$ -- 0
-int.to.str$ -- 132
-missing$ -- 1076
-newline$ -- 403
-num.names$ -- 132
-pop$ -- 1509
-preamble$ -- 1
-purify$ -- 0
-quote$ -- 0
-skip$ -- 2101
-stack$ -- 0
-substring$ -- 3201
-swap$ -- 4152
-text.length$ -- 107
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 7
-while$ -- 435
-width$ -- 135
-write$ -- 1171
-(There were 7 warnings)
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Yan_Hao_PhD-Dissertation.blg'
+[101] biber-MSWIN32:340> INFO - === 
+[137] Biber.pm:418> INFO - Reading 'Yan_Hao_PhD-Dissertation.bcf'
+[362] Biber.pm:978> INFO - Found 187 citekeys in bib section 0
+[382] Biber.pm:4401> INFO - Processing section 0
+[395] Biber.pm:4592> INFO - Looking for bibtex file 'Biblio-Database.bib' for section 0
+[464] bibtex.pm:1713> INFO - LaTeX decoding ...
+[750] bibtex.pm:1518> INFO - Found BibTeX data source 'Biblio-Database.bib'
+[1619] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1619] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1620] Biber.pm:4221> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1620] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[1894] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1894] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1894] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1894] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[2052] bbl.pm:654> INFO - Writing 'Yan_Hao_PhD-Dissertation.bbl' with encoding 'UTF-8'
+[2234] bbl.pm:757> INFO - Output to Yan_Hao_PhD-Dissertation.bbl
+[2234] Biber.pm:130> WARN - Duplicate entry key: 'bednar2007credit' in file 'Biblio-Database.bib', skipping ...
+[2234] Biber.pm:130> WARN - Duplicate entry key: 'huffman2006formula' in file 'Biblio-Database.bib', skipping ...
+[2234] Biber.pm:130> WARN - Duplicate entry key: '2011Intergovernmental' in file 'Biblio-Database.bib', skipping ...
+[2234] Biber.pm:130> WARN - Duplicate entry key: 'dash2013intergovernmental' in file 'Biblio-Database.bib', skipping ...
+[2234] Biber.pm:130> WARN - Duplicate entry key: 'buettner2006incentive' in file 'Biblio-Database.bib', skipping ...
+[2234] Biber.pm:130> WARN - Duplicate entry key: 'edwards1996tax' in file 'Biblio-Database.bib', skipping ...
+[2234] Biber.pm:130> WARN - Duplicate entry key: 'Fuyong2010' in file 'Biblio-Database.bib', skipping ...
+[2234] Biber.pm:132> INFO - WARNINGS: 7

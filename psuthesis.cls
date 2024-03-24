@@ -113,20 +113,20 @@
 \newlength{\mylonglength}% another "scratch" length
 \ifthenelse{\boolean{psu@toc}}
 {%
-% Format chapter entries so that the chapter name goes on the same line
-% as "Chapter #".
-\renewcommand{\cftchappresnum}{Chapter }
-\settowidth{\mylength}{\bfseries\cftchappresnum\cftchapaftersnum}% extra space
-\addtolength{\cftchapnumwidth}{\mylength} % add the extra space
-%
-\newcommand{\mylongname}{Appendix }% the longest chapter number header
-\settowidth{\mylonglength}{\bfseries\mylongname\cftchapaftersnum}% extra space
+    % Format chapter entries so that the chapter name goes on the same line
+    % as "Chapter #".
+    \renewcommand{\cftchappresnum}{Chapter }
+    \settowidth{\mylength}{\bfseries\cftchappresnum\cftchapaftersnum}% extra space
+    \addtolength{\cftchapnumwidth}{\mylength} % add the extra space
+    %
+    \newcommand{\mylongname}{Appendix }% the longest chapter number header
+    \settowidth{\mylonglength}{\bfseries\mylongname\cftchapaftersnum}% extra space
 }
 {%
-\renewcommand{\cftchappresnum}{Chapter } 
-\renewcommand{\cftchapaftersnumb}{\\ \mbox{}\hspace{-\mylength}\hspace{-0.1em}}
-\settowidth{\mylength}{\bfseries\cftchappresnum\cftchapaftersnum} % extra space 
-\addtolength{\cftchapnumwidth}{\mylength+0.1em} % add the extra space\renewcommand{\cftchapfont}{\bfseries} 
+    \renewcommand{\cftchappresnum}{Chapter }
+    \renewcommand{\cftchapaftersnumb}{\\ \mbox{}\hspace{-\mylength}\hspace{-0.1em}}
+    \settowidth{\mylength}{\bfseries\cftchappresnum\cftchapaftersnum} % extra space 
+    \addtolength{\cftchapnumwidth}{\mylength+0.1em} % add the extra space\renewcommand{\cftchapfont}{\bfseries} 
 }%
 
 
@@ -166,7 +166,7 @@
 \providecommand{\submittedto}[1]{\renewcommand{\psu@submittedto}{#1}}
 
 % Store the College to which the document has been submitted.
-\newcommand{\psu@collegesubmittedto}{College of Engineering}
+\newcommand{\psu@collegesubmittedto}{}
 \providecommand{\collegesubmittedto}[1]{\renewcommand{\psu@collegesubmittedto}{#1}}
 
 % Store the the info for the honors degree(s) type(s).
@@ -236,13 +236,13 @@
 \newcommand{\psu@honorsadvisortitle}{Associate Professor of Something}%
 \providecommand{\honorsadvisor}[2]%
 {\renewcommand{\psu@honorsadvisor}{#1}%
-\renewcommand{\psu@honorsadvisortitle}{#2}}
+    \renewcommand{\psu@honorsadvisortitle}{#2}}
 
 \newcommand{\psu@honorsadvisortwo}{Name of Second Honors Advisor}%
 \newcommand{\psu@honorsadvisortwotitle}{Associate Professor of Something}%
 \providecommand{\honorsadvisortwo}[2]%
 {\renewcommand{\psu@honorsadvisortwo}{#1}%
-\renewcommand{\psu@honorsadvisortwotitle}{#2}}
+    \renewcommand{\psu@honorsadvisortwotitle}{#2}}
 
 %\newcommand{\psu@advisor}{John Doe}
 %\newcommand{\psu@advisortitle}{John Doe}
@@ -258,65 +258,65 @@
 \newcommand{\psu@advisoroptiontwo}{}%
 \providecommandtwoopt{\advisor}[4][][]%
 {\renewcommand{\psu@advisoroptionone}{#1}%
-\renewcommand{\psu@advisoroptiontwo}{#2}%
-\renewcommand{\psu@advisor}{#3}%
-\renewcommand{\psu@advisortitle}{#4}}
+    \renewcommand{\psu@advisoroptiontwo}{#2}%
+    \renewcommand{\psu@advisor}{#3}%
+    \renewcommand{\psu@advisortitle}{#4}}
 
 \newcommand{\psu@readerone}{John Doe}
 \newcommand{\psu@readeronetitle}{John Doe}
 \newcommand{\psu@readeroneoption}{}%
 \providecommand{\readerone}[3][]%
 {\renewcommand{\psu@readeroneoption}{#1}%
-\renewcommand{\psu@readerone}{#2}%
-\renewcommand{\psu@readeronetitle}{#3}}
+    \renewcommand{\psu@readerone}{#2}%
+    \renewcommand{\psu@readeronetitle}{#3}}
 
 \newcommand{\psu@readertwo}{John Doe}
 \newcommand{\psu@readertwotitle}{John Doe}
 \newcommand{\psu@readertwooption}{}%
 \providecommand{\readertwo}[3][]%
 {\renewcommand{\psu@readertwooption}{#1}%
-\renewcommand{\psu@readertwo}{#2}%
-\renewcommand{\psu@readertwotitle}{#3}}
+    \renewcommand{\psu@readertwo}{#2}%
+    \renewcommand{\psu@readertwotitle}{#3}}
 
 \newcommand{\psu@readerthree}{John Doe}
 \newcommand{\psu@readerthreetitle}{John Doe}
 \newcommand{\psu@readerthreeoption}{}%
 \providecommand{\readerthree}[3][]%
 {\renewcommand{\psu@readerthreeoption}{#1}%
-\renewcommand{\psu@readerthree}{#2}%
-\renewcommand{\psu@readerthreetitle}{#3}}
+    \renewcommand{\psu@readerthree}{#2}%
+    \renewcommand{\psu@readerthreetitle}{#3}}
 
 \newcommand{\psu@readerfour}{John Doe}
 \newcommand{\psu@readerfourtitle}{John Doe}
 \newcommand{\psu@readerfouroption}{}%
 \providecommand{\readerfour}[3][]%
 {\renewcommand{\psu@readerfouroption}{#1}%
-\renewcommand{\psu@readerfour}{#2}%
-\renewcommand{\psu@readerfourtitle}{#3}}
+    \renewcommand{\psu@readerfour}{#2}%
+    \renewcommand{\psu@readerfourtitle}{#3}}
 
 \newcommand{\psu@readerfive}{John Doe}
 \newcommand{\psu@readerfivetitle}{John Doe}
 \newcommand{\psu@readerfiveoption}{}%
 \providecommand{\readerfive}[3][]%
 {\renewcommand{\psu@readerfiveoption}{#1}%
-\renewcommand{\psu@readerfive}{#2}%
-\renewcommand{\psu@readerfivetitle}{#3}}
+    \renewcommand{\psu@readerfive}{#2}%
+    \renewcommand{\psu@readerfivetitle}{#3}}
 
 \newcommand{\psu@readersix}{John Doe}
 \newcommand{\psu@readersixtitle}{John Doe}
 \newcommand{\psu@readersixoption}{}%
 \providecommand{\readersix}[3][]%
 {\renewcommand{\psu@readersixoption}{#1}%
-\renewcommand{\psu@readersix}{#2}%
-\renewcommand{\psu@readersixtitle}{#3}}
+    \renewcommand{\psu@readersix}{#2}%
+    \renewcommand{\psu@readersixtitle}{#3}}
 
 
 \newsavebox{\tempbox}
 \renewcommand{\@makecaption}[2]{%
-\vspace{7pt}\sbox{\tempbox}{\small\textbf{#1.} #2}%
-\ifthenelse{\lengthtest{\wd\tempbox > \linewidth}}%
-{\small\textbf{#1.} #2\par}%
-{\centering \small\textbf{#1.} #2}%
+    \vspace{7pt}\sbox{\tempbox}{\small\textbf{#1.} #2}%
+    \ifthenelse{\lengthtest{\wd\tempbox > \linewidth}}%
+    {\small\textbf{#1.} #2\par}%
+    {\centering \small\textbf{#1.} #2}%
 }
 
 
@@ -343,262 +343,262 @@
 
 % Here is the title page.
 \newcommand{\psutitlepage}{%
-\setcounter{page}{1}
-\thispagestyle{empty}%
-%%%
-\ifthenelse{\boolean{psu@bs} \or \boolean{psu@ba}}
-%%%
-{%
-\vspace*{-1in}
-%\enlargethispage{0.5in}
-\ifthenelse{\boolean{psu@schreyer}}
-{
-\begin{center}
-THE PENNSYLVANIA STATE UNIVERSITY \\ SCHREYER HONORS COLLEGE
-\end{center}
-}
-{
-\begin{center}
-THE PENNSYLVANIA STATE UNIVERSITY
-\end{center}
-}
-\vfill
-\begin{center}
-\MakeUppercase{\psu@dept}
-\end{center}
-\vfill
-\begin{center}
-\MakeUppercase{\psu@title}
-\end{center}
-\vfill
-\begin{center}
-\MakeUppercase{\psu@author} \\ \MakeUppercase{\psu@degreedate}
-\end{center}
-\vfill
-\begin{center}
-A thesis \\ submitted in partial fulfillment \\ of the requirements \\
-\psu@bachelorsdegreeinfo
-\end{center}
-\vfill
-\mbox{}
-\begin{center}
-Reviewed and approved$^{*}$ by the following:\\[4mm]
-\psu@advisor \\
-\psu@advisortitle \\
-Thesis Supervisor \\[4mm]
-\ifthenelse{\boolean{psu@twoha}}
-{
-\psu@honorsadvisor \\
-\psu@honorsadvisortitle\\
-Honors Advisor \\[4mm]
-\psu@honorsadvisortwo \\
-\psu@honorsadvisortwotitle\\
-Honors Advisor
-}
-{
-\psu@honorsadvisor \\
-\psu@honorsadvisortitle\\
-Honors Advisor
-} \\[4mm]
-\ifthenelse{\boolean{psu@esc}}
-{
-\psu@escdepthead \\
-Department Head \\
-\psu@escdeptheadtitle
-\enlargethispage{24pt}
-}
-{}
-\vfill
-\ifthenelse{\boolean{psu@schreyer}}
-{
-$^{*}$Signatures are on file in the Schreyer Honors College and Department of Engineering Science and Mechanics.
-}
-{
-$^{*}$Signatures are on file in the Department of Engineering Science and Mechanics.
-}
-\end{center}
-%
-%
-\newpage
-% Now for the bachelors signature pages.
-\ifthenelse{\boolean{psu@schreyer} \and \boolean{psu@esc}}
-{
-{\thispagestyle{empty}\large\bfseries\noindent
-This page is not included in the thesis. The page following this one is submitted to the Department of Engineering Science and Mechanics.
-}
-\newpage
-\thispagestyle{empty}
-\noindent
-We approve the thesis of \psu@author:\\[10mm]
-\mbox{}\hfill Date of Signature \hspace{5mm}\mbox{}\\[24pt]
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@advisor \\
-\psu@advisortitle \\
-Thesis Supervisor \\[42pt]
-%
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@honorsadvisor \\
-\psu@honorsadvisortitle \\
-Honors Advisor \\[42pt]
-\ifthenelse{\boolean{psu@twoha}}
-{
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@honorsadvisortwo \\
-\psu@honorsadvisortwotitle \\
-Honors Advisor \\[42pt]
-}
-{}
-\ifthenelse{\boolean{psu@esc}}{
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@escdepthead \\
-Department Head \\
-\psu@escdeptheadtitle
-}
-{}
-% Now the page that goes to the Schreyer Honors College.
-\newpage
-{\thispagestyle{empty}\large\bfseries\noindent
-This page is not included in the thesis. The page following this one is submitted to the Schreyer Honors College.
-}
-\newpage
-\thispagestyle{empty}
-\noindent
-We approve the thesis of \psu@author:\\[10mm]
-\mbox{}\hfill Date of Signature \hspace{5mm}\mbox{}\\[24pt]
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@advisor \\
-\psu@advisortitle \\
-Thesis Supervisor \\[42pt]
-%
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@honorsadvisor \\
-\psu@honorsadvisortitle \\
-Honors Advisor \\[42pt]
-\ifthenelse{\boolean{psu@twoha}}
-{
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@honorsadvisortwo \\
-\psu@honorsadvisortwotitle \\
-Honors Advisor \\[42pt]
-}
-{}
-\addtocounter{page}{-5}
-}
-{
-\newpage
-\thispagestyle{empty}
-\noindent
-We approve the thesis of \psu@author:\\[10mm]
-\mbox{}\hfill Date of Signature \hspace{5mm}\mbox{}\\[24pt]
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@advisor \\
-\psu@advisortitle \\
-Thesis Supervisor \\[42pt]
-%
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@honorsadvisor \\
-\psu@honorsadvisortitle \\
-Honors Advisor \\[42pt]
-\ifthenelse{\boolean{psu@twoha}}
-{
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@honorsadvisortwo \\
-\psu@honorsadvisortwotitle \\
-Honors Advisor \\[42pt]
-}
-{}
-\ifthenelse{\boolean{psu@esc}}{
-\rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
-\psu@escdepthead \\
-Department Head \\
-\psu@escdeptheadtitle
-}
-{}
-\addtocounter{page}{-2}
-}
-%\ifthenelse{\boolean{psu@escdepthead}}{%
-%\begin{tabbing}%
-%Approved: \= \rule{2.75in}{0.5pt} \quad Date: \= \rule{1.5in}{0.5pt} \\[-3pt]
-%          \> \qquad \psu@advisor \\[-3pt]
-%          \> \qquad Thesis Supervisor \\[8mm]
-%%
-%\ifthenelse{\boolean{psu@secondthesissupervisor}}{%
-%          \> \rule{2.75in}{0.5pt}              \> \rule{1.5in}{0.5pt} \\[-3pt]
-%          \> \qquad \psu@secondthesissupervisor \\[-3pt]
-%          \> \qquad Thesis Supervisor \\[8mm]
-%}{}%
-%%
-%          \> \rule{2.75in}{0.5pt}              \> \rule{1.5in}{0.5pt} \\[-3pt]
-%          \> \qquad \psu@honorsadvisor \\[-3pt]
-%          \> \qquad Honors Advisor \\[8mm]
-% %
-%          \> \rule{2.75in}{0.5pt}              \> \rule{1.5in}{0.5pt} \\[-3pt]
-%          \> \qquad \psu@escdepthead \\[-3pt]
-%          \> \qquad Department Head
-%\end{tabbing}%
-%}%
-%{%
-%\begin{tabbing}%
-%Approved: \= \rule{2.75in}{0.5pt} \quad Date: \= \rule{1.5in}{0.5pt} \\[-3pt]
-%          \> \qquad \psu@advisor \\[-3pt]
-%          \> \qquad Thesis Supervisor \\[8mm]
-%%
-%\ifthenelse{\boolean{psu@secondthesissupervisor}}{%
-%          \> \rule{2.75in}{0.5pt}              \> \rule{1.5in}{0.5pt} \\[-3pt]
-%          \> \qquad \psu@secondthesissupervisor \\[-3pt]
-%          \> \qquad Thesis Supervisor \\[8mm]
-%}{}%
-%%
-%          \> \rule{2.75in}{0.5pt}              \> \rule{1.5in}{0.5pt} \\[-3pt]
-%          \> \qquad \psu@honorsadvisor \\[-3pt]
-%          \> \qquad Honors Advisor
-%\end{tabbing}%
-%}%
-}%
-%%%
-{%
-\vspace*{-0.25in}
-\begin{center}
-	The Pennsylvania State University\\
-	\psu@submittedto \\
-	\psu@collegesubmittedto
-\end{center}
-\vfill
-\begin{center}
-    \setstretch{2}
-    \bfseries\uppercase\expandafter{\psu@title}
-\end{center}
-\vfill
-\begin{center}
-    A \psu@documenttype\ in\\
-    \psu@dept\\
-    by\\
-    \psu@author\\
-\end{center}
-\vfill
-\begin{center}
-    \copyright\ \psu@copyrightyear\ \psu@author
-\end{center}
-\vfill
-\begin{center}
-    Submitted in Partial Fulfillment\\
-    of the Requirements\\
-    for the Degree of
-\end{center}
-\vfill
-\begin{center}
-     \psu@degreetype
-\end{center}
-\vfill
-\begin{center}
-    \psu@degreedate
-\end{center}
-%\newpage
-%\ifthenelse{\boolean{psu@ms} \or \boolean{psu@meng} \or \boolean{psu@ma}}{\psupermissionpage}{}
-}
-%%%
-\restoregeometry
-\newpage
+    \setcounter{page}{1}
+    \thispagestyle{empty}%
+    %%%
+    \ifthenelse{\boolean{psu@bs} \or \boolean{psu@ba}}
+    %%%
+    {%
+        \vspace*{-1in}
+        %\enlargethispage{0.5in}
+        \ifthenelse{\boolean{psu@schreyer}}
+        {
+            \begin{center}
+                THE PENNSYLVANIA STATE UNIVERSITY \\ SCHREYER HONORS COLLEGE
+            \end{center}
+        }
+        {
+            \begin{center}
+                THE PENNSYLVANIA STATE UNIVERSITY
+            \end{center}
+        }
+        \vfill
+        \begin{center}
+            \MakeUppercase{\psu@dept}
+        \end{center}
+        \vfill
+        \begin{center}
+            \MakeUppercase{\psu@title}
+        \end{center}
+        \vfill
+        \begin{center}
+            \MakeUppercase{\psu@author} \\ \MakeUppercase{\psu@degreedate}
+        \end{center}
+        \vfill
+        \begin{center}
+            A thesis \\ submitted in partial fulfillment \\ of the requirements \\
+            \psu@bachelorsdegreeinfo
+        \end{center}
+        \vfill
+        \mbox{}
+        \begin{center}
+            Reviewed and approved by the following:\\[4mm]
+            \psu@advisor \\
+            \psu@advisortitle \\
+            Thesis Supervisor \\[4mm]
+            \ifthenelse{\boolean{psu@twoha}}
+            {
+                \psu@honorsadvisor \\
+                \psu@honorsadvisortitle\\
+                Honors Advisor \\[4mm]
+                \psu@honorsadvisortwo \\
+                \psu@honorsadvisortwotitle\\
+                Honors Advisor
+            }
+            {
+                \psu@honorsadvisor \\
+                \psu@honorsadvisortitle\\
+                Honors Advisor
+            } \\[4mm]
+            \ifthenelse{\boolean{psu@esc}}
+            {
+                \psu@escdepthead \\
+                Department Head \\
+                \psu@escdeptheadtitle
+                \enlargethispage{24pt}
+            }
+            {}
+            \vfill
+            \ifthenelse{\boolean{psu@schreyer}}
+            {
+                $^{*}$Signatures are on file in the Schreyer Honors College and Department of Engineering Science and Mechanics.
+            }
+            {
+                $^{*}$Signatures are on file in the Department of Engineering Science and Mechanics.
+            }
+        \end{center}
+        %
+        %
+        \newpage
+        % Now for the bachelors signature pages.
+        \ifthenelse{\boolean{psu@schreyer} \and \boolean{psu@esc}}
+        {
+            {\thispagestyle{empty}\large\bfseries\noindent
+                    This page is not included in the thesis. The page following this one is submitted to the Department of Engineering Science and Mechanics.
+                }
+            \newpage
+            \thispagestyle{empty}
+            \noindent
+            We approve the thesis of \psu@author:\\[10mm]
+            \mbox{}\hfill Date of Signature \hspace{5mm}\mbox{}\\[24pt]
+            \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+            \psu@advisor \\
+            \psu@advisortitle \\
+            Thesis Supervisor \\[42pt]
+            %
+            \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+            \psu@honorsadvisor \\
+            \psu@honorsadvisortitle \\
+            Honors Advisor \\[42pt]
+            \ifthenelse{\boolean{psu@twoha}}
+            {
+                \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+                \psu@honorsadvisortwo \\
+                \psu@honorsadvisortwotitle \\
+                Honors Advisor \\[42pt]
+            }
+            {}
+            \ifthenelse{\boolean{psu@esc}}{
+                \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+                \psu@escdepthead \\
+                Department Head \\
+                \psu@escdeptheadtitle
+            }
+            {}
+            % Now the page that goes to the Schreyer Honors College.
+            \newpage
+            {\thispagestyle{empty}\large\bfseries\noindent
+                This page is not included in the thesis. The page following this one is submitted to the Schreyer Honors College.
+            }
+            \newpage
+            \thispagestyle{empty}
+            \noindent
+            We approve the thesis of \psu@author:\\[10mm]
+            \mbox{}\hfill Date of Signature \hspace{5mm}\mbox{}\\[24pt]
+            \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+            \psu@advisor \\
+            \psu@advisortitle \\
+            Thesis Supervisor \\[42pt]
+            %
+            \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+            \psu@honorsadvisor \\
+            \psu@honorsadvisortitle \\
+            Honors Advisor \\[42pt]
+            \ifthenelse{\boolean{psu@twoha}}
+            {
+                \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+                \psu@honorsadvisortwo \\
+                \psu@honorsadvisortwotitle \\
+                Honors Advisor \\[42pt]
+            }
+            {}
+            \addtocounter{page}{-5}
+        }
+        {
+            \newpage
+            \thispagestyle{empty}
+            \noindent
+            We approve the thesis of \psu@author:\\[10mm]
+            \mbox{}\hfill Date of Signature \hspace{5mm}\mbox{}\\[24pt]
+            \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+            \psu@advisor \\
+            \psu@advisortitle \\
+            Thesis Supervisor \\[42pt]
+            %
+            \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+            \psu@honorsadvisor \\
+            \psu@honorsadvisortitle \\
+            Honors Advisor \\[42pt]
+            \ifthenelse{\boolean{psu@twoha}}
+            {
+                \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+                \psu@honorsadvisortwo \\
+                \psu@honorsadvisortwotitle \\
+                Honors Advisor \\[42pt]
+            }
+            {}
+            \ifthenelse{\boolean{psu@esc}}{
+                \rule{3.5in}{0.5pt}\hfill\rule{1.5in}{0.5pt}\\[12pt]
+                \psu@escdepthead \\
+                Department Head \\
+                \psu@escdeptheadtitle
+            }
+            {}
+            \addtocounter{page}{-2}
+        }
+        %\ifthenelse{\boolean{psu@escdepthead}}{%
+        %\begin{tabbing}%
+        %Approved: \= \rule{2.75in}{0.5pt} \quad Date: \= \rule{1.5in}{0.5pt} \\[-3pt]
+        %          \> \qquad \psu@advisor \\[-3pt]
+        %          \> \qquad Thesis Supervisor \\[8mm]
+        %%
+        %\ifthenelse{\boolean{psu@secondthesissupervisor}}{%
+        %          \> \rule{2.75in}{0.5pt}              \> \rule{1.5in}{0.5pt} \\[-3pt]
+        %          \> \qquad \psu@secondthesissupervisor \\[-3pt]
+        %          \> \qquad Thesis Supervisor \\[8mm]
+        %}{}%
+        %%
+        %          \> \rule{2.75in}{0.5pt}              \> \rule{1.5in}{0.5pt} \\[-3pt]
+        %          \> \qquad \psu@honorsadvisor \\[-3pt]
+        %          \> \qquad Honors Advisor \\[8mm]
+        % %
+        %          \> \rule{2.75in}{0.5pt}              \> \rule{1.5in}{0.5pt} \\[-3pt]
+        %          \> \qquad \psu@escdepthead \\[-3pt]
+        %          \> \qquad Department Head
+        %\end{tabbing}%
+        %}%
+        %{%
+        %\begin{tabbing}%
+        %Approved: \= \rule{2.75in}{0.5pt} \quad Date: \= \rule{1.5in}{0.5pt} \\[-3pt]
+        %          \> \qquad \psu@advisor \\[-3pt]
+        %          \> \qquad Thesis Supervisor \\[8mm]
+        %%
+        %\ifthenelse{\boolean{psu@secondthesissupervisor}}{%
+        %          \> \rule{2.75in}{0.5pt}              \> \rule{1.5in}{0.5pt} \\[-3pt]
+        %          \> \qquad \psu@secondthesissupervisor \\[-3pt]
+        %          \> \qquad Thesis Supervisor \\[8mm]
+        %}{}%
+        %%
+        %          \> \rule{2.75in}{0.5pt}              \> \rule{1.5in}{0.5pt} \\[-3pt]
+        %          \> \qquad \psu@honorsadvisor \\[-3pt]
+        %          \> \qquad Honors Advisor
+        %\end{tabbing}%
+        %}%
+    }%
+    %%%
+    {%
+        \vspace*{-0.25in}
+        \begin{center}
+            The Pennsylvania State University\\
+            \psu@submittedto \\
+            \psu@collegesubmittedto
+        \end{center}
+        \vfill
+        \begin{center}
+            \setstretch{2}
+            \bfseries\uppercase\expandafter{\psu@title}
+        \end{center}
+        \vfill
+        \begin{center}
+            A \psu@documenttype\ in\\
+            \psu@dept\\
+            by\\
+            \psu@author\\
+        \end{center}
+        \vfill
+        \begin{center}
+            \copyright\ \psu@copyrightyear\ \psu@author
+        \end{center}
+        \vfill
+        \begin{center}
+            Submitted in Partial Fulfillment\\
+            of the Requirements\\
+            for the Degree of
+        \end{center}
+        \vfill
+        \begin{center}
+            \psu@degreetype
+        \end{center}
+        \vfill
+        \begin{center}
+            \psu@degreedate
+        \end{center}
+        %\newpage
+        %\ifthenelse{\boolean{psu@ms} \or \boolean{psu@meng} \or \boolean{psu@ma}}{\psupermissionpage}{}
+    }
+    %%%
+    \restoregeometry
+    \newpage
 }
 
 
@@ -618,151 +618,151 @@ Department Head \\
         \setlength{\psu@intersigspace}{1.5\baselineskip}
     }
     \vspace*{-0.2in}
-    \noindent {\normalsize The \MakeTextLowercase{\psu@documenttype} of \psu@author\ was reviewed and approved$^{*}$ by the following:}\\[3\baselineskip]
-\mbox{}\hfill
-\parbox{\textwidth - 0.5in}{
-         \psu@advisor\\[\psu@sigoptionskip]
-         \psu@advisortitle
-         \ifthenelse{\equal{\psu@advisoroptionone}{}}%
-                    {\\[\psu@intersigspace]}%
-                    {\\[\psu@sigoptionskip]
-                        \psu@advisoroptionone \\ \psu@advisoroptiontwo \\[\psu@sigafteroptionskip]}
-\ifcase \psu@readers
-\or
-          \psu@readerone\\[\psu@sigoptionskip]
-          \psu@readeronetitle
-          \ifthenelse{\equal{\psu@readeroneoption}{}}%
-                     {}%
-                     {\\[\psu@sigoptionskip] \psu@readeroneoption}
-\or
-          \psu@readerone\\[\psu@sigoptionskip]
-          \psu@readeronetitle
-          \ifthenelse{\equal{\psu@readeroneoption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readeroneoption \\[\psu@sigafteroptionskip]}
-          \psu@readertwo\\[\psu@sigoptionskip]
-          \psu@readertwotitle
-          \ifthenelse{\equal{\psu@readertwooption}{}}%
-                     {}%
-                     {\\[\psu@sigoptionskip] \psu@readertwooption}
-\or
-          {\psu@readerone}\\[\psu@sigoptionskip]
-          \psu@readeronetitle
-          \ifthenelse{\equal{\psu@readeroneoption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readeroneoption \\[\psu@sigafteroptionskip]}
-          {\psu@readertwo}\\[\psu@sigoptionskip]
-          \psu@readertwotitle
-          \ifthenelse{\equal{\psu@readertwooption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readertwooption \\[\psu@sigafteroptionskip]}
-          {\psu@readerthree}\\[\psu@sigoptionskip]
-          \psu@readerthreetitle
-          \ifthenelse{\equal{\psu@readerthreeoption}{}}%
-                     {}%
-                     {\\[\psu@sigoptionskip] \psu@readerthreeoption}
-\or
-          \psu@readerone\\[\psu@sigoptionskip]
-          \psu@readeronetitle
-          \ifthenelse{\equal{\psu@readeroneoption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readeroneoption \\[\psu@sigafteroptionskip]}
-          \psu@readertwo\\[\psu@sigoptionskip]
-          \psu@readertwotitle
-          \ifthenelse{\equal{\psu@readertwooption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readertwooption \\[\psu@sigafteroptionskip]}
-          \psu@readerthree\\[\psu@sigoptionskip]
-          \psu@readerthreetitle
-          \ifthenelse{\equal{\psu@readerthreeoption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readerthreeoption \\[\psu@sigafteroptionskip]}
-          \psu@readerfour\\[\psu@sigoptionskip]
-          \psu@readerfourtitle
-          \ifthenelse{\equal{\psu@readerfouroption}{}}%
-                     {}%
-                     {\\[\psu@sigoptionskip] \psu@readerfouroption}
-\or
-          \psu@readerone\\[\psu@sigoptionskip]
-          \psu@readeronetitle
-          \ifthenelse{\equal{\psu@readeroneoption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readeroneoption \\[\psu@sigafteroptionskip]}
-          \psu@readertwo\\[\psu@sigoptionskip]
-          \psu@readertwotitle
-          \ifthenelse{\equal{\psu@readertwooption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readertwooption \\[\psu@sigafteroptionskip]}
-          \psu@readerthree\\[\psu@sigoptionskip]
-          \psu@readerthreetitle
-          \ifthenelse{\equal{\psu@readerthreeoption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readerthreeoption \\[\psu@sigafteroptionskip]}
-          \psu@readerfour\\[\psu@sigoptionskip]
-          \psu@readerfourtitle
-          \ifthenelse{\equal{\psu@readerfouroption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readerfouroption \\[\psu@sigafteroptionskip]}
-          \psu@readerfive\\[\psu@sigoptionskip]
-          \psu@readerfivetitle
-          \ifthenelse{\equal{\psu@readerfiveoption}{}}%
-                     {}%
-                     {\\[\psu@sigoptionskip] \psu@readerfiveoption}
-\or
-          \psu@readerone\\[\psu@sigoptionskip]
-          \psu@readeronetitle
-          \ifthenelse{\equal{\psu@readeroneoption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readeroneoption \\[\psu@sigafteroptionskip]}
-          \psu@readertwo\\[\psu@sigoptionskip]
-          \psu@readertwotitle
-          \ifthenelse{\equal{\psu@readertwooption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readertwooption \\[\psu@sigafteroptionskip]}
-          \psu@readerthree\\[\psu@sigoptionskip]
-          \psu@readerthreetitle
-          \ifthenelse{\equal{\psu@readerthreeoption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readerthreeoption \\[\psu@sigafteroptionskip]}
-          \psu@readerfour\\[\psu@sigoptionskip]
-          \psu@readerfourtitle
-          \ifthenelse{\equal{\psu@readerfouroption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readerfouroption \\[\psu@sigafteroptionskip]}
-          \psu@readerfive\\[\psu@sigoptionskip]
-          \psu@readerfivetitle
-          \ifthenelse{\equal{\psu@readerfiveoption}{}}%
-                     {\\[\psu@intersigspace]}%
-                     {\\[\psu@sigoptionskip]
-                               \psu@readerfiveoption \\[\psu@sigafteroptionskip]}
-          \psu@readersix\\[\psu@sigoptionskip]
-          \psu@readersixtitle
-          \ifthenelse{\equal{\psu@readersixoption}{}}%
-                     {}%
-                     {\\[\psu@sigoptionskip] \psu@readersixoption}
-\fi
-}
+    \noindent {\normalsize The \MakeTextLowercase{\psu@documenttype} of \psu@author\ was reviewed and approved by the following:}\\[3\baselineskip]
+    \mbox{}\hfill
+    \parbox{\textwidth - 0.5in}{
+        \psu@advisor\\[\psu@sigoptionskip]
+        \psu@advisortitle
+        \ifthenelse{\equal{\psu@advisoroptionone}{}}%
+        {\\[\psu@intersigspace]}%
+        {\\[\psu@sigoptionskip]
+            \psu@advisoroptionone \\ \psu@advisoroptiontwo \\[\psu@sigafteroptionskip]}
+        \ifcase \psu@readers
+        \or
+            \psu@readerone\\[\psu@sigoptionskip]
+            \psu@readeronetitle
+            \ifthenelse{\equal{\psu@readeroneoption}{}}%
+            {}%
+            {\\[\psu@sigoptionskip] \psu@readeroneoption}
+        \or
+            \psu@readerone\\[\psu@sigoptionskip]
+            \psu@readeronetitle
+            \ifthenelse{\equal{\psu@readeroneoption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readeroneoption \\[\psu@sigafteroptionskip]}
+            \psu@readertwo\\[\psu@sigoptionskip]
+            \psu@readertwotitle
+            \ifthenelse{\equal{\psu@readertwooption}{}}%
+            {}%
+            {\\[\psu@sigoptionskip] \psu@readertwooption}
+        \or
+            {\psu@readerone}\\[\psu@sigoptionskip]
+            \psu@readeronetitle
+            \ifthenelse{\equal{\psu@readeroneoption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readeroneoption \\[\psu@sigafteroptionskip]}
+            {\psu@readertwo}\\[\psu@sigoptionskip]
+            \psu@readertwotitle
+            \ifthenelse{\equal{\psu@readertwooption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readertwooption \\[\psu@sigafteroptionskip]}
+            {\psu@readerthree}\\[\psu@sigoptionskip]
+            \psu@readerthreetitle
+            \ifthenelse{\equal{\psu@readerthreeoption}{}}%
+            {}%
+            {\\[\psu@sigoptionskip] \psu@readerthreeoption}
+        \or
+            \psu@readerone\\[\psu@sigoptionskip]
+            \psu@readeronetitle
+            \ifthenelse{\equal{\psu@readeroneoption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readeroneoption \\[\psu@sigafteroptionskip]}
+            \psu@readertwo\\[\psu@sigoptionskip]
+            \psu@readertwotitle
+            \ifthenelse{\equal{\psu@readertwooption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readertwooption \\[\psu@sigafteroptionskip]}
+            \psu@readerthree\\[\psu@sigoptionskip]
+            \psu@readerthreetitle
+            \ifthenelse{\equal{\psu@readerthreeoption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readerthreeoption \\[\psu@sigafteroptionskip]}
+            \psu@readerfour\\[\psu@sigoptionskip]
+            \psu@readerfourtitle
+            \ifthenelse{\equal{\psu@readerfouroption}{}}%
+            {}%
+            {\\[\psu@sigoptionskip] \psu@readerfouroption}
+        \or
+            \psu@readerone\\[\psu@sigoptionskip]
+            \psu@readeronetitle
+            \ifthenelse{\equal{\psu@readeroneoption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readeroneoption \\[\psu@sigafteroptionskip]}
+            \psu@readertwo\\[\psu@sigoptionskip]
+            \psu@readertwotitle
+            \ifthenelse{\equal{\psu@readertwooption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readertwooption \\[\psu@sigafteroptionskip]}
+            \psu@readerthree\\[\psu@sigoptionskip]
+            \psu@readerthreetitle
+            \ifthenelse{\equal{\psu@readerthreeoption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readerthreeoption \\[\psu@sigafteroptionskip]}
+            \psu@readerfour\\[\psu@sigoptionskip]
+            \psu@readerfourtitle
+            \ifthenelse{\equal{\psu@readerfouroption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readerfouroption \\[\psu@sigafteroptionskip]}
+            \psu@readerfive\\[\psu@sigoptionskip]
+            \psu@readerfivetitle
+            \ifthenelse{\equal{\psu@readerfiveoption}{}}%
+            {}%
+            {\\[\psu@sigoptionskip] \psu@readerfiveoption}
+        \or
+            \psu@readerone\\[\psu@sigoptionskip]
+            \psu@readeronetitle
+            \ifthenelse{\equal{\psu@readeroneoption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readeroneoption \\[\psu@sigafteroptionskip]}
+            \psu@readertwo\\[\psu@sigoptionskip]
+            \psu@readertwotitle
+            \ifthenelse{\equal{\psu@readertwooption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readertwooption \\[\psu@sigafteroptionskip]}
+            \psu@readerthree\\[\psu@sigoptionskip]
+            \psu@readerthreetitle
+            \ifthenelse{\equal{\psu@readerthreeoption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readerthreeoption \\[\psu@sigafteroptionskip]}
+            \psu@readerfour\\[\psu@sigoptionskip]
+            \psu@readerfourtitle
+            \ifthenelse{\equal{\psu@readerfouroption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readerfouroption \\[\psu@sigafteroptionskip]}
+            \psu@readerfive\\[\psu@sigoptionskip]
+            \psu@readerfivetitle
+            \ifthenelse{\equal{\psu@readerfiveoption}{}}%
+            {\\[\psu@intersigspace]}%
+            {\\[\psu@sigoptionskip]
+                \psu@readerfiveoption \\[\psu@sigafteroptionskip]}
+            \psu@readersix\\[\psu@sigoptionskip]
+            \psu@readersixtitle
+            \ifthenelse{\equal{\psu@readersixoption}{}}%
+            {}%
+            {\\[\psu@sigoptionskip] \psu@readersixoption}
+        \fi
+    }
 
-\mbox{}\vfill
+    \mbox{}\vfill
 
-\noindent
-\parbox{\textwidth}{$^{*}$Signatures are on file in the Graduate School.}
+    \noindent
+    % \parbox{\textwidth}{$^{*}$Signatures are on file in the Graduate School.}
 
-\newpage
+    \newpage
 }
 
 
@@ -782,12 +782,12 @@ Department Head \\
 
 
 \newcommand{\thesisabstract}[1]{%
-%\pagestyle{plain}
-\chapter*{Abstract}
+    %\pagestyle{plain}
+    \chapter*{Abstract}
     \begin{singlespace}
         \input{#1}
     \end{singlespace}
-\newpage
+    \newpage
 }
 
 
@@ -795,19 +795,19 @@ Department Head \\
 \setcounter{secnumdepth}{10}
 \setcounter{tocdepth}{4}
 \newcommand{\thesistableofcontents}{%
-\begin{singlespace}
-\if@twocolumn
-\@restonecoltrue\onecolumn
-\else
-\@restonecolfalse
-\fi
-\chapter*{\contentsname
-\@mkboth{%
-\MakeUppercase\contentsname}{\MakeUppercase\contentsname}}%
-\@starttoc{toc}%
-\if@restonecol\twocolumn\fi%
-\end{singlespace}
-\clearpage
+    \begin{singlespace}
+        \if@twocolumn
+            \@restonecoltrue\onecolumn
+        \else
+            \@restonecolfalse
+        \fi
+        \chapter*{\contentsname
+          \@mkboth{%
+              \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}%
+        \@starttoc{toc}%
+        \if@restonecol\twocolumn\fi%
+    \end{singlespace}
+    \clearpage
 }
 
 %\renewcommand{\listfigurename}{List of Figures}
@@ -830,84 +830,84 @@ Department Head \\
 
 \renewcommand{\listtablename}{List of Tables}
 \newcommand{\thesislistoftables}{%
-\begin{singlespace}
-\if@twocolumn
-\@restonecoltrue\onecolumn
-\else
-\@restonecolfalse
-\fi
-\chapter{\listtablename
-\@mkboth{%
-\MakeUppercase\listtablename}{\MakeUppercase\listtablename}}%
-\@starttoc{lot}%
-\if@restonecol\twocolumn\fi
-\end{singlespace}
-\clearpage
+    \begin{singlespace}
+        \if@twocolumn
+            \@restonecoltrue\onecolumn
+        \else
+            \@restonecolfalse
+        \fi
+        \chapter{\listtablename
+          \@mkboth{%
+              \MakeUppercase\listtablename}{\MakeUppercase\listtablename}}%
+        \@starttoc{lot}%
+        \if@restonecol\twocolumn\fi
+    \end{singlespace}
+    \clearpage
 }
 
 
 \newcommand{\thesislistofsymbols}[1]{%
-\chapter{List of Symbols}
-%\addcontentsline{toc}{chapter}{List of Symbols}
-\begin{singlespace}
-    \input{#1}
-\end{singlespace}
+    \chapter{List of Symbols}
+    %\addcontentsline{toc}{chapter}{List of Symbols}
+    \begin{singlespace}
+        \input{#1}
+    \end{singlespace}
 }
 
 
 \newcommand{\thesisacknowledgments}[1]{%
-\chapter{Acknowledgments}
-%\addcontentsline{toc}{chapter}{Acknowledgments}
-\begin{singlespace}
-    \input{#1}
-\end{singlespace}
+    \chapter{Acknowledgments}
+    %\addcontentsline{toc}{chapter}{Acknowledgments}
+    \begin{singlespace}
+        \input{#1}
+    \end{singlespace}
 }
 
 
 \newcommand{\thesisdedication}[2]{%
-\chapter*{#2}
-\begin{singlespace}
-    \input{#1}
-\end{singlespace}
+    \chapter*{#2}
+    \begin{singlespace}
+        \input{#1}
+    \end{singlespace}
 }
 
 
 \newcommand{\Appendix}{\@dblarg\my@Appendix}
 \def\my@Appendix[#1]#2{%
-\ifthenelse{\value{chapter} = 0}
-{
-\ifthenelse{\boolean{psu@toc}}
-{%
-\addtocontents{toc}{\protect\addtolength{\cftchapnumwidth}{-\mylength}}
-\addtocontents{toc}{\string\renewcommand{\string\cftchappresnum}{Appendix }}
-\addtocontents{toc}{\protect\addtolength{\cftchapnumwidth}{\mylonglength}}
-}%
-{%
-\addtocontents{toc}{\string\renewcommand{\string\cftchappresnum}{Appendix }}
-}}{}%
-\chapter[#1]{#2}
+    \ifthenelse{\value{chapter} = 0}
+    {
+        \ifthenelse{\boolean{psu@toc}}
+        {%
+            \addtocontents{toc}{\protect\addtolength{\cftchapnumwidth}{-\mylength}}
+            \addtocontents{toc}{\string\renewcommand{\string\cftchappresnum}{Appendix }}
+            \addtocontents{toc}{\protect\addtolength{\cftchapnumwidth}{\mylonglength}}
+        }%
+        {%
+            \addtocontents{toc}{\string\renewcommand{\string\cftchappresnum}{Appendix }}
+        }}{}%
+    \chapter[#1]{#2}
 }
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \DeclareRobustCommand{\thesismainmatter}{%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\setlength{\textheight}{8.5in}
-\mainmatter
-%\pagestyle{empty}
-%\renewcommand{\@oddhead}{\mbox{}\hfill\arabic{page}}
-%\let\ps@plain = \ps@empty
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %\setlength{\textheight}{8.5in}
+    \mainmatter
+    %\pagestyle{empty}
+    %\renewcommand{\@oddhead}{\mbox{}\hfill\arabic{page}}
+    %\let\ps@plain = \ps@empty
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \newcommand{\vita}[1]{%
-\begin{singlespace}
-\thispagestyle{empty}
-\begin{center}
-    \textbf{{\large Vita} \\[0.1in] \psu@author}
-\end{center}
-\input{#1}
-\end{singlespace}
+    \begin{singlespace}
+        \thispagestyle{empty}
+        \begin{center}
+            \textbf{{\large Vita} \\[0.1in] \psu@author}
+        \end{center}
+        \input{#1}
+    \end{singlespace}
 }
 
 

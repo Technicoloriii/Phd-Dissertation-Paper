@@ -1,38 +1,54 @@
 \acswitchoff 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Fiscal Federalism Structure}}{3}{}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces How to evaluate the fiscal federalism}}{7}{}%
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Source of Revenue for Multiple Level of Governments in 2019}}{8}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Source of Federal Revenue}}}{8}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Source of State Revenue}}}{8}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Source of Local Revenue}}}{8}{}%
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Expenditure Structure for Multiple Level of Governments in 2019}}{9}{}%
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Venn graph on public goods and services supplying}}{10}{}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Dynamic Game Tree of 3 players}}{17}{}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Heatmap of the Social Characteristics}}{41}{}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Principle Components Contribution}}{42}{}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Principle Components Analysis Scatter Plot}}{42}{}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces IGT and Factors Scatter Plot}}{46}{}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Effect of Intergovernmental Transfer \texttt {} \relax }}{55}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Income Effect and Price Effect of Matching and Non-matching Grants}}{59}{}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Hamilton's Curved Budget Constraint}}{62}{}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces 3-Dimensions Plot of the Fluctuation of Flypaper Effect under Distortion\relax }}{65}{}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{65}{}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{65}{}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{65}{}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{65}{}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces 2-Dimensions Plot of the Fluctuation of Flypaper Effect on $\beta $\relax }}{66}{}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces 2-Dimensions Plot of the Fluctuation of Flypaper Effect on $\alpha $\relax }}{67}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Fluctuation of Revenue Structure}}{83}{}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Time Series Graph of Republican States IGT (2000-2019)}}{83}{}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Time Series Graph of Democratic States IGT(2000-2019)}}{84}{}%
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Time Series Graph of Swing States IGT (2000-2019) }}{84}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Fiscal Federalism Structure}}{124}{}%
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Fluctuation of Revenue Structure}}{125}{}%
+\contentsline {figure}{\numberline {B.3}{\ignorespaces How to evaluate the fiscal federalism}}{126}{}%
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Source of Revenue for Multiple Level of Governments in 2019}}{127}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Federal Expenditure}}}{127}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {State and Local Expenditure}}}{127}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Source of Federal Revenue}}}{127}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Source of State Revenue}}}{127}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Source of Local Revenue}}}{127}{}%
+\contentsline {figure}{\numberline {B.5}{\ignorespaces Expenditure Structure for Multiple Level of Governments in 2019}}{127}{}%
+\contentsline {figure}{\numberline {B.6}{\ignorespaces Venn graph on public goods and services supplying}}{128}{}%
+\contentsline {figure}{\numberline {B.7}{\ignorespaces Dynamic Game Tree of 3 players}}{130}{}%
+\contentsline {figure}{\numberline {B.8}{\ignorespaces When $c_N$ lies outside the range of $c_i$ and $c_{-i}$\relax }}{131}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Federal Expenditure}}}{131}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {State and Local Expenditure}}}{131}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{131}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{131}{}%
+\contentsline {figure}{\numberline {B.9}{\ignorespaces When $c_N$ lies between $c_i$ and $c_i$\relax }}{132}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{132}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{132}{}%
+\contentsline {figure}{\numberline {B.10}{\ignorespaces Grants Type in America}}{133}{}%
+\contentsline {figure}{\numberline {B.11}{\ignorespaces Heatmap of the Social Characteristics}}{134}{}%
+\contentsline {figure}{\numberline {B.12}{\ignorespaces Principle Components Contribution}}{135}{}%
+\contentsline {figure}{\numberline {B.13}{\ignorespaces Principle Components Analysis Scatter Plot}}{136}{}%
+\contentsline {figure}{\numberline {B.14}{\ignorespaces IGT and Factors Scatter Plot}}{137}{}%
+\contentsline {figure}{\numberline {B.15}{\ignorespaces Effect of Intergovernmental Transfer \texttt {} \relax }}{138}{}%
+\contentsline {figure}{\numberline {B.16}{\ignorespaces Income Effect and Price Effect of Matching and Non-matching Grants}}{139}{}%
+\contentsline {figure}{\numberline {B.17}{\ignorespaces Hamilton's Curved Budget Constraint}}{140}{}%
+\contentsline {figure}{\numberline {B.18}{\ignorespaces 3-Dimensions Plot of the Fluctuation of Flypaper Effect under Distortion\relax }}{141}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Histgram}}}{141}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Line}}}{141}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {2 Principle Components Analysis Scatter}}}{141}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {3 principle Components Analysis Scatter}}}{141}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{141}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{141}{}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{141}{}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{141}{}%
+\contentsline {figure}{\numberline {B.19}{\ignorespaces 2-Dimensions Plot of the Fluctuation of Flypaper Effect on $\alpha $\relax }}{142}{}%
+\contentsline {figure}{\numberline {B.20}{\ignorespaces 2-Dimensions Plot of the Fluctuation of Flypaper Effect on $\beta $\relax }}{143}{}%
+\contentsline {figure}{\numberline {B.21}{\ignorespaces Expression of $\frac {\partial e_{i,t}}{\partial n}$}}{144}{}%
+\contentsline {figure}{\numberline {B.22}{\ignorespaces Laffer Curve for Tax Collection Effort}}{145}{}%
+\contentsline {figure}{\numberline {B.23}{\ignorespaces Interaction effect between general transfer ratio and W-preference}}{146}{}%
+\contentsline {figure}{\numberline {B.24}{\ignorespaces Interaction effect between productive categorical transfer ratio and W-preference}}{146}{}%
