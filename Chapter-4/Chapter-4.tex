@@ -2,33 +2,60 @@
 
 \chapter{Effect of Intergovernmental Transfer on Local Governments' Spending Behavior}
 
-The following two chapter talks about the reaction of subnational governments with different intergovernmental transfer. I did a comprehensive literature review for the current literature. Generally, I divided the literature into 3 categories, based on the fiscal behavior and whether the topic is across or within the border of the jurisdiction. The investigation directions of the literature can be summarized as Figure\ref*{Figure 3.1}. The first category focus on the impact on local governments' spending behavior. The second category talks about the impact on local governments' revenue collection behavior, such as the investigation on local governments' tax effort, debt expansion tendency and issue and soft budget constrain behavior. The third category is about the effect of intergovernmental transfer across jurisdictions, such as the role of intergovernmental transfer in equalization.
+Chapter 4 marks a pivotal transition in our exploration of fiscal federalism, shifting the lens to the specific impacts of transfer payments on local government fiscal behavior, including public spending actions and revenue collection behaviors. Prior to delving into the core analysis, it is imperative to contextualize our investigation within the existing scholarly landscape. The literature on transfer payments' effects is rich and diverse, generally bifurcated into studies examining inter-jurisdictional impacts and those focusing on the fiscal behavior of local governments themselves, summarized as Figure \ref*{Figure 3.1}. The top side of Figure \ref{Figure 3.1} focuses on the topic of transfer payments' impacts across regions, while the lower side concentrates on the effects on subnational governments' own fiscal behaviors, which are further divided into fiscal expenditure behavior and fiscal revenue behavior. For example, the topic across regions may include: the role of transfer payments in influencing revenue equity and their role in enhancing fiscal equity across regions. This latter category, which forms the crux of Chapters 4 and 5, is further divided based on the nature of fiscal behavior under examination: public spending (Chapter 4) and tax collection activities (Chapter 5).
 
-\begin{figure}[H]
-    \centering
-    \includegraphics[scale=0.4]{Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg}
-    \caption{Effect of Intergovernmental Transfer
-        \texttt{} }
-    \label{Figure 3.1}
-\end{figure}
+Chapter 4 of this dissertation critically examines the impact of intergovernmental transfers on the spending behavior of local governments, specifically through the lens of the "flypaper effect." This analysis is pivotal to the dissertation's overarching goal of delineating the intricate web of fiscal interactions and their implications within the fiscal federalism framework. By systematically reviewing the literature and employing a mathematical model to investigate how these transfers influence local expenditure decisions, this chapter contributes to a deeper understanding of the behavioral dynamics at play within fiscal federalism. It highlights the nuanced ways in which federal grants affect local spending priorities and practices, thus providing essential insights into the efficiency and effectiveness of resource allocation across government tiers. This exploration not only enriches our theoretical knowledge of fiscal federalism but also offers practical guidance for policymakers aiming to optimize public goods provision through strategic intergovernmental transfers. Consequently, the findings and discussions presented in this chapter enhance the comprehensive analysis of fiscal strategies explored throughout the dissertation, reaffirming the significance of understanding fiscal behaviors in achieving equitable and efficient public service delivery.
 
-The lower two sectors talks about subnational governments' reaction in spending and revenue behavior. Those behavior focus on the behavior within the jurisdiction. The literature about he red sector in Figure\ref*{Figure 3.1} is discussed in this chapter and the discussion about the blue sector will be talked in Chapter 5.
+In Chapter 4, I conduct a comprehensive review of literature related to the effect of intergovernmental transfer on subnational government spending, with a key focus on systematically categorizing explanations for the flypaper effect observed in previous studies. Recognizing a gradual deepening in scholars' understanding of the flypaper effect, we divide this evolution into three stages. In addition, by developing and refining a model to simulate the specific causes behind the flypaper effect, we offer a mathematical representation that allows for its visualization, enabling an intuitive observation of changes in the effect's magnitude.
 
-\section{Effect of IGT on Local Governments' Spending}
+\section{Fungibility and Flypaper Effect}
 
-\subsection{Effect of IGT on Local Governments' Total Spending Amounts}
+One intuitive philosophy about the effect of IGT on subnational government spending is called "fungibility" \parencite{pack1993foreign}, which means the intergovernmental transfer received by local government would substitute the local government's revenue. Recipients assimilate federal funds into general revenue and reduce the spending on public goods through a reduction of local taxes within the jurisdiction. However, supportive empirical evidence are quite limited. On the contrary, evidence on flypaper effect is widespread everywhere.
 
-One intuitive philosophy about the effect of IGT on subnational government spending is called "fungibility" \cite{pack1993foreign}, which means the intergovernmental transfer received by local government would substitute the local government's revenue. Recipients assimilate federal funds into general revenue and reduce the spending on public goods through a reduction of local taxes within the jurisdiction. However, supportive empirical evidence are quite limited. On the contrary, evidence on flypaper effect is widespread everywhere.
-
-The flypaper effect is widely regarded as the most influential phenomenon in the fiscal federalism literature regarding the vertical transfer of funds from the federal to the state or local level \cite{hines1995anomalies,gamkhar2007impact}. According to Bradford and Oates' model, a lump sum grant to the state or local level should have the same effect as an increase in individual revenue within the jurisdiction in terms of stimulating public expenditure \cite{bradford1971analysis}. This conclusion is known as the equivalence theorem, which is based on two fundamental assumptions: the median voter theorem and lump-sum tax collection by federal, state, and local governments. However, empirical evidence does not support this theorem. Specifically, some researchers have found that a \$1 increase in individual revenue leads to an increase in public expenditure of only \$0.02 to \$0.05, while a \$1 increase in intergovernmental transfers can lead to an increase in public expenditure of \$0.25 to even \$1 \cite{bailey1998flypaper,dollery1996empirical,gamkhar2007impact}. This phenomenon is known as the flypaper effect. According to Inman's statistics, over 3,500 research papers have investigated the flypaper effect, both theoretically and empirically \cite{inman2008flypaper}.
+The flypaper effect is widely regarded as the most influential phenomenon in the fiscal federalism literature regarding the vertical transfer of funds from the federal to the state or local level \parencite{hines1995anomalies,gamkhar2007impact}. According to Bradford and Oates' model, a lump sum grant to the state or local level should have the same effect as an increase in individual revenue within the jurisdiction in terms of stimulating public expenditure \parencite{bradford1971analysis}. This conclusion is known as the equivalence theorem, which is based on two fundamental assumptions: the median voter theorem and lump-sum tax collection by federal, state, and local governments. However, empirical evidence does not support this theorem. Specifically, some researchers have found that a \$1 increase in individual revenue leads to an increase in public expenditure of only \$0.02 to \$0.05, while a \$1 increase in intergovernmental transfers can lead to an increase in public expenditure of \$0.25 to even \$1 \parencite{bailey1998flypaper,dollery1996empirical,gamkhar2007impact}. This phenomenon is known as the flypaper effect. According to Inman's statistics, over 3,500 research papers have investigated the flypaper effect, both theoretically and empirically \parencite{inman2008flypaper}.
 
 In this section, I'm summarizing how scholars in different stages explain the flypaper effect. The understanding of flypaper effect went through a incremental progress, though may not be chronologically. This progress can be identified as three phrases. In the first stage, the conventional analysis, scholars believe the matching grants have both price effect and income effects while the non-matching grants is analogous to the lump-sum subsidy, which means only income effects exists. In second stage, some scholars start to realize that non-matching grants has price effects as well, but that's due to the impact of fiscal federalism setting and fiscal illusion. Federal government collecting revenue then redistributing to state and local generates fiscal illusion since this process is too complicated for consumers to perceive. In third stage, scholars start to realize the effect of distortionary tax that collect by grants recipient. The distortionary tax policy together with the low administrative efficiency in state and local leads to a higher marginal cost of the tax collection. Hence no matter the grants is matching or non-matching, the state or local government trend to use the grants rather than the tax revenue to cover the expenditure.
 
-I set up a very simple Ramsey model to better summarize the literature discussing the flypaper effect.
+The investigation on flypaper effect in my view can be divided into 3 phrase from the shallower to the deeper.
 
-\textbf{Benchmark model}
+\section{Literature on Flypaper Effect}
+\subsection{Phrase One}
 
-The Benchmark model is similar to Carlos and Guillermo's \cite{vegh2016unsticking} benchmark model with small modification.
+Except for the introduction of intergovernmental transfer in figure \ref*{grantstype}, one important concern about IGT in economic analysis is the matching mechanism. For matching grants, federal governments will reimburse a specific ratio for each 1 dollar of state and local expenditure. Based on whether federal government set a cap on the matching grants, matching grants can be divided into open-ended matching grants and closed-ended grants.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%
+As is shown in figure \ref{Figure 3.3}, the two parallel lines $L1$ and $L3$ are budget constraint of the economy before and after the non-matching grants and $L3$ is the budget constraint with matching grants which is the red line. The difference between $G_m$ and $G*$ is the combination of price effect and income effect of matching grants.
+
+The matching grants model explains why scholars in first stage explain the fly paper effect by misspecification or omitted variable. Misspecification refers to instances where researchers may conflate matching grants with lump-sum grants, leading to a mix-up of price effects and subsequently resulting in increased public goods spending \parencite{lankford1987note,henderson1968local}. Matching grants reduce the marginal price of public services, thus mix-up with lump-sum grants would lead to an increase in public goods spending \parencite{gramlich1997state}. Some scholars attribute the flypaper effect to omitted variables or pre-selection issues. \textcite{knight2002endogenous} developed a two-level bargaining model to demonstrate that the federal government distributes intergovernmental transfers to states and local governments with a higher propensity to spend, indicating that the flypaper effect is not a result of intergovernmental transfers. However, prior studies and investigations have encountered endogeneity issues. To address this, Knight conducted an empirical test where he employed an instrumental variable to control for the endogeneity problem. His results indicate that once the pre-selection issue is filtered out, the flypaper effect is not evident, at least for the data he collected regarding interstate highway programs. To summarize, the understanding under this view is that the flypaper effect may not actually exist, but may instead be a result of misspecification or omitted variables.
+
+\subsection{Phrase two}
+
+The literature on the flypaper effect has also been approached from a second perspective, whereby scholars recognize the importance of lump-sum grants and their potential price effects. While scholars in the first stage focused on the price effects of matching grants, it was realized that this may not be sufficient to explain the large gap in the flypaper effect. As such, the second stage of literature argues that non-matching grants also have price effects, which can be attributed to fiscal illusions. \textcite{mcculloch1845treatise} argued that taxpayers often misperceive the costs of governmental activities, a concept later summarized as fiscal illusions. The theory of fiscal illusion was first developed by Italian economist \textcite{puviani1903teoria}in his 1903 book \textit{Teoria della illusione finanziaria}. \textcite{wagner1976revenue} introduced this concept in America and identified the effect of fiscal illusions on local government spending. \textcite{oates1979lump,borge1995lump} also recognized the potential price effect of non-matching grants and attempted to explain it using the concept of fiscal illusions. The lower-estimated public good price generates a even flatter slope of the budget constraint compared to the $L_3$ in figure \ref{Figure 3.3}.
+
+The existence of fiscal illusion can be attributed to administrative factors and institutional intention. The fiscal federalism framework is complex and difficult for residents to comprehend, while administrative processes are often opaque and lack transparency, preventing residents from understanding the nuances of intergovernmental grants and their own contributions to these grants. Empirical research by \textcite{turnbull1998overspending} supports this view, demonstrating that imperfect information generates a broader fiscal illusion based on municipal data. Additionally, the budget-maximizing tendencies of bureaucratic systems are supported by both empirical evidence and theoretical inference \parencite{mueller2003public,brennan1977towards}. This tendency is sometimes referred to as "Leviathan government," in which governments seek to maximize their budgets rather than prioritize residents' utility \parencite{quigley1986budget}. The combination of budget-maximizing bureaucrats and lower perceived prices of public goods leads to increased expenditure on public goods.
+
+
+\subsection{Phrase Three}
+
+In stage three, Scholars have also examined the effect of the cost of tax collection within a jurisdiction. This cost can arise from two aspects, one being the distortionary tax, another one comes from the revenue collection ability of the sunational government. Assuming that tax revenue collection does not cause any distortion for the recipient is a strong assumption. In reality, changes in state and local government tax policies can significantly alter residents' behavior. For instance, if residents are dissatisfied with tax and public goods policies, they may choose to work less and spend more time on leisure. Alternatively, they may move to another jurisdiction, which itself incurs costs due to the tax increase. \textcite{hamilton1986flypaper} was the first to observe that the cost of tax collection within a jurisdiction leads to a curved budget constraint, rather than a straight line. However, his idea was not widely accepted at the time, and he neglected to consider administrative ability as a source of cost, focusing only on deadweight loss as the source of tax collecting cost.
+
+
+In reality, the cost of tax collection comes from various sources, including the different levels of administrative ability between federal and state governments. \textcite{volden2007intergovernmental} developed a game theory model to simulate the interaction between the federal government and lower-level governments and showed that the different costs of collecting revenue for federal and state governments partially explains the flypaper effect. \textcite{dahlby2016stimulative} argued that the price effect of non-matching grants exists even without fiscal illusion due to subnational governments face information and ability disadvantages, meanwhile \textcite{vegh2016unsticking} came to a similar conclusion. In summary, these researchers suggest that the collection of tax revenue is costly for state and local governments due to factors such as administrative inefficiency and distortion, leading to a preference for using "cheaper" resources such as intergovernmental transfers. Therefore, even non-matching grants or lump-sum grants can have price effects.
+
+Some horizontal government interaction explains this distortion as well, \textcite{brueckner2003strategic} develops a strategic model to analyze the state and local fiscal behavior, he concludes that the lower-level governments are quite sensitive to other competitors. This sensitivity may explain why state and local government don't want tax increase revenue to cover the public goods. Other horizontal interaction theory such as yardstick competition or tax competition also explains the sensitivity.
+
+
+
+I expand the benchmark model by introducing the distortion of tax collection into it.
+
+
+\section{Mathematical Expression of Flypaper effect}
+
+Following the comprehensive literature review on the flypaper effect, the next step involves developing a mathematical model to simulate this phenomenon. Beginning with foundational assumptions where the flypaper effect is initially absent, the model progressively incorporates a variety of taxes and refines utility functions to provide a clear and explicit explanation of the reasons behind the flypaper effect. This approach aims to elucidate the underlying mechanics of the effect, offering a theoretical framework that enhances our understanding through a step-by-step augmentation of model complexity.
+
+\subsection{Benchmark model}
+
+The Benchmark model is similar to \Textcite{vegh2016unsticking}'s benchmark model with small modification.
 
 To make the benchmark model as straight forward as possible while capture the IGT mechanism. I assume that:
 
@@ -54,140 +81,67 @@ Combine equation \ref{bmrc budgetc} and \ref{bmlg budgetc}, I get a budget const
 \begin{equation}
     y+f=X+G \label{bmecoconstrain}
 \end{equation}
+
 The utility for representative resident comes from the utility of $X$ and $G$. I assume the utility function is the Cobb-Douglas form thus it's a concave utility:
+
 \begin{equation}
     U(X,G)=AX^{\alpha}G^{1-\alpha} , 0<\alpha<1 \label{bmrcutility}
 \end{equation}
+
 For the representative resident, the problem is to choose proper level of $X$ to maximize the utility in equation \ref{bmrcutility} subject to equation \ref{bmrc budgetc}. The Lagrangian equation can be set up as:
+
 \begin{equation}
     L(X)=AX^{\alpha}G^{1-\alpha}+\lambda_{rc}(y-X-\tau)  \label{bmrclagrangian}
 \end{equation}
+
 Solving the equation \ref{bmrclagrangian} will get first order condition(foc):
+
 \begin{equation}
     \alpha A\left(\frac{X}{G}\right)^{\alpha-1}=\lambda_{r c} \label{lamdarc}
 \end{equation}
+
 \begin{equation}
     y=X+\tau \label{rcfoc}
 \end{equation}
+
 To solve the Ramsey problem, the Ramsey planner needs to decide the level of $X,G$ to maximize the utility subject to equation \ref{bmecoconstrain} and equation \ref{bmlg budgetc}. The Lagrangian can be set as:
+
 \begin{equation}
     L(X,G)=AX^{\alpha}G^{1-\alpha}+\lambda_{e}(y+f-X-G)+\lambda_{lg}(f+\tau-G)  \label{bmeclagrangian}
 \end{equation}
+
 Solving the equation \ref{bmeclagrangian} will generate:
+
 \begin{equation}
     \alpha A\left(\frac{X}{G}\right)^{\alpha-1}=\lambda_e+\lambda_{l g}
     \label{foc on X}
 \end{equation}
+
 \begin{equation}
     (1- \alpha) A\left(\frac{X}{G}\right)^{\alpha}=\lambda_e+\lambda_{l g} \label{foc on G}
 \end{equation}
+
 \begin{equation}
     y+f=X+G \label{foc on lambdae}
 \end{equation}
+
 \begin{equation}
     f+\tau=G \label{foc on lambdalg}
 \end{equation}
 
 Combining equation \ref{foc on X}, \ref{foc on G}, \ref{foc on lambdae} will generate:
+
 \begin{equation}
     (1-\alpha)y+(1-\alpha)f=G \label{bmresult}
 \end{equation}
+
 The flypaper effect definition can be mathematically expressed as $\frac{d G}{d f}-\frac{d G}{d y}$. Given equation \ref{bmresult}, the flypaper effect $fe=0$, which means, under this setting, theoretically there should be no flypaper effect.
 
-The investigation on flypaper effect in my view can be divided into 3 phrase from the shallower to the deeper. I'm conducting a summary systemically with the combination of the benchmark Ramsey model.
+\subsection{Ramsey Model with Distortionary Tax Collection}
 
-\subsubsection{Phrase One}
-Except for the introduction of intergovernmental transfer in Chapter \ref*{chapter1:Introduction}, one important concern about IGT in economic analysis is the matching mechanism. For matching grants, federal governments will reimburse a specific ratio for each 1 dollar of state and local expenditure. Based on whether federal government set a cap on the matching grants, matching grants can be divided into open-ended matching grants and closed-ended grants.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \textbf{Model with matching grants}
-
-% I loosen the last assumption in the benchmark model, now the intergovernmental transfer is 100\% matching grants which is expressed as $f_m$. Suppose the matching ratio is $m$ and $0<m<1$  \label{mr}.Thus the new budget constraint for local government is:
-% \begin{equation}
-%     \left\{\begin{array}{l} \label{mlgbudgetc}
-%         f_m+\tau=G \\
-%         f_m=m G
-%     \end{array}\right.
-% \end{equation}
-% And the budget constraint for the whole economy is:
-% \begin{equation}
-%     \left\{\begin{array}{l} \label{mebudgetc}
-%         y+f_m=X+G \\
-%         f_m=m G
-%     \end{array}\right.
-% \end{equation}
-% Thus the Ramsey problem is to choose proper level of $X$ and $G$ to maximize the utility subject to equation \ref{mebudgetc} and equation \ref{mlgbudgetc}.
-% So the new Lagrangian can be listed as:
-
-% \begin{equation} \label{mlagrangian}
-%     L(X,G)=AX^{\alpha}G^{1-\alpha}+\lambda_{e}(y+f_m-X-G)+\lambda_{lg}(f_m+\tau-G)
-% \end{equation}
-
-% Solving the equation \ref{mlagrangian}, I get foc conditions:
-% \begin{equation} \label{mfocs}
-%     \left\{\begin{array}{l}\alpha A X^{\alpha-1} G^{1-\alpha}=\lambda_e+\lambda_{l g}  \\  (1-\alpha) A X^\alpha G^{-\alpha}=\lambda_e+\lambda_{\lg }   \\ y+f_m=X + G \\ f_m=m G\end{array}\right.
-% \end{equation}
-
-% By letting focs in equation \ref{mfocs} equals to zero, I get following equations:
-% \begin{equation} \label{myxandg}
-%     G=\frac{1-\alpha}{1-m + m \alpha} y
-% \end{equation}
-
-% with $G = \frac{1}{m}$, the flypaper effect is calculated as $fe=\frac{d G}{d f_m}-\frac{d G}{d y}$
-% which equals to:
-% \begin{equation} \label{mfe}
-%     \frac{d G}{d f_m}-\frac{d G}{d y}=\frac{2 m \alpha-2 m-\alpha+2}{m[(1-\alpha)(1-m)+1]}
-% \end{equation}
-
-% \begin{figure}[H]
-%     \centering
-%     \includegraphics[scale=0.7]{Chapter-3/Figures/matchfp.jpg}
-%     \caption[Flypaper Effect with Matching Grants]{Flypaper Effect with Matching Grants
-%         \texttt{} }
-%     \label{Figure 3.2}
-% \end{figure}
-% Equation \ref*{mfe} could be proved to be greater than zero, which means for matching grants, the marginal contribution on public spending is higher than the marginal contribution of private income increase.\footnote[1]{The proof process is supplied in Appendix C}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[scale=0.4]{Chapter-4/Figures/mfyeffect.jpg}
-    \caption[Income Effect and Price Effect of Matching and Non-matching Grants]{Income Effect and Price Effect of Matching and Non-matching Grants
-        \texttt{} }
-    \label{Figure 3.3}
-\end{figure}
-
-As is shown in figure \ref{Figure 3.3}, the two parallel lines $L1$ and $L3$ are budget constraint of the economy before and after the non-matching grants and $L3$ is the budget constraint with matching grants which is the red line. The difference between $G_m$ and $G*$ is the combination of price effect and income effect of matching grants.
-
-The matching grants model explains why scholars in first stage explain the fly paper effect by misspecification or omitted variable. Misspecification refers to instances where researchers may conflate matching grants with lump-sum grants, leading to a mix-up of price effects and subsequently resulting in increased public goods spending \cite{lankford1987note,henderson1968local}. Matching grants reduce the marginal price of public services, thus mix-up with lump-sum grants would lead to an increase in public goods spending \cite{gramlich1997state}. Some scholars attribute the flypaper effect to omitted variables or pre-selection issues. Knight \cite{knight2002endogenous} developed a two-level bargaining model to demonstrate that the federal government distributes intergovernmental transfers to states and local governments with a higher propensity to spend, indicating that the flypaper effect is not a result of intergovernmental transfers. However, prior studies and investigations have encountered endogeneity issues. To address this, Knight conducted an empirical test where he employed an instrumental variable to control for the endogeneity problem. His results indicate that once the pre-selection issue is filtered out, the flypaper effect is not evident, at least for the data he collected regarding interstate highway programs. To summarize, the understanding under this view is that the flypaper effect may not actually exist, but may instead be a result of misspecification or omitted variables.
-
-\subsubsection{Phrase two}
-The literature on the flypaper effect has also been approached from a second perspective, whereby scholars recognize the importance of lump-sum grants and their potential price effects. While scholars in the first stage focused on the price effects of matching grants, it was realized that this may not be sufficient to explain the large gap in the flypaper effect. As such, the second stage of literature argues that non-matching grants also have price effects, which can be attributed to fiscal illusions. McCulloch \cite{mcculloch1845treatise} argued that taxpayers often misperceive the costs of governmental activities, a concept later summarized as fiscal illusions. The theory of fiscal illusion was first developed by Italian economist Amilcare Puviani in his 1903 book \textit{Teoria della illusione finanziaria} \cite{puviani1903teoria}. Wagner  \cite{wagner1976revenue} introduced this concept in America and identified the effect of fiscal illusions on local government spending. Oates and Borge \cite{oates1979lump,borge1995lump} also recognized the potential price effect of non-matching grants and attempted to explain it using the concept of fiscal illusions. The lower-estimated public good price generates a even flatter slope of the budget constraint compared to the $L_3$ in figure \ref{Figure 3.3}.
-
-The existence of fiscal illusion can be attributed to administrative factors and institutional intention. The fiscal federalism framework is complex and difficult for residents to comprehend, while administrative processes are often opaque and lack transparency, preventing residents from understanding the nuances of intergovernmental grants and their own contributions to these grants. Empirical research by Turnbull \cite{turnbull1998overspending} supports this view, demonstrating that imperfect information generates a broader fiscal illusion based on municipal data. Additionally, the budget-maximizing tendencies of bureaucratic systems are supported by both empirical evidence and theoretical inference \cite{mueller2003public,brennan1977towards}. This tendency is sometimes referred to as "Leviathan government," in which governments seek to maximize their budgets rather than prioritize residents' utility \cite{quigley1986budget}. The combination of budget-maximizing bureaucrats and lower perceived prices of public goods leads to increased expenditure on public goods.
-
-
-\subsubsection{Phrase Three}
-
-In stage three, Scholars have also examined the effect of the cost of tax collection within a jurisdiction. This cost can arise from two aspects, one being the distortionary tax, another one comes from the revenue collection ability of the sunational government. Assuming that tax revenue collection does not cause any distortion for the recipient is a strong assumption. In reality, changes in state and local government tax policies can significantly alter residents' behavior. For instance, if residents are dissatisfied with tax and public goods policies, they may choose to work less and spend more time on leisure. Alternatively, they may move to another jurisdiction, which itself incurs costs due to the tax increase.Hamilton \cite{hamilton1986flypaper} was the first to observe that the cost of tax collection within a jurisdiction leads to a curved budget constraint, rather than a straight line. However, his idea was not widely accepted at the time, and he neglected to consider administrative ability as a source of cost, focusing only on deadweight loss as the source of tax collecting cost.
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[scale=0.4]{Chapter-4/Figures/budget constrain distortion.jpg}
-    \caption[Hamilton's Curved Budget Constraint]{Hamilton's Curved Budget Constrain
-        \texttt{} }
-    \label{Figure 3.4}
-\end{figure}
-
-In reality, the cost of tax collection comes from various sources, including the different levels of administrative ability between federal and state governments. Volden \cite{volden2007intergovernmental} developed a game theory model to simulate the interaction between the federal government and lower-level governments and showed that the different costs of collecting revenue for federal and state governments partially explains the flypaper effect. Dahlby and Ferede \cite{dahlby2016stimulative} argued that the price effect of non-matching grants exists even without fiscal illusion due to subnational governments face information and ability disadvantages, meanwhile Vegh and Vuletin \cite{vegh2016unsticking} came to a similar conclusion. In summary, these researchers suggest that the collection of tax revenue is costly for state and local governments due to factors such as administrative inefficiency and distortion, leading to a preference for using "cheaper" resources such as intergovernmental transfers. Therefore, even non-matching grants or lump-sum grants can have price effects.
-
-Some horizontal government interaction explains this distortion as well, Brueckner \cite{brueckner2003strategic} develops a strategic model to analyze the state and local fiscal behavior, he concludes that the lower-level governments are quite sensitive to other competitors. This sensitivity may explain why state and local government don’t want tax increase revenue to cover the public goods. Other horizontal interaction theory such as yardstick competition or tax competition also explains the sensitivity.
-
-I expand the benchmark model by introducing the distortion of tax collection into it.
-
-\textbf{Ramsey Model with Distortionary Tax Collection}
-
-To capture the distortion effect of the tax,I loosen the 3rd and 5th assumption of the benchmark model. I follow the setting by Carlos and Vuletin \cite{vegh2016unsticking} by adding a taxable private goods $X_t$ to differentiate with the non-taxable private goods $X_{nt}$ and capture the distortion effect of proportional tax. In reality, $X_{nt}$ could express any behavior that representative resident take to avoid the taxation, such as more time on leisure or
+To capture the distortion effect of the tax,I loosen the 3rd and 5th assumption of the benchmark model. I follow the setting by \textcite{vegh2016unsticking} by adding a taxable private goods $X_t$ to differentiate with the non-taxable private goods $X_{nt}$ and capture the distortion effect of proportional tax. In reality, $X_{nt}$ could express any behavior that representative resident take to avoid the taxation, such as more time on leisure or
 The assumption on taxation and representative resident's spending behavior are:
+
 \begin{enumerate}
     \item Three kinds of goods in the economy which are public good $G$ and taxable private good $X_t$ and non-taxable private good $X_{nt}$.\label{Xt}
     \item Resident spend all there income $y$, which is given, on either taxable private goods $X_t$, non-taxable private goods $X_{nt}$ or tax.
@@ -195,6 +149,7 @@ The assumption on taxation and representative resident's spending behavior are:
 \end{enumerate}
 
 So the budget constrain for resident, local government and the whole economy could be separately list as:
+
 \begin{equation} \label{distortionrct}
     y=X_t(1+\theta)+X_{n t}
 \end{equation}
@@ -206,11 +161,14 @@ So the budget constrain for resident, local government and the whole economy cou
 \end{equation}
 
 Different from Carlos' setting who accept a more general setting on residents' and governments' utility, I set Cobb-Douglas form on utility to get a arithmetic solution. Unlike the benchmark model in Carlos' research, in which he set the linear utility, the Cobb-Douglas setting means the imperfect substitute between private and public goods, which is a more reasonable setting. The distribution on $X_t$, $X_{nt}$ and $G$ should maximize representative resident's utility and government's utility.
+
 \begin{equation} \label{rclgutility}
     \left\{\begin{array}{l}U=A X^\alpha G^{1-\alpha} \\ X=B X_t^\beta X_{n t}^{1-\beta}\end{array}\right.
 \end{equation}
 Where X represent a compound private good.
+
 For resident, they need to decide $X_t, X_{nt}$ to maximize $U$ subject to equation \ref{distortionrct}. For local government, the problem is to decide the distribute of $X$ and $G$ to maximize $U$, thus the Ramsey problem is to maximize both resident and local governments' utility, which is listed as equation \ref*{rclgutility} subject to equation \ref{distortionrct} and \ref{distortiongct}. For resident, the first order conditions on $X_t, X_{nt}, \lambda_{rc}$ can be listed as:
+
 \begin{align}
     \begin{split}
         \frac{\partial U}{\partial X} \frac{\partial X}{\partial X_t}=(1+\theta) \lambda_{r c} \label{focxt}
@@ -222,7 +180,9 @@ For resident, they need to decide $X_t, X_{nt}$ to maximize $U$ subject to equat
         y=X_t(1+\theta)+X_{nt} \label{foclabrc}
     \end{split}
 \end{align}
+
 Solving equation \ref{focxt}, \ref{focxnt} will generate the relationship between $X_t$ and $X_{nt}$ in equilibrium and the level of $\theta$:
+
 \begin{align}
     \begin{split}
         X_{nt}=\frac{(1-\beta)(1+\theta)}{\beta}X_t \label{xtxnt}
@@ -233,6 +193,7 @@ Solving equation \ref{focxt}, \ref{focxnt} will generate the relationship betwee
 \end{align}
 
 For local government and Ramsey Planner, they need to decide $G, X_t, X_{nt}$ subject to equation \ref*{distortiongct} and \ref*{distortionect}, the FOCs on $X_t, X_{nt}, G, \lambda_e, \lambda_{lg}$ are:
+
 \begin{align}
     \begin{split}
         \frac{\partial U}{\partial X} \frac{\partial X}{\partial X_t}=\lambda_e+\lambda_{l g}
@@ -272,98 +233,51 @@ Follow the definition of $fe$ in benchmark model , the flypaper effect under dis
 
 To get a visual impression about the size of flypaper effect under distortion, I generated a 3-D figure based on equation \ref*{feunderdistortion} through Mathematica.
 
-\begin{figure}[htbp]
-    \centering
-    \subfigure[]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/distofp1.jpg}}
-    \subfigure[]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/distofp2.jpg}}
-    \subfigure[]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/distofp3.jpg}}
-    \subfigure[]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/distofp4.jpg}}
-    \caption{3-Dimensions Plot of the Fluctuation of Flypaper Effect under Distortion}
-    \label{figfeunderdistortion}
-\end{figure}
 
 From figure \ref*{figfeunderdistortion}, one obvious fact to be noticed is that the flypaper effect under distortion is always positive, no matter what the value of $\alpha$ and $\beta$ is. More implication can be found when we pin down one of $\alpha$ and $\beta$ and evaluate the fluctuation of flypaper effect on the other.
 
-\begin{figure}[H]
-    \centering
-    \subfigure[$\alpha=0.1$]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/alpha01.jpg}}
-    \subfigure[$\alpha=0.4$]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/alpha04.jpg}}
-    \subfigure[$\alpha=0.7$]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/alpha07.jpg}}
-    \subfigure[$\alpha=0.9$]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/alpha09.jpg}}
-    \caption{2-Dimensions Plot of the Fluctuation of Flypaper Effect on $\beta$}
-    \label{febeta}
-\end{figure}
-
-Figure \ref*{febeta} are cross sections of Figure \ref*{figfeunderdistortion} when $\alpha=0.1,0.4,0.7,0.9$ separately. It can be explained from two aspects. For one, the size of flypaper effect is negatively related with $\beta$ for given $alpha$. In other words, the more citizens value private goods, the greater fly paper effect should be. Potential explain behind is that, higher $beta$ means citizens attach great importance to the taxable private goods, thus the tax on $X_t$ doesn't change citizen's allocation on $X_t$ and $X_{nt}$. In this circumstances, collecting tax to support public goods is not that "expensive" compared to general transfer. So the stimulative effect gap between $IGT$ transfer and private income increase is trivial.
+Figure \ref*{febeta} are cross sections of Figure \ref*{figfeunderdistortion} when $\alpha=0.1,0.4,0.7,0.9$ separately. It can be explained from two aspects. For one, the size of flypaper effect is negatively related with $\beta$ for given $alpha$. In other words, the more citizens value taxable private goods $X_t$, the less fly paper effect should be. Potential explain behind is that, higher $beta$ means citizens attach great importance to the taxable private goods, thus the tax on $X_t$ doesn't change citizen's allocation on $X_t$ and $X_{nt}$. In this circumstances, collecting tax to support public goods is not that "expensive" compared to general transfer. So the stimulative effect gap between $IGT$ transfer and private income increase is trivial.
 
 Besides, the elasticity of $FE$ on $\beta$ is affect by $\alpha$. As $\alpha$ gets higher, the relationship between $FE$ and $\beta$ shifts from a linear relationship to a convex relationship.
 
-
-
-\begin{figure}[H]
-    \centering
-    \subfigure[$\beta=0.1$]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/beta01.jpg}}
-    \subfigure[$\beta=0.4$]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/beta04.jpg}}
-    \subfigure[$\beta=0.7$]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/beta07.jpg}}
-    \subfigure[$\beta=0.9$]{
-        \includegraphics[width=0.45\textwidth]{Chapter-4/Figures/beta09.jpg}}
-    \caption{2-Dimensions Plot of the Fluctuation of Flypaper Effect on $\alpha$}
-    \label{fealpha}
-\end{figure}
-
 $\alpha$ is also negatively related to $FE$. A greater $\alpha$ means the greater marginal utility on private goods. In short, when citizens care more about private goods rather than public goods, the fly paper phenomenon is relatively less significant. One explanation is, when citizens gain more utility from private goods, government should alleviate the tax burden since less public goods is necessary, thus lead to less distortion. Another obvious suggestion is as $\beta$ gets higher, the function of $FE$ on $\alpha$ gradually evolve into a linear function from a concave function.
 
-\subsection{Effect of IGT on Local Governments' Spending Segments}
 
-Compared to investigations on overall spending amounts, the understanding of the impact of intergovernmental transfers on micro-segmented spending varies. Scholars focus not only on the effect of matching mechanism but also on the effect of restrictions when analyzing the impact of IGT on spending preferences. Specifically, general transfers, such as general revenue sharing in Table \ref{Table 1.1}, and transfers with special purposes, such as block grants and project categorical grants in Table\ref{Table 1.1} have different effects on local governments' spending preferences. Some empirical evidence still implies the flypaper effect, meaning that intergovernmental transfers stimulate local governments' spending in specific areas. Feldstein observed that categorical grants in the education field from the Massachusetts state government to local governments lead to higher local government spending on education \cite{feldstein1975wealth}. Karnik and Lalvani \cite{karnik2008flypaper} incorporated the spatial effect into their model when analyzing data from Maharashtra in India. They found that an increase in intergovernmental grants results in urban local governments spending more on specific expenditure categories than they would have with an equivalent increase in incomes.
+\section{Summary: About the Reason of Flypaper Effect}
+Together with some proposition I get from chapter 2 and the literature I went through in this chapter, I can have a summary about the reason of flypaper effect.
 
-Another widely discussed phenomenon related to government spending preference is fungibility \cite{pack1993foreign}. Fungibility refers to the fact that intergovernmental transfers received by local governments may substitute their own revenue, which can result in changes to the spending structure based on local government preference, rather than being tied to the strings attached to the intergovernmental transfer. Evidence of this phenomenon can be seen in Latin America, where subnational governments have been found to prefer using transfer funds to cover administrative expenses \cite{stein1999fiscal}. Similarly, research in China has shown that local governments crowd out revenue that should have been invested in public services and instead direct it to productive spending once they receive intergovernmental transfers, even though these transfers are restricted to specific categories \cite{yinheng2011,fuyong2010}.
+The genesis of the flypaper effect, apart from the statistical categorization confusion between matching and non-matching grants highlighted in the initial phase of literature review, can largely be attributed to various manifestations of price effects, albeit originating from distinct sources. Primarily, the discrepancy in cost perception between transfer payments and tax levies, driven by fiscal illusion and tax aversion, predisposes citizens towards a preference for transfer payments over taxation. This predilection of the populace is mirrored in the fiscal policy choices of local governments. To elucidate, fiscal illusion leads to an underestimation of the personal cost embedded within transfer payment policies by the citizens, while tax aversion results in an overestimation of the personal cost entailed in tax collection policies, culminating in the price effect that gives rise to the flypaper effect.
 
-\section{Summary on Flypaper Effect}
+Another vector for the price effect is the distortionary impact of taxation, as expounded upon in Section 4.3 of this chapter. When alterations in the tax regime modify consumer or saving behaviors, thus inducing distortions, local governments perceive these distortions as cost factors. Consequently, compared to tax collection, local governments exhibit a marked preference for transfer payments as the financial underpinning for public goods provision.
 
-Together with the proposition I get in Chapter 2 about the effect of IGT on subnational government's public goods provision, I can make a comprehensive summary about subnational governments' spending behavior under IGT. This summary answers two questions. Why researchers find empirical evidence support for contradictory theory---flypaper effect and fungibility effect? Second question is what is affecting the size of flypaper effect such that measurement for flypaper effect varies in different regions and different public goods.
+Lastly, this price effect may also stem from variances in tax collection efficiency. As delineated in Proposition 9 of Chapter 2, a divergence exists between the tax collection efficiencies of local and central governments, potentially attributable to two dimensions: the magnitude of tax distortions and the disparities in public administration competencies. Initially, in contrast to local governments, the central government may inflict lesser distortions in collecting certain types of taxes. For instance, levying consumption or property taxes may incentivize cross-state consumption or relocation activities among residents, yet considerations for international consumption and relocation tend to be overlooked. Furthermore, the central government may possess superior public administration capabilities in tax collection, as evidenced by the establishment of a comprehensive tax collection infrastructure, the employment of more specialized tax collection personnel, and a larger cadre of tax officials.
 
-As I mentioned in Section 4.1.1, the categorical transfer's flypaper effect is wildly accepted by scholars intuitively since it lower down the price, thus the The vital part is to explain the flypaper effect of general transfer. In the perfect information dynamic game mode, the contradiction of general transfer can be explained by equation \ref*{gofgeneral}.
+% \subsection{About the Scale of Flypaper Effect}
 
-$$G_i^*|_{GT}=\frac{\alpha_i e_i^2F_i^2}{2c_i^2}+\frac{T_i}{c_i}-\frac{1}{2}\cdot \frac{e_i}{e_N}\cdot \frac{F_i}{\sum F_i} \cdot \frac{\sum T_i}{c_i}$$
+% Besides the origins of the flypaper effect, its magnitude also presents a compelling aspect for summary. Why do empirical studies show variations in the size of the flypaper effect, and why have some scholars observed a fungibility effect? Drawing on the relevant discussions in Chapter 2 and the content of Section 4.3 in this chapter, the factors influencing the scale of the flypaper effect can be summarized as follows:
+% \begin{itemize}
+% Specificity of Transfers: 
+% \end{itemize}
+% The nature of the transfers, whether they are general or categorical, affects the scale of the flypaper effect. Categorical transfers, which are earmarked for specific purposes, tend to show a stronger flypaper effect due to the restricted use of funds, compared to general transfers that allow for more discretionary spending.
 
-Why empirical evidence support both flypaper effect and fungibility effect? The explain lies in the compare between $\frac{T_i}{c_i}$ and $\frac{1}{2}\cdot \frac{e_i}{e_N}\cdot \frac{F_i}{\sum F_i} \cdot \frac{\sum T_i}{c_i}$. The first term $\frac{\alpha_i e_i^2F_i^2}{2c_i^2}$ express the local public goods provision with no disturbance. $\frac{T_i}{c_i}$ express the flypaper effect---provision increase due to the general transfer and $\frac{1}{2}\cdot \frac{e_i}{e_N}\cdot \frac{F_i}{\sum F_i} \cdot \frac{\sum T_i}{c_i}$ represents the fungibility effect---(provision decrease due to general transfer). The compare of flypaper effect term and fungibility effect term can be rewritten as:
+\section{Policy Implication}
 
-\begin{equation}\label{compare}
-    T_i-\frac{1}{2}\cdot \frac{e_i}{e_N}\cdot \frac{F_i}{\sum F_i} \cdot \sum T_i
-\end{equation}
+Chapter 4's exploration into the flypaper effect and its determinants underscores several key considerations for policymakers and public administration professionals. The empirical and theoretical analyses presented reveal that the response of local governments to intergovernmental transfers is not merely a matter of fiscal mechanics but is deeply influenced by the perceptual and behavioral dynamics of both the governing bodies and the populace they serve.
 
-From equation \ref*{compare}, I can have proposition 8.
+\begin{itemize}
+    \item  Designing Targeted Transfer mechanisms
+\end{itemize}
 
-\textbf{Proposition 8: One potential reason for the flypaper effect empirical evidence in $S_l$ is the lower percentage compared to the whole output.}
+Policymakers should prioritize the crafting of intergovernmental transfer mechanisms that account for the underlying causes of the flypaper effect identified in this study. Recognizing the role of fiscal illusion and tax aversion, transfer policies need to be transparent and communicated effectively to mitigate misperceptions about the cost and benefits of public spending and taxation.
 
-In this argument, general transfer doesn't affect price, thus whether the empirical evidence shows flypaper effect or fungibility depends on the size of general transfer received and the tax burden they have to afford. The amount $S_i$ received is easy to calculate, while the tax burden is adjusted by two factors $\frac{F_i}{\sum_i F_i}$ and $\frac{e_i}{e_N}$. For $S_l$, $\frac{F_l}{\sum_i F_i}$ could be a extremely small value, which may lead to $T_l-\frac{1}{2}\cdot \frac{e_l}{e_N}\cdot \frac{F_l}{\sum F_i} \cdot \sum T_i>0$.
+\begin{itemize}
+    \item Improving Public Administration competencies
+\end{itemize}
 
-\textbf{Proposition 9: One potential reason for the flypaper effect empirical evidence in $S_l$ is the relatively disadvantage in tax collection efficiency compared to national government.}
+The divergence in tax collection efficiencies between different levels of government highlighted in the chapter calls for initiatives to bolster the administrative capabilities of local governments. Investment in training for tax officials, the adoption of advanced tax collection technologies, and the establishment of comprehensive fiscal management systems are critical steps towards this end.
 
-Literature on tax collection efficiency generally share a consent that tax collection efficiency positively related with the economic development level\cite{arvate2008efficiency,mattos2011flypaper}. A region with low economic output $S_l$ typically leads to lower tax collection efficiency, which enlarge the gap between $T_l$ and $\frac{1}{2}\cdot \frac{e_l}{e_N}\cdot \frac{F_l}{\sum F_i} \cdot \sum T_i$, which leads to greater size of flypaper effect. Combined proposition 8 with proposition 9, one deduction is: for those economy entity with imbalanced regional development, those underdeveloped regions may show greater spending tendency when receiving general transfer. In Bowman's research conducted in 1974, he use federal education grants to West Virginia as example to measure flypaper effect scale\cite{bowman1974tax}. His conclusion is that one dollar increase in governmental transfer to school districts would lead to 1.06 more spending compared to the same increase in tax revenue. As a contrast, Weicher also evaluates the size of flypaper effect and conclude that the states grants to school districts in America would lead to 0.4 more spending on average\cite{weicher1972aid}. These two investigation were generated in roughly same time and discuss same topics: scale of flypaper effect in school districts. However the scale differ greatly. One explanation is: West Virginia ranks 48th in GDP.
+\begin{itemize}
+    \item About the Scale of Flypaper Effect
+\end{itemize}
 
-\textbf{Proposition 10: One potential reason for the flypaper effect empirical evidence in $S_h$ is citizen's tax aversion.}
-
-One natural following question after proposition 8 and 9 is: how could flypaper effect evidence is also wildly found in high economic output region, such as some empirical research conducted in California, New York and some developed states in India\cite{nguyen2020flypaper,bae2004flypaper,lalvani2002flypaper}. The explain is the constant parameter in $\frac{1}{2}\cdot \frac{e_l}{e_N}\cdot \frac{F_l}{\sum F_i} \cdot \sum T_i$, which is 1 and $\frac{1}{2}$ here. The difference between the parameter is due to citizen's concave or linear utility on public goods increase and convex tax burden increase.\footnote{In my utility setting, the utility for public goods is set as linear to get arithmetic expression, the actual utility maybe concave but this won't change the conclusion here.} In other words, citizen gets inertia as public goods increase and sensitive as tax burden increase. So, the general transfer naturally stimulate local governments' spending.
-
-Under what circumstances would regional's choice on public spending shows fungibility? From equation \ref*{compare}, we can have a basic image about the jurisdiction that shows fungibility effect to intergovernmental transfer: a region with higher output percentage in total output, higher tax collection efficiency compared to national government, lacking feeling about tax increase.
-
-Proposition 8,9 and 10 compose the answer for the first question---how to explain the contradictory two theories about spending reaction. Second question in this summary is how to explain the wildly difference in the size of flypaper effect. According to Hines and Thaler's measurement, change in spending as grant changes vary from 0.25 to 1.06\cite{hines1995anomalies}. This range is summarized based on a bunch of empirical research conducted in different regions in America. Besides, this range varies at one time with another\cite{nguyen2020flypaper}.
-
-Except for the difference in $e_i$ and $F_i$, explanation for the flypaper effect variation also drives from different preference and distribution on different goods, including taxable private goods, non-taxable private goods and public goods. This property differs in different regions, thus it's not surprised to observe a wide range about the size of flypaper effect.
-
-% \section{Review}
-% function set 
-% method exclusive setting
+To be frank, the models provided in this paper are not sufficient to precisely calculate the scale of the flypaper effect; neither 3D nor 2D graphs can serve as accurate graphical representations of data. However, the content of this chapter adequately allows governments to have an intuitive understanding of the factors influencing the magnitude of the flypaper effect and offers explanations for the varying scales of the flypaper effect as shown in empirical evidence. In the analysis presented in this paper, several factors impact the size of the flypaper effect. Firstly, as reflected in Proposition 8 of Chapter 2, states with high output and tax bases exhibit a different magnitude of the flypaper effect compared to states with low output and tax bases; secondly, the tax collection efficiency of different governments also affects the scale of the flypaper effect; lastly, its magnitude also depends on the consumer sector's demand for taxed and untaxed goods and the demand for private versus public goods.
