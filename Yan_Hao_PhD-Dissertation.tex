@@ -238,23 +238,24 @@
 % comes first, goes on the second line before the name.
 \advisor[Dissertation Advisor][Chair of Committee]
 		{Odd Stalebrink}
-		{Associate Professor of Public Administration}
+		{Associate Professor of Public Administration, Pennsylvania State University\\Professor-in-Charge, Certificate Program in Public Budgeting and Financial Management}
+       
 
 \readerone[Professor-in-Charge, Master of Public Administration\\Professor-in-Charge, Juris Doctor and Master of Public Administration]
 			{Younhee Kim}
-			{Associate Professor of Public Administration}
+			{Associate Professor of Public Administration, Pennsylvania State University}
 
 \readertwo[]
 			{Daniel J. Mallinson}
-			{Associate Professor of Public Administration}
+			{Associate Professor of Public Administration, Pennsylvania State University}
 
 \readerthree[]
 			{David Argente}
-			{Assistant Professor of Economics}
+			{Assistant Professor of Economics, School of Management, Yale University}
 
 \readerfour[Director of Graduate Studies]
 			{Goktug Morcol}
-			{Professor of Public Administration}
+			{Professor of Public Administration, Pennsylvania State University}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\readerfour[Optional Title Here]
 %			{Reader Name}
@@ -285,7 +286,7 @@ Chapter-5/Chapter-5,%
 Chapter-6/Chapter-6,%
 Appendix-A/Appendix-A,%
 Appendix-B/Appendix-B,%
-% Appendix-C/Appendix-C,%
+Appendix-C/Appendix-C,%
 % Appendix-D/Appendix-D,%
 % Appendix-E/Appendix-E%
 }
@@ -360,7 +361,9 @@ Appendix-B/Appendix-B,%
 % Generates the List of Symbols. The argument should point to
 % the file containing your List of Symbols. 
 \thesislistofsymbols{SupplementaryMaterial/ListOfSymbols}
+\clearpage
 
+\input{SupplementaryMaterial/Preface}
 % Generates the Acknowledgments. The argument should point to
 % the file containing your Acknowledgments. 
 \thesisacknowledgments{SupplementaryMaterial/Acknowledgments}
@@ -414,7 +417,7 @@ Appendix-B/Appendix-B,%
     %\renewcommand\thesection{\arabic{section}}
     \include{Appendix-A/Appendix-A}
     \include{Appendix-B/Appendix-B}
-    % \include{Appendix-C/Appendix-C}
+    \include{Appendix-C/Appendix-C}
     % \include{Appendix-D/Appendix-D}
     % \include{Appendix-E/Appendix-E}
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -442,18 +445,16 @@ Appendix-B/Appendix-B,%
 %     \bibliography{Biblio-Database}
 % \end{singlespace}
 
-%\begin{singlespace}
-%\begin{thebibliography}{99}
-%\addcontentsline{toc}{chapter}{Bibliography}
-%\frenchspacing
+% \begin{singlespace}
+%     \begin{thebibliography}{99}
+%         \addcontentsline{toc}{chapter}{Bibliography}
+%         \frenchspacing
+%     \end{thebibliography}
+% \end{singlespace}
 
-%\bibitem{Wisdom87} J. Wisdom, ``Rotational Dynamics of Irregularly Shaped Natural Satellites,'' \emph{The Astronomical Journal}, Vol.~94, No.~5, 1987  pp. 1350--1360.
-
-%\bibitem{G&H83} J. Guckenheimer and P. Holmes, \emph{Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields}, Springer-Verlag, New York, 1983.
-
-%\end{thebibliography}
-%\end{singlespace}
-
+\begin{singlespace}
+    \printbibliography[heading=bibintoc, title={Bibliography}]
+\end{singlespace}
 \backmatter
 
 % Vita

@@ -2,8 +2,9 @@
 \contentsline {chapter}{List of Figures}{ix}{}%
 \contentsline {chapter}{List of Tables}{xi}{}%
 \contentsline {chapter}{List of Symbols}{xiii}{}%
-\contentsline {chapter}{Acknowledgments}{xvi}{}%
-\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {chapter}{Preface}{xvi}{}%
+\contentsline {chapter}{Acknowledgments}{xvii}{}%
+\contentsline {chapter}{\numberline {1}Overall Introduction}{1}{}%
 \contentsline {section}{\numberline {1.1}Fiscal Federalism: An Overview}{1}{}%
 \contentsline {subsection}{\numberline {1.1.1}Theoretical Frameworks and Evolutions}{2}{}%
 \contentsline {subsubsection}{\numberline {1.1.1.1}First-Generation Theory: Efficiency in Fiscal Structures}{2}{}%
@@ -46,71 +47,66 @@
 \contentsline {section}{\numberline {2.9}Review and Summary}{39}{}%
 \contentsline {chapter}{\numberline {3}Political Party Control and Intergovernmental Grants: a Panel Data Analysis}{41}{}%
 \contentsline {section}{\numberline {3.1}Introduction}{41}{}%
-\contentsline {section}{\numberline {3.2}Background}{43}{}%
-\contentsline {subsection}{\numberline {3.2.1}1st Dimension: Degree of Federal Administrator}{43}{}%
-\contentsline {subsection}{\numberline {3.2.2}2nd Dimension: Method of determining grant amounts}{44}{}%
-\contentsline {section}{\numberline {3.3}Literature Review}{45}{}%
-\contentsline {subsection}{\numberline {3.3.1}Review on Theoretical Investigation}{46}{}%
-\contentsline {subsection}{\numberline {3.3.2}Review on Empirical Investigation}{47}{}%
-\contentsline {section}{\numberline {3.4}Problems and Hypothesis}{49}{}%
-\contentsline {subsection}{\numberline {3.4.1}Problems}{50}{}%
-\contentsline {subsection}{\numberline {3.4.2}Hypothesis}{51}{}%
-\contentsline {section}{\numberline {3.5}Research Method Design}{52}{}%
-\contentsline {subsection}{\numberline {3.5.1}Method on the First Question--Principal Components Analysis (PCA)}{52}{}%
+\contentsline {section}{\numberline {3.2}Intergovernmental Grants: A Background}{43}{}%
+\contentsline {section}{\numberline {3.3}Political Party Control and IGT Distributions: Literature Review }{45}{}%
+\contentsline {section}{\numberline {3.4}Hypothesis}{49}{}%
+\contentsline {section}{\numberline {3.5}Research Approach}{50}{}%
+\contentsline {subsection}{\numberline {3.5.1}Step 1: Principle Components (PCA) Analysis}{51}{}%
 \contentsline {subsubsection}{\numberline {3.5.1.1}Data and variables for PCA Analysis}{52}{}%
-\contentsline {subsubsection}{\numberline {3.5.1.2}PCA Process}{53}{}%
-\contentsline {subsection}{\numberline {3.5.2}Method on Question 2 to 5--Fixed Effect Regression}{54}{}%
-\contentsline {subsubsection}{\numberline {3.5.2.1}Data and variables}{54}{}%
-\contentsline {subsubsection}{\numberline {3.5.2.2}Fixed Effect Regression}{55}{}%
-\contentsline {section}{\numberline {3.6}Result analysis}{56}{}%
+\contentsline {subsubsection}{\numberline {3.5.1.2}PCA Process and Results}{53}{}%
+\contentsline {subsection}{\numberline {3.5.2}Step 2: Fixed Effect Regression Analysis}{55}{}%
+\contentsline {subsubsection}{\numberline {3.5.2.1}Data and Variables for Regression}{55}{}%
+\contentsline {section}{\numberline {3.6}Results}{58}{}%
 \contentsline {section}{\numberline {3.7}Review and Summary}{59}{}%
-\contentsline {chapter}{\numberline {4}Effect of Intergovernmental Transfer on Local Governments' Spending Behavior}{60}{}%
-\contentsline {section}{\numberline {4.1}Fungibility and Flypaper Effect}{61}{}%
-\contentsline {section}{\numberline {4.2}Literature on Flypaper Effect}{62}{}%
-\contentsline {subsection}{\numberline {4.2.1}Phrase One}{62}{}%
-\contentsline {subsection}{\numberline {4.2.2}Phrase two}{63}{}%
-\contentsline {subsection}{\numberline {4.2.3}Phrase Three}{64}{}%
-\contentsline {section}{\numberline {4.3}Mathematical Expression of Flypaper effect}{65}{}%
-\contentsline {subsection}{\numberline {4.3.1}Benchmark model}{65}{}%
-\contentsline {subsection}{\numberline {4.3.2}Ramsey Model with Distortionary Tax Collection}{67}{}%
-\contentsline {section}{\numberline {4.4}Summary: About the Reason of Flypaper Effect}{70}{}%
-\contentsline {section}{\numberline {4.5}Policy Implication}{71}{}%
-\contentsline {chapter}{\numberline {5}Effect of Grants Restriction on Subnational Governments' Revenue Collection Effort: a Kalman Filter Application}{73}{}%
-\contentsline {section}{\numberline {5.1}Introduction}{73}{}%
-\contentsline {section}{\numberline {5.2}Background}{74}{}%
-\contentsline {section}{\numberline {5.3}Literature Review}{75}{}%
-\contentsline {subsection}{\numberline {5.3.1}Theoretical and Empirical Insights on Intergovernmental Transfers and Tax Effort}{76}{}%
-\contentsline {subsection}{\numberline {5.3.2}Empirical Challenges and Insights in Assessing Transfer Effects on Tax Effort}{77}{}%
-\contentsline {subsection}{\numberline {5.3.3}Review and Summary on Literature Review}{78}{}%
-\contentsline {section}{\numberline {5.4}Problem Statement and Research Method}{79}{}%
-\contentsline {subsection}{\numberline {5.4.1}Research Method}{80}{}%
-\contentsline {section}{\numberline {5.5}Model Construction}{81}{}%
-\contentsline {subsection}{\numberline {5.5.1}General Setup of the Ramsey Problem}{81}{}%
-\contentsline {subsection}{\numberline {5.5.2}Problem Solve Process}{83}{}%
-\contentsline {section}{\numberline {5.6}Theoretical Conjecture}{84}{}%
-\contentsline {subsection}{\numberline {5.6.1}The effect of general transfer on tax collection effort}{84}{}%
-\contentsline {subsection}{\numberline {5.6.2}The effect of categorical grants in productive area on tax collection effort}{86}{}%
-\contentsline {subsection}{\numberline {5.6.3}The effect of categorical grants in welfare area on tax collection effort}{86}{}%
-\contentsline {section}{\numberline {5.7}Regression Model Design and Hypothesis}{87}{}%
-\contentsline {section}{\numberline {5.8}Variables and Sample}{87}{}%
-\contentsline {subsection}{\numberline {5.8.1}Construction of moderating variables}{88}{}%
-\contentsline {subsection}{\numberline {5.8.2}Measure of tax collection effort}{90}{}%
-\contentsline {section}{\numberline {5.9}Regression Results and Analysis}{93}{}%
-\contentsline {section}{\numberline {5.10}Review and Summary}{95}{}%
-\contentsline {chapter}{\numberline {6}Summary, Thoughts and Rethink}{97}{}%
-\contentsline {section}{\numberline {6.1}Overall Interests and Partial Interests}{97}{}%
-\contentsline {section}{\numberline {6.2}Efficiency and Equity}{99}{}%
-\contentsline {section}{\numberline {6.3}Long Term Interest and Short Term Interest}{100}{}%
+\contentsline {chapter}{\numberline {4}Effect of Intergovernmental Transfer on Local Governments' Spending Behavior}{61}{}%
+\contentsline {section}{\numberline {4.1}Fungibility and Flypaper Effect}{62}{}%
+\contentsline {section}{\numberline {4.2}Literature on Flypaper Effect}{63}{}%
+\contentsline {subsection}{\numberline {4.2.1}Phrase One}{63}{}%
+\contentsline {subsection}{\numberline {4.2.2}Phrase two}{64}{}%
+\contentsline {subsection}{\numberline {4.2.3}Phrase Three}{65}{}%
+\contentsline {section}{\numberline {4.3}Mathematical Expression of Flypaper effect}{66}{}%
+\contentsline {subsection}{\numberline {4.3.1}Benchmark model}{66}{}%
+\contentsline {subsection}{\numberline {4.3.2}Ramsey Model with Distortionary Tax Collection}{68}{}%
+\contentsline {section}{\numberline {4.4}Summary: About the Reason of Flypaper Effect}{71}{}%
+\contentsline {section}{\numberline {4.5}Policy Implication}{72}{}%
+\contentsline {chapter}{\numberline {5}Effect of Grants Restriction on Subnational Governments' Revenue Collection Effort: a Kalman Filter Application}{74}{}%
+\contentsline {section}{\numberline {5.1}Introduction}{74}{}%
+\contentsline {section}{\numberline {5.2}Background}{75}{}%
+\contentsline {section}{\numberline {5.3}Literature Review}{76}{}%
+\contentsline {subsection}{\numberline {5.3.1}Theoretical and Empirical Insights on Intergovernmental Transfers and Tax Effort}{77}{}%
+\contentsline {subsection}{\numberline {5.3.2}Empirical Challenges and Insights in Assessing Transfer Effects on Tax Effort}{78}{}%
+\contentsline {subsection}{\numberline {5.3.3}Review and Summary on Literature Review}{79}{}%
+\contentsline {section}{\numberline {5.4}Problem Statement and Research Method}{80}{}%
+\contentsline {subsection}{\numberline {5.4.1}Research Method}{81}{}%
+\contentsline {section}{\numberline {5.5}Model Construction}{82}{}%
+\contentsline {subsection}{\numberline {5.5.1}General Setup of the Ramsey Problem}{82}{}%
+\contentsline {subsection}{\numberline {5.5.2}Problem Solve Process}{84}{}%
+\contentsline {section}{\numberline {5.6}Theoretical Conjecture}{85}{}%
+\contentsline {subsection}{\numberline {5.6.1}The effect of general transfer on tax collection effort}{85}{}%
+\contentsline {subsection}{\numberline {5.6.2}The effect of categorical grants in productive area on tax collection effort}{87}{}%
+\contentsline {subsection}{\numberline {5.6.3}The effect of categorical grants in welfare area on tax collection effort}{87}{}%
+\contentsline {section}{\numberline {5.7}Regression Model Design and Hypothesis}{88}{}%
+\contentsline {section}{\numberline {5.8}Variables and Sample}{88}{}%
+\contentsline {subsection}{\numberline {5.8.1}Construction of moderating variables}{89}{}%
+\contentsline {subsection}{\numberline {5.8.2}Measure of tax collection effort}{91}{}%
+\contentsline {section}{\numberline {5.9}Regression Results and Analysis}{94}{}%
+\contentsline {section}{\numberline {5.10}Review and Summary}{96}{}%
+\contentsline {chapter}{\numberline {6}Summary, Thoughts and Rethink}{98}{}%
+\contentsline {section}{\numberline {6.1}Overall Interests and Partial Interests}{98}{}%
+\contentsline {section}{\numberline {6.2}Efficiency and Equity}{100}{}%
+\contentsline {section}{\numberline {6.3}Long Term Interest and Short Term Interest}{101}{}%
 \renewcommand {\cftchappresnum }{Appendix }
-\contentsline {chapter}{\numberline {A}Tables}{102}{}%
-\contentsline {section}{\numberline {A.1}Chapter 1}{102}{}%
-\contentsline {section}{\numberline {A.2}Chapter 2}{106}{}%
-\contentsline {section}{\numberline {A.3}Chapter 3}{107}{}%
-\contentsline {section}{\numberline {A.4}Chapter 4}{115}{}%
-\contentsline {section}{\numberline {A.5}Chapter 5}{116}{}%
-\contentsline {chapter}{\numberline {B}Figures}{124}{}%
-\contentsline {section}{\numberline {B.1}Chapter 1}{124}{}%
-\contentsline {section}{\numberline {B.2}Chapter 2}{129}{}%
-\contentsline {section}{\numberline {B.3}Chapter 3}{133}{}%
-\contentsline {section}{\numberline {B.4}Chapter 4}{138}{}%
-\contentsline {section}{\numberline {B.5}Chapter 5}{144}{}%
+\contentsline {chapter}{\numberline {A}Tables}{103}{}%
+\contentsline {section}{\numberline {A.1}Chapter 1}{103}{}%
+\contentsline {section}{\numberline {A.2}Chapter 2}{107}{}%
+\contentsline {section}{\numberline {A.3}Chapter 3}{108}{}%
+\contentsline {section}{\numberline {A.4}Chapter 4}{116}{}%
+\contentsline {section}{\numberline {A.5}Chapter 5}{117}{}%
+\contentsline {chapter}{\numberline {B}Figures}{125}{}%
+\contentsline {section}{\numberline {B.1}Chapter 1}{125}{}%
+\contentsline {section}{\numberline {B.2}Chapter 2}{130}{}%
+\contentsline {section}{\numberline {B.3}Chapter 3}{134}{}%
+\contentsline {section}{\numberline {B.4}Chapter 4}{139}{}%
+\contentsline {section}{\numberline {B.5}Chapter 5}{145}{}%
+\contentsline {chapter}{\numberline {C}Approval Letters from Graduate School}{148}{}%
+\contentsline {chapter}{Bibliography}{149}{}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.16)  24 MAR 2024 12:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.16)  6 MAY 2024 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -787,10 +787,10 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 297.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 298.
 \@quotelevel=\count467
 \@quotereset=\count468
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 297.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 298.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./Yan_Hao_PhD-Dissertation.aux (./Chapter-1/Chapter-1.aux) (./Chapter-2/Chapter-2.aux) (./Chapter-3/Chapter-3.aux) (./Chapter-4/Chapter-4.aux) (./Chapter-5/Chapter-5.aux) (./Chapter-6/Chapter-6.aux) (./Appendix-A/Appendix-A.aux
@@ -800,23 +800,23 @@ LaTeX Warning: Label `Table 1.3' multiply defined.
 
 LaTeX Warning: Label `Table A.1' multiply defined.
 
-) (./Appendix-B/Appendix-B.aux))
+) (./Appendix-B/Appendix-B.aux) (./Appendix-C/Appendix-C.aux))
 \openout1 = `Yan_Hao_PhD-Dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 297.
-LaTeX Font Info:    ... okay on input line 297.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 297.
-LaTeX Font Info:    ... okay on input line 297.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 297.
-LaTeX Font Info:    ... okay on input line 297.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 297.
-LaTeX Font Info:    ... okay on input line 297.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 297.
-LaTeX Font Info:    ... okay on input line 297.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 297.
-LaTeX Font Info:    ... okay on input line 297.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 297.
-LaTeX Font Info:    ... okay on input line 297.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 298.
+LaTeX Font Info:    ... okay on input line 298.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -852,18 +852,18 @@ LaTeX Font Info:    ... okay on input line 297.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 297.
-Package microtype Info: Applying patch `item' on input line 297.
-Package microtype Info: Applying patch `toc' on input line 297.
-Package microtype Info: Applying patch `eqnum' on input line 297.
-Package microtype Info: Applying patch `footnote' on input line 297.
+LaTeX Info: Redefining \microtypecontext on input line 298.
+Package microtype Info: Applying patch `item' on input line 298.
+Package microtype Info: Applying patch `toc' on input line 298.
+Package microtype Info: Applying patch `eqnum' on input line 298.
+Package microtype Info: Applying patch `footnote' on input line 298.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 297.
+LaTeX Info: Redefining \showhyphens on input line 298.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -900,7 +900,7 @@ Package caption Info: End \AtBeginDocument code.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 297.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 298.
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
@@ -931,45 +931,45 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Yan_Hao_PhD-Dissertation.bbl' found.
  (./Yan_Hao_PhD-Dissertation.bbl)
-Package biblatex Info: Reference section=0 on input line 297.
-Package biblatex Info: Reference segment=0 on input line 297.
+Package biblatex Info: Reference section=0 on input line 298.
+Package biblatex Info: Reference segment=0 on input line 298.
 \c@lstlisting=\count475
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 325.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 326.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
 
 
 {d:/Programs/Tex/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 330.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 331.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 330.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 331.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 330.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 331.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 330.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 331.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 330.
+(Font)              <12> on input line 331.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 330.
+(Font)              <8> on input line 331.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 330.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 330.
+(Font)              <6> on input line 331.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 331.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 330.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 331.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -977,7 +977,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [2
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 334.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 335.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -994,7 +994,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 \openout4 = `Yan_Hao_PhD-Dissertation.toc'.
 
  [8] (./Yan_Hao_PhD-Dissertation.lof
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 37.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 38.
  (d:/Programs/Tex/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1017,34 +1017,37 @@ Package microtype Info: Loading generic protrusion settings for font family
  [12] (./SupplementaryMaterial/ListOfSymbols.tex [13
 
 
-] [14]) [15] (./SupplementaryMaterial/Acknowledgments.tex [16
-
-] [17])
-Underfull \hbox (badness 10000) in paragraph at lines 28--366
-
- []
+] [14]) [15] (./SupplementaryMaterial/Preface.tex) [16
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--366
+] (./SupplementaryMaterial/Acknowledgments.tex [17
+
+] [18])
+Underfull \hbox (badness 10000) in paragraph at lines 28--369
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--366
+Underfull \hbox (badness 10000) in paragraph at lines 28--369
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--366
+Underfull \hbox (badness 10000) in paragraph at lines 28--369
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--366
+Underfull \hbox (badness 10000) in paragraph at lines 28--369
 
  []
 
-[18]
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--369
+
+ []
+
+[19]
 \openout2 = `Chapter-1/Chapter-1.aux'.
 
  (./Chapter-1/Chapter-1.tex
@@ -1085,17 +1088,17 @@ Chapter 3.
 
 
 
-] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]
-Underfull \hbox (badness 10000) in paragraph at lines 306--306
+] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55]
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
 
  []
 
-[54] [55] [56]
-Overfull \hbox (15.83104pt too wide) in paragraph at lines 542--544
-[]\T1/lmr/m/n/12 (-20) In model 2, the co-ef-fi-cients $\OML/lmm/m/it/12 c[]\OT1/lmr/m/n/12 (-20) (\OML/lmm/m/it/12 r; r; r; d\OT1/lmr/m/n/12 (-20) )\OML/lmm/m/it/12 ; c[]\OT1/lmr/m/n/12 (-20) (\OML/lmm/m/it/12 r; r; d; r\OT1/lmr/m/n/12 (-20) )\OML/lmm/m/it/12 ; c[]\OT1/lmr/m/n/12 (-20) (\OML/lmm/m/it/12 r; d; r; r\OT1/lmr/m/n/12 (-20) )\OML/lmm/m/it/12 ; c[]\OT1/lmr/m/n/12 (-20) (\OML/lmm/m/it/12 r; d; r; d\OT1/lmr/m/n/12 (-20) )\OML/lmm/m/it/12 ; c[]\OT1/lmr/m/n/12 (-20) (\OML/lmm/m/it/12 d; r; d; r\OT1/lmr/m/n/12 (-20) )\OML/lmm/m/it/12 ; [] 
+[56] [57]
+Overfull \hbox (21.87067pt too wide) in paragraph at lines 320--322
+\T1/lmr/m/n/12 (-20) ing $\OML/lmm/m/it/12 c[]\OT1/lmr/m/n/12 (-20) (0\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 (-20) 00246)\OML/lmm/m/it/12 ; c[]\OT1/lmr/m/n/12 (-20) (\OMS/lmsy/m/n/12 ^^@\OT1/lmr/m/n/12 (-20) 0\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 (-20) 00751)\OML/lmm/m/it/12 ; c[]\OT1/lmr/m/n/12 (-20) (\OMS/lmsy/m/n/12 ^^@\OT1/lmr/m/n/12 (-20) 0\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 (-20) 0163)\OML/lmm/m/it/12 ; c[]\OT1/lmr/m/n/12 (-20) (0\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 (-20) 0119)\OML/lmm/m/it/12 ; c[]\OT1/lmr/m/n/12 (-20) (\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 (-20) 00893)\OML/lmm/m/it/12 ; c[]\OT1/lmr/m/n/12 (-20) (0\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 (-20) 00919)\OML/lmm/m/it/12 ; c[]\OT1/lmr/m/n/12 (-20) (\OMS/lmsy/m/n/12 ^^@\OT1/lmr/m/n/12 (-20) 0\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 (-20) 00713)$\T1/lmr/m/n/12 (-20) .
  []
 
-[57] [58]) [59]
+[58] [59]) [60]
 \openout2 = `Chapter-4/Chapter-4.aux'.
 
  (./Chapter-4/Chapter-4.tex
@@ -1105,27 +1108,27 @@ Overfull \hbox (3.74748pt too wide) in paragraph at lines 3--3
 |\T1/lmss/bx/n/30 (-20) Effect of In-ter-gov-ern-men-tal Trans-
  []
 
-[60
+[61
 
 
 
 
-] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71]) [72]
+] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72]) [73]
 \openout2 = `Chapter-5/Chapter-5.aux'.
 
  (./Chapter-5/Chapter-5.tex
 Chapter 5.
-[73
+[74
 
 
 
 
-] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83]
+] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84]
 Overfull \hbox (45.40799pt too wide) detected at line 180
 [][] \OT1/lmr/m/n/12 = []
  []
 
-[84] [85] [86] [87]
+[85] [86] [87] [88]
 Overfull \hbox (18.28943pt too wide) detected at line 283
 []\OML/lmm/m/it/12 TE[] \OT1/lmr/m/n/12 = \OML/lmm/m/it/12 a \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^L[]Ratio[]gen[] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^L[]w[]preference[] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^L[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 Ratio[]gen[] \OMS/lmsy/m/n/12 ^^A \OML/lmm/m/it/12 w[]preference[]\OT1/lmr/m/n/12 ) + \OML/lmm/m/it/12 []CV[]
  []
@@ -1135,22 +1138,22 @@ Overfull \hbox (27.76425pt too wide) detected at line 287
 []\OML/lmm/m/it/12 TE[] \OT1/lmr/m/n/12 = \OML/lmm/m/it/12 a \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^L[]Ratio[]cons[] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^L[]w[]preference[] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^L[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 Ratio[]cons[] \OMS/lmsy/m/n/12 ^^A \OML/lmm/m/it/12 w[]preference[]\OT1/lmr/m/n/12 ) + \OML/lmm/m/it/12 []CV[]
  []
 
-[88] [89] [90] [91]
+[89] [90] [91] [92]
 Overfull \hbox (54.49777pt too wide) detected at line 489
 []\OML/lmm/m/it/12 Tax[]revenue[]predict \OT1/lmr/m/n/12 = \OML/lmm/m/it/12 tandw \OMS/lmsy/m/n/12 ^^C \OT1/lmr/m/n/12 1\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 674 + \OML/lmm/m/it/12 fandi \OMS/lmsy/m/n/12 ^^C \OT1/lmr/m/n/12 1\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 133 \OMS/lmsy/m/n/12 ^^@ \OT1/lmr/m/n/12 3\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 223 \OMS/lmsy/m/n/12 ^^C \OML/lmm/m/it/12 hs \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 trade \OMS/lmsy/m/n/12 ^^C \OT1/lmr/m/n/12 0\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 818 + \OML/lmm/m/it/12 gdppercapita \OMS/lmsy/m/n/12 ^^C \OT1/lmr/m/n/12 0\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 029
  []
 
-[92] [93] [94] [95]) [96]
+[93] [94] [95] [96]) [97]
 \openout2 = `Chapter-6/Chapter-6.aux'.
 
  (./Chapter-6/Chapter-6.tex
 Chapter 6.
-[97
+[98
 
 
 
 
-] [98] [99] [100]) [101]
+] [99] [100] [101]) [102]
 \openout2 = `Appendix-A/Appendix-A.aux'.
 
  (./Appendix-A/Appendix-A.tex
@@ -1165,12 +1168,12 @@ Overfull \hbox (10.40526pt too wide) in paragraph at lines 9--27
  [][][][] 
  []
 
-[102
+[103
 
 
 
 
-] [103
+] [104
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 64--82
@@ -1182,13 +1185,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--82
 
  []
 
-[104
-
-] [105
+[105
 
 ] [106
 
 ] [107
+
+] [108
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 203--203
@@ -1200,7 +1203,7 @@ Overfull \hbox (1.69751pt too wide) in paragraph at lines 191--207
  [][][] 
  []
 
-[108
+[109
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 219--220
@@ -1302,7 +1305,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--230
 \T1/lmr/m/n/12 (+20) an-nu-ally
  []
 
-[109
+[110
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 242--242
@@ -1319,13 +1322,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--249
 []|\T1/lmr/m/n/12 (+20) Working age pop-u-la-tion
  []
 
-[110
-
-] [111
+[111
 
 ] [112
 
 ] [113
+
+] [114
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 350--350
@@ -1337,7 +1340,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 360--360
 []|\T1/lmr/m/n/12 (+20) Adjusted R-
  []
 
-[114
+[115
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 384--384
@@ -1349,7 +1352,7 @@ Overfull \hbox (1.69751pt too wide) in paragraph at lines 372--388
  [][][] 
  []
 
-[115
+[116
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 399--399
@@ -1381,26 +1384,26 @@ Overfull \hbox (29.56805pt too wide) in paragraph at lines 397--415
  [][][] 
  []
 
-[116
+[117
 
-] [117
+] [118
 
 ]
 Overfull \hbox (7.16022pt too wide) in paragraph at lines 450--494
  [][] 
  []
 
-[118] [119] [120
+[119] [120] [121
 
 
 
-] [121
+] [122
 
 ]
 
 LaTeX Warning: Float too large for page by 9.22015pt on input line 651.
 
-[122]
+[123]
 Underfull \hbox (badness 1831) in paragraph at lines 681--681
 []|\T1/lmr/m/n/12 (+20) person in-come ex-pen-di-
  []
@@ -1440,17 +1443,17 @@ Underfull \hbox (badness 1072) in paragraph at lines 681--681
 \T1/lmr/m/n/12 (+20) tio on pro-duc-
  []
 
-) [123]
+) [124]
 \openout2 = `Appendix-B/Appendix-B.aux'.
 
  (./Appendix-B/Appendix-B.tex
 Appendix B.
-<Chapter-1/Figures/fiscal federalism.jpeg, id=475, 722.7pt x 398.9304pt>
+<Chapter-1/Figures/fiscal federalism.jpeg, id=481, 722.7pt x 398.9304pt>
 File: Chapter-1/Figures/fiscal federalism.jpeg Graphic file (type jpg)
 <use Chapter-1/Figures/fiscal federalism.jpeg>
 Package pdftex.def Info: Chapter-1/Figures/fiscal federalism.jpeg  used on input line 7.
 (pdftex.def)             Requested size: 433.62334pt x 239.36008pt.
-[124
+[125
 
 
 
@@ -1458,12 +1461,12 @@ Package pdftex.def Info: Chapter-1/Figures/fiscal federalism.jpeg  used on input
 
 
  <./Chapter-1/Figures/fiscal federalism.jpeg>]
-<Chapter-1/Figures/source of federal revenue.JPG, id=479, 374.14781pt x 518.6878pt>
+<Chapter-1/Figures/source of federal revenue.JPG, id=485, 374.14781pt x 518.6878pt>
 File: Chapter-1/Figures/source of federal revenue.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/source of federal revenue.JPG>
 Package pdftex.def Info: Chapter-1/Figures/source of federal revenue.JPG  used on input line 22.
 (pdftex.def)             Requested size: 194.55797pt x 269.71921pt.
-<Chapter-1/Figures/source of state and local revenue.JPG, id=480, 539.76656pt x 243.91125pt>
+<Chapter-1/Figures/source of state and local revenue.JPG, id=486, 539.76656pt x 243.91125pt>
 File: Chapter-1/Figures/source of state and local revenue.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/source of state and local revenue.JPG>
 Package pdftex.def Info: Chapter-1/Figures/source of state and local revenue.JPG  used on input line 28.
@@ -1473,10 +1476,10 @@ Overfull \hbox (81.51094pt too wide) in paragraph at lines 28--28
  [][] 
  []
 
-[125
+[126
 
  <./Chapter-1/Figures/source of federal revenue.JPG> <./Chapter-1/Figures/source of state and local revenue.JPG>]
-<Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg, id=484, 487.8225pt x 294.04857pt>
+<Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg, id=491, 487.8225pt x 294.04857pt>
 File: Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg Graphic file (type jpg)
 <use Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg>
 Package pdftex.def Info: Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg  used on input line 38.
@@ -1486,25 +1489,25 @@ Overfull \hbox (39.74641pt too wide) in paragraph at lines 38--40
  [][] 
  []
 
-[126
+[127
 
  <./Chapter-2/Figures/how to evaluate the fiscal federalism.jpeg>]
-<Chapter-1/Figures/source of federal general revenue.jpg, id=488, 432.087pt x 290.832pt>
+<Chapter-1/Figures/source of federal general revenue.jpg, id=495, 432.087pt x 290.832pt>
 File: Chapter-1/Figures/source of federal general revenue.jpg Graphic file (type jpg)
 <use Chapter-1/Figures/source of federal general revenue.jpg>
 Package pdftex.def Info: Chapter-1/Figures/source of federal general revenue.jpg  used on input line 49.
 (pdftex.def)             Requested size: 138.90211pt x 93.49416pt.
-<Chapter-1/Figures/source of state general revenue.jpg, id=489, 401.208pt x 269.37pt>
+<Chapter-1/Figures/source of state general revenue.jpg, id=496, 401.208pt x 269.37pt>
 File: Chapter-1/Figures/source of state general revenue.jpg Graphic file (type jpg)
 <use Chapter-1/Figures/source of state general revenue.jpg>
 Package pdftex.def Info: Chapter-1/Figures/source of state general revenue.jpg  used on input line 51.
 (pdftex.def)             Requested size: 138.90211pt x 93.25745pt.
-<Chapter-1/Figures/sources of local general revenue.jpg, id=490, 400.113pt x 266.742pt>
+<Chapter-1/Figures/sources of local general revenue.jpg, id=497, 400.113pt x 266.742pt>
 File: Chapter-1/Figures/sources of local general revenue.jpg Graphic file (type jpg)
 <use Chapter-1/Figures/sources of local general revenue.jpg>
 Package pdftex.def Info: Chapter-1/Figures/sources of local general revenue.jpg  used on input line 53.
 (pdftex.def)             Requested size: 138.90211pt x 92.59998pt.
-<Chapter-1/Figures/federal expenditure.JPG, id=491, 385.221pt x 238.272pt>
+<Chapter-1/Figures/federal expenditure.JPG, id=498, 385.221pt x 238.272pt>
 File: Chapter-1/Figures/federal expenditure.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/federal expenditure.JPG>
 Package pdftex.def Info: Chapter-1/Figures/federal expenditure.JPG  used on input line 66.
@@ -1514,7 +1517,7 @@ Overfull \hbox (1.14677pt too wide) in paragraph at lines 66--66
  [][] 
  []
 
-<Chapter-1/Figures/state and local expenditure.JPG, id=492, 385.002pt x 233.673pt>
+<Chapter-1/Figures/state and local expenditure.JPG, id=499, 385.002pt x 233.673pt>
 File: Chapter-1/Figures/state and local expenditure.JPG Graphic file (type jpg)
 <use Chapter-1/Figures/state and local expenditure.JPG>
 Package pdftex.def Info: Chapter-1/Figures/state and local expenditure.JPG  used on input line 72.
@@ -1524,10 +1527,10 @@ Overfull \hbox (1.0329pt too wide) in paragraph at lines 72--72
  [][] 
  []
 
-[127
+[128
 
  <./Chapter-1/Figures/source of federal general revenue.jpg> <./Chapter-1/Figures/source of state general revenue.jpg> <./Chapter-1/Figures/sources of local general revenue.jpg> <./Chapter-1/Figures/federal expenditure.JPG> <./Chapter-1/Figures/state and local expenditure.JPG>]
-<Chapter-1/Figures/Venn graph on public goods.jpeg, id=497, 1169.3286pt x 693.792pt>
+<Chapter-1/Figures/Venn graph on public goods.jpeg, id=503, 1169.3286pt x 693.792pt>
 File: Chapter-1/Figures/Venn graph on public goods.jpeg Graphic file (type jpg)
 <use Chapter-1/Figures/Venn graph on public goods.jpeg>
 Package pdftex.def Info: Chapter-1/Figures/Venn graph on public goods.jpeg  used on input line 81.
@@ -1537,59 +1540,59 @@ Overfull \hbox (19.64827pt too wide) in paragraph at lines 81--83
  [][] 
  []
 
-[128
+[129
 
- <./Chapter-1/Figures/Venn graph on public goods.jpeg>] [129
+ <./Chapter-1/Figures/Venn graph on public goods.jpeg>] [130
 
 ]
-<Chapter-2/Figures/tree.jpg, id=504, 7118.595pt x 9208.4025pt>
+<Chapter-2/Figures/tree.jpg, id=510, 7118.595pt x 9208.4025pt>
 File: Chapter-2/Figures/tree.jpg Graphic file (type jpg)
 <use Chapter-2/Figures/tree.jpg>
 Package pdftex.def Info: Chapter-2/Figures/tree.jpg  used on input line 94.
 (pdftex.def)             Requested size: 320.32295pt x 414.36024pt.
- [130
+ [131
 
  <./Chapter-2/Figures/tree.jpg>]
-<Chapter-2/Figures/cncic-i.JPG, id=508, 365.86688pt x 112.16907pt>
+<Chapter-2/Figures/cncic-i.JPG, id=514, 365.86688pt x 112.16907pt>
 File: Chapter-2/Figures/cncic-i.JPG Graphic file (type jpg)
 <use Chapter-2/Figures/cncic-i.JPG>
 Package pdftex.def Info: Chapter-2/Figures/cncic-i.JPG  used on input line 105.
 (pdftex.def)             Requested size: 273.32594pt x 83.80138pt.
-<Chapter-2/Figures/cic-icn.JPG, id=509, 374.90062pt x 128.73094pt>
+<Chapter-2/Figures/cic-icn.JPG, id=515, 374.90062pt x 128.73094pt>
 File: Chapter-2/Figures/cic-icn.JPG Graphic file (type jpg)
 <use Chapter-2/Figures/cic-icn.JPG>
 Package pdftex.def Info: Chapter-2/Figures/cic-icn.JPG  used on input line 107.
 (pdftex.def)             Requested size: 273.32594pt x 93.85886pt.
-<Chapter-2/Figures/cicnc-i.JPG, id=510, 380.17032pt x 127.97812pt>
+<Chapter-2/Figures/cicnc-i.JPG, id=516, 380.17032pt x 127.97812pt>
 File: Chapter-2/Figures/cicnc-i.JPG Graphic file (type jpg)
 <use Chapter-2/Figures/cicnc-i.JPG>
 Package pdftex.def Info: Chapter-2/Figures/cicnc-i.JPG  used on input line 115.
 (pdftex.def)             Requested size: 318.13617pt x 107.0986pt.
-<Chapter-2/Figures/cicnc-i2.JPG, id=511, 374.14781pt x 125.71968pt>
+<Chapter-2/Figures/cicnc-i2.JPG, id=517, 374.14781pt x 125.71968pt>
 File: Chapter-2/Figures/cicnc-i2.JPG Graphic file (type jpg)
 <use Chapter-2/Figures/cicnc-i2.JPG>
 Package pdftex.def Info: Chapter-2/Figures/cicnc-i2.JPG  used on input line 117.
 (pdftex.def)             Requested size: 318.13617pt x 106.90442pt.
- [131
+ [132
 
- <./Chapter-2/Figures/cncic-i.JPG> <./Chapter-2/Figures/cic-icn.JPG>] [132 <./Chapter-2/Figures/cicnc-i.JPG> <./Chapter-2/Figures/cicnc-i2.JPG>]
-<Chapter-3/Figures/grants type.JPG, id=518, 542.77782pt x 371.13657pt>
+ <./Chapter-2/Figures/cncic-i.JPG> <./Chapter-2/Figures/cic-icn.JPG>] [133 <./Chapter-2/Figures/cicnc-i.JPG> <./Chapter-2/Figures/cicnc-i2.JPG>]
+<Chapter-3/Figures/grants type.JPG, id=526, 542.77782pt x 371.13657pt>
 File: Chapter-3/Figures/grants type.JPG Graphic file (type jpg)
 <use Chapter-3/Figures/grants type.JPG>
 Package pdftex.def Info: Chapter-3/Figures/grants type.JPG  used on input line 125.
 (pdftex.def)             Requested size: 434.22284pt x 296.90965pt.
- [133
+ [134
 
  <./Chapter-3/Figures/grants type.JPG>]
-<Chapter-3/Figures/heatmap.png, id=524, 574.145pt x 493.845pt>
+<Chapter-3/Figures/heatmap.png, id=530, 574.145pt x 493.845pt>
 File: Chapter-3/Figures/heatmap.png Graphic file (type png)
 <use Chapter-3/Figures/heatmap.png>
 Package pdftex.def Info: Chapter-3/Figures/heatmap.png  used on input line 150.
 (pdftex.def)             Requested size: 401.89876pt x 345.68913pt.
- [134
+ [135
 
  <./Chapter-3/Figures/heatmap.png>]
-<Chapter-3/Figures/contribution.png, id=530, 1003.75pt x 602.25pt>
+<Chapter-3/Figures/contribution.png, id=536, 1003.75pt x 602.25pt>
 File: Chapter-3/Figures/contribution.png Graphic file (type png)
 <use Chapter-3/Figures/contribution.png>
 Package pdftex.def Info: Chapter-3/Figures/contribution.png  used on input line 164.
@@ -1599,7 +1602,7 @@ Overfull \hbox (1.57716pt too wide) in paragraph at lines 164--164
  [][] 
  []
 
-<Chapter-3/Figures/contribution2.png, id=531, 1003.75pt x 602.25pt>
+<Chapter-3/Figures/contribution2.png, id=537, 1003.75pt x 602.25pt>
 File: Chapter-3/Figures/contribution2.png Graphic file (type png)
 <use Chapter-3/Figures/contribution2.png>
 Package pdftex.def Info: Chapter-3/Figures/contribution2.png  used on input line 170.
@@ -1609,10 +1612,10 @@ Overfull \hbox (1.57716pt too wide) in paragraph at lines 170--170
  [][] 
  []
 
-[135
+[136
 
  <./Chapter-3/Figures/contribution.png (PNG copy)> <./Chapter-3/Figures/contribution2.png (PNG copy)>]
-<Chapter-3/Figures/pca.png, id=535, 462.528pt x 346.896pt>
+<Chapter-3/Figures/pca.png, id=541, 462.528pt x 346.896pt>
 File: Chapter-3/Figures/pca.png Graphic file (type png)
 <use Chapter-3/Figures/pca.png>
 Package pdftex.def Info: Chapter-3/Figures/pca.png  used on input line 184.
@@ -1622,7 +1625,7 @@ Overfull \hbox (8.96638pt too wide) in paragraph at lines 184--184
  [][] 
  []
 
-<Chapter-3/Figures/pca_3d.png, id=536, 475.42819pt x 427.36865pt>
+<Chapter-3/Figures/pca_3d.png, id=542, 475.42819pt x 427.36865pt>
 File: Chapter-3/Figures/pca_3d.png Graphic file (type png)
 <use Chapter-3/Figures/pca_3d.png>
 Package pdftex.def Info: Chapter-3/Figures/pca_3d.png  used on input line 190.
@@ -1632,10 +1635,10 @@ Overfull \hbox (14.77142pt too wide) in paragraph at lines 190--190
  [][] 
  []
 
-[136
+[137
 
  <./Chapter-3/Figures/pca.png> <./Chapter-3/Figures/pca_3d.png>]
-<Chapter-3/Figures/IGT and factors.jpg, id=542, 452.4403pt x 338.76563pt>
+<Chapter-3/Figures/IGT and factors.jpg, id=548, 452.4403pt x 338.76563pt>
 File: Chapter-3/Figures/IGT and factors.jpg Graphic file (type jpg)
 <use Chapter-3/Figures/IGT and factors.jpg>
 Package pdftex.def Info: Chapter-3/Figures/IGT and factors.jpg  used on input line 197.
@@ -1645,10 +1648,10 @@ Overfull \hbox (4.36432pt too wide) in paragraph at lines 197--199
  [][] 
  []
 
-[137
+[138
 
  <./Chapter-3/Figures/IGT and factors.jpg>]
-<Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg, id=546, 1254.3663pt x 850.1361pt>
+<Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg, id=553, 1254.3663pt x 850.1361pt>
 File: Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg Graphic file (type jpg)
 <use Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg>
 Package pdftex.def Info: Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg  used on input line 209.
@@ -1658,103 +1661,103 @@ Overfull \hbox (53.66275pt too wide) in paragraph at lines 209--211
  [][] 
  []
 
-[138
+[139
 
  <./Chapter-4/Figures/Effect of Intergovernmental Transfer.jpeg>]
-<Chapter-4/Figures/mfyeffect.jpg, id=550, 658.71094pt x 542.77782pt>
+<Chapter-4/Figures/mfyeffect.jpg, id=557, 658.71094pt x 542.77782pt>
 File: Chapter-4/Figures/mfyeffect.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/mfyeffect.jpg>
 Package pdftex.def Info: Chapter-4/Figures/mfyeffect.jpg  used on input line 217.
 (pdftex.def)             Requested size: 263.4797pt x 217.10727pt.
- [139
+ [140
 
  <./Chapter-4/Figures/mfyeffect.jpg>]
-<Chapter-4/Figures/budget constrain distortion.jpg, id=555, 688.0104pt x 564.57324pt>
+<Chapter-4/Figures/budget constrain distortion.jpg, id=561, 688.0104pt x 564.57324pt>
 File: Chapter-4/Figures/budget constrain distortion.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/budget constrain distortion.jpg>
 Package pdftex.def Info: Chapter-4/Figures/budget constrain distortion.jpg  used on input line 227.
 (pdftex.def)             Requested size: 275.19928pt x 225.82529pt.
- [140
+ [141
 
  <./Chapter-4/Figures/budget constrain distortion.jpg>]
-<Chapter-4/Figures/distofp1.jpg, id=559, 332.74312pt x 208.52907pt>
+<Chapter-4/Figures/distofp1.jpg, id=565, 332.74312pt x 208.52907pt>
 File: Chapter-4/Figures/distofp1.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/distofp1.jpg>
 Package pdftex.def Info: Chapter-4/Figures/distofp1.jpg  used on input line 238.
 (pdftex.def)             Requested size: 201.63232pt x 126.36252pt.
-<Chapter-4/Figures/distofp2.jpg, id=560, 396.7322pt x 231.86626pt>
+<Chapter-4/Figures/distofp2.jpg, id=566, 396.7322pt x 231.86626pt>
 File: Chapter-4/Figures/distofp2.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/distofp2.jpg>
 Package pdftex.def Info: Chapter-4/Figures/distofp2.jpg  used on input line 240.
 (pdftex.def)             Requested size: 201.63232pt x 117.84334pt.
-<Chapter-4/Figures/distofp3.jpg, id=561, 376.40625pt x 240.14719pt>
+<Chapter-4/Figures/distofp3.jpg, id=567, 376.40625pt x 240.14719pt>
 File: Chapter-4/Figures/distofp3.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/distofp3.jpg>
 Package pdftex.def Info: Chapter-4/Figures/distofp3.jpg  used on input line 242.
 (pdftex.def)             Requested size: 201.63232pt x 128.64418pt.
-<Chapter-4/Figures/distofp4.jpg, id=562, 452.4403pt x 230.36063pt>
+<Chapter-4/Figures/distofp4.jpg, id=568, 452.4403pt x 230.36063pt>
 File: Chapter-4/Figures/distofp4.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/distofp4.jpg>
 Package pdftex.def Info: Chapter-4/Figures/distofp4.jpg  used on input line 244.
 (pdftex.def)             Requested size: 201.63232pt x 102.65953pt.
- [141
+ [142
 
  <./Chapter-4/Figures/distofp1.jpg> <./Chapter-4/Figures/distofp2.jpg> <./Chapter-4/Figures/distofp3.jpg> <./Chapter-4/Figures/distofp4.jpg>]
-<Chapter-4/Figures/beta01.jpg, id=566, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/beta01.jpg, id=572, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/beta01.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/beta01.jpg>
 Package pdftex.def Info: Chapter-4/Figures/beta01.jpg  used on input line 254.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
-<Chapter-4/Figures/beta04.jpg, id=567, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/beta04.jpg, id=573, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/beta04.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/beta04.jpg>
 Package pdftex.def Info: Chapter-4/Figures/beta04.jpg  used on input line 256.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
-<Chapter-4/Figures/beta07.jpg, id=568, 361.35pt x 225.84375pt>
+<Chapter-4/Figures/beta07.jpg, id=574, 361.35pt x 225.84375pt>
 File: Chapter-4/Figures/beta07.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/beta07.jpg>
 Package pdftex.def Info: Chapter-4/Figures/beta07.jpg  used on input line 258.
 (pdftex.def)             Requested size: 201.63232pt x 126.02019pt.
-<Chapter-4/Figures/beta09.jpg, id=569, 361.35pt x 225.84375pt>
+<Chapter-4/Figures/beta09.jpg, id=575, 361.35pt x 225.84375pt>
 File: Chapter-4/Figures/beta09.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/beta09.jpg>
 Package pdftex.def Info: Chapter-4/Figures/beta09.jpg  used on input line 260.
 (pdftex.def)             Requested size: 201.63232pt x 126.02019pt.
- [142
+ [143
 
  <./Chapter-4/Figures/beta01.jpg> <./Chapter-4/Figures/beta04.jpg> <./Chapter-4/Figures/beta07.jpg> <./Chapter-4/Figures/beta09.jpg>]
-<Chapter-4/Figures/alpha01.jpg, id=573, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/alpha01.jpg, id=579, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/alpha01.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/alpha01.jpg>
 Package pdftex.def Info: Chapter-4/Figures/alpha01.jpg  used on input line 268.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
-<Chapter-4/Figures/alpha04.jpg, id=574, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/alpha04.jpg, id=580, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/alpha04.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/alpha04.jpg>
 Package pdftex.def Info: Chapter-4/Figures/alpha04.jpg  used on input line 270.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
-<Chapter-4/Figures/alpha07.jpg, id=575, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/alpha07.jpg, id=581, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/alpha07.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/alpha07.jpg>
 Package pdftex.def Info: Chapter-4/Figures/alpha07.jpg  used on input line 272.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
-<Chapter-4/Figures/alpha09.jpg, id=576, 361.35pt x 229.60782pt>
+<Chapter-4/Figures/alpha09.jpg, id=582, 361.35pt x 229.60782pt>
 File: Chapter-4/Figures/alpha09.jpg Graphic file (type jpg)
 <use Chapter-4/Figures/alpha09.jpg>
 Package pdftex.def Info: Chapter-4/Figures/alpha09.jpg  used on input line 274.
 (pdftex.def)             Requested size: 201.63232pt x 128.12053pt.
- [143
+ [144
 
  <./Chapter-4/Figures/alpha01.jpg> <./Chapter-4/Figures/alpha04.jpg> <./Chapter-4/Figures/alpha07.jpg> <./Chapter-4/Figures/alpha09.jpg>]
-<Chapter-5/Figures/calculation effortttt.JPG, id=580, 523.20468pt x 157.33781pt>
+<Chapter-5/Figures/calculation effortttt.JPG, id=587, 523.20468pt x 157.33781pt>
 File: Chapter-5/Figures/calculation effortttt.JPG Graphic file (type jpg)
 <use Chapter-5/Figures/calculation effortttt.JPG>
 Package pdftex.def Info: Chapter-5/Figures/calculation effortttt.JPG  used on input line 283.
 (pdftex.def)             Requested size: 418.56432pt x 125.8704pt.
- [144
+ [145
 
  <./Chapter-5/Figures/calculation effortttt.JPG>]
-<Chapter-5/Figures/laffer.jpg, id=584, 963.6pt x 542.025pt>
+<Chapter-5/Figures/laffer.jpg, id=591, 963.6pt x 542.025pt>
 File: Chapter-5/Figures/laffer.jpg Graphic file (type jpg)
 <use Chapter-5/Figures/laffer.jpg>
 Package pdftex.def Info: Chapter-5/Figures/laffer.jpg  used on input line 293.
@@ -1764,22 +1767,36 @@ Overfull \hbox (226.44052pt too wide) in paragraph at lines 293--295
  [][] 
  []
 
-[145
+[146
 
  <./Chapter-5/Figures/laffer.jpg>]
-<Chapter-5/Figures/int_gen_W.jpg, id=589, 470.631pt x 339.669pt>
+<Chapter-5/Figures/int_gen_W.jpg, id=595, 470.631pt x 339.669pt>
 File: Chapter-5/Figures/int_gen_W.jpg Graphic file (type jpg)
 <use Chapter-5/Figures/int_gen_W.jpg>
 Package pdftex.def Info: Chapter-5/Figures/int_gen_W.jpg  used on input line 302.
 (pdftex.def)             Requested size: 376.5053pt x 271.73557pt.
-<Chapter-5/Figures/inter_cons_W.jpg, id=590, 476.544pt x 315.36pt>
+<Chapter-5/Figures/inter_cons_W.jpg, id=596, 476.544pt x 315.36pt>
 File: Chapter-5/Figures/inter_cons_W.jpg Graphic file (type jpg)
 <use Chapter-5/Figures/inter_cons_W.jpg>
 Package pdftex.def Info: Chapter-5/Figures/inter_cons_W.jpg  used on input line 310.
 (pdftex.def)             Requested size: 381.23572pt x 252.28833pt.
-) [146
+) [147
 
- <./Chapter-5/Figures/int_gen_W.jpg> <./Chapter-5/Figures/inter_cons_W.jpg>] (./SupplementaryMaterial/Vita.tex
+ <./Chapter-5/Figures/int_gen_W.jpg> <./Chapter-5/Figures/inter_cons_W.jpg>]
+\openout2 = `Appendix-C/Appendix-C.aux'.
+
+ (./Appendix-C/Appendix-C.tex
+Appendix C.
+) [148
+
+
+
+
+] [149
+
+
+
+] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] (./SupplementaryMaterial/Vita.tex
 Underfull \hbox (badness 10000) in paragraph at lines 16--19
 
  []
@@ -1799,16 +1816,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--71
 
  []
 
-[147
-
-
+[161
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 73--90
 
  []
 
-[148]) [149] (./Yan_Hao_PhD-Dissertation.aux (./Chapter-1/Chapter-1.aux) (./Chapter-2/Chapter-2.aux) (./Chapter-3/Chapter-3.aux) (./Chapter-4/Chapter-4.aux) (./Chapter-5/Chapter-5.aux) (./Chapter-6/Chapter-6.aux) (./Appendix-A/Appendix-A.aux) (./Appendix-B/Appendix-B.aux))
+[162]) [163] (./Yan_Hao_PhD-Dissertation.aux (./Chapter-1/Chapter-1.aux) (./Chapter-2/Chapter-2.aux) (./Chapter-3/Chapter-3.aux) (./Chapter-4/Chapter-4.aux) (./Chapter-5/Chapter-5.aux) (./Chapter-6/Chapter-6.aux) (./Appendix-A/Appendix-A.aux) (./Appendix-B/Appendix-B.aux) (./Appendix-C/Appendix-C.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1817,18 +1832,18 @@ Package logreq Info: Writing requests to 'Yan_Hao_PhD-Dissertation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25235 strings out of 476093
- 514849 string characters out of 5789096
- 1903787 words of memory out of 5000000
- 44864 multiletter control sequences out of 15000+600000
- 613671 words of font info for 228 fonts, out of 8000000 for 9000
+ 26017 strings out of 476093
+ 541787 string characters out of 5789096
+ 1904787 words of memory out of 5000000
+ 45585 multiletter control sequences out of 15000+600000
+ 616783 words of font info for 253 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,15n,92p,2323b,5045s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,15n,92p,1839b,5045s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{d:/Programs/Tex/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmex10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi5.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi6.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr6.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr7.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy6.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy7.pfb><d:/Programs/Tex/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Yan_Hao_PhD-Dissertation.pdf (167 pages, 14048548 bytes).
+Output written on Yan_Hao_PhD-Dissertation.pdf (182 pages, 14098322 bytes).
 PDF statistics:
- 706 PDF objects out of 1000 (max. 8388607)
- 444 compressed objects within 5 object streams
+ 755 PDF objects out of 1000 (max. 8388607)
+ 478 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  56014 words of extra memory for PDF output out of 61914 (max. 10000000)
 

@@ -103,62 +103,6 @@
       \field{pages}{1378\bibrangedash 1455}
       \range{pages}{78}
     \endentry
-    \entry{Ahmad:1995}{inbook}{}
-      \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=c3504b5dcd4c5e15605261f129aa00fb}{%
-           family={Ahmad},
-           familyi={A\bibinitperiod},
-           given={Ehtisham},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8aef9bd2b8022a8f05b80535df72bec7}{%
-           family={Craig},
-           familyi={C\bibinitperiod},
-           given={Jon},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1ab1a17741a143f068df07d06eb5620d}{%
-           family={Mihaljek},
-           familyi={M\bibinitperiod},
-           given={Dubravko},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ffbf03deb00e243d1601c58717d7b0a6}{%
-           family={Ehtisham},
-           familyi={E\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=980a475acdd8e0eb6b9e94bbe215ff62}{%
-           family={Qiang},
-           familyi={Q\bibinitperiod},
-           given={Gao},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=28671b66f608f008531fa9f0256c69af}{%
-           family={Tanzi},
-           familyi={T\bibinitperiod},
-           given={Vito},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {International Monetary Fund}%
-      }
-      \strng{namehash}{ad0d2759a40054a601d81cd7df3ba9be}
-      \strng{fullhash}{425c891ee425cf15f4baf5f9d42e305e}
-      \strng{bibnamehash}{425c891ee425cf15f4baf5f9d42e305e}
-      \strng{authorbibnamehash}{425c891ee425cf15f4baf5f9d42e305e}
-      \strng{authornamehash}{ad0d2759a40054a601d81cd7df3ba9be}
-      \strng{authorfullhash}{425c891ee425cf15f4baf5f9d42e305e}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Reforming China’s Public Finances}
-      \field{title}{“Implementing and Managing Grants—Institutional and Informational Requirements,”}
-      \field{year}{1995}
-    \endentry
     \entry{aizenman2008collection}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=496e682e090ae7b8261f5bf11f72f5f3}{%
@@ -313,14 +257,17 @@
       \field{title}{Partisanship, Political Control, and Economic Assessments}
       \field{year}{2009}
     \endentry
-    \entry{2006Economic}{article}{}
+    \entry{anderson2006economic}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6f4a712b8e9e92efba6cd8c72872fc10}{%
            family={Anderson},
            familyi={A\bibinitperiod},
-           given={Cameron\bibnamedelima D.},
+           given={Cameron\bibnamedelima D},
            giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
            givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
       }
       \strng{namehash}{6f4a712b8e9e92efba6cd8c72872fc10}
       \strng{fullhash}{6f4a712b8e9e92efba6cd8c72872fc10}
@@ -335,9 +282,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{American Journal of Political Science}
+      \field{journaltitle}{American journal of political science}
       \field{number}{2}
-      \field{title}{Economic Voting and Multilevel Governance: A Comparative Individual-Level Analysis}
+      \field{title}{Economic voting and multilevel governance: A comparative individual-level analysis}
       \field{volume}{50}
       \field{year}{2006}
       \field{pages}{449\bibrangedash 463}
@@ -417,6 +364,90 @@
       \field{year}{2012}
       \field{pages}{43\bibrangedash 57}
       \range{pages}{15}
+    \endentry
+    \entry{ansolabehere2006party}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b4eb159d441c4c0f7b14bb55b6e910c7}{%
+           family={Ansolabehere},
+           familyi={A\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5780645076cff729e3c94d9c4d135bd6}{%
+           family={Snyder\bibnamedelima Jr},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={James\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{fullhash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{bibnamehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{authorbibnamehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{authornamehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{authorfullhash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Scandinavian Journal of Economics}
+      \field{number}{4}
+      \field{title}{Party control of state government and the distribution of public expenditures}
+      \field{volume}{108}
+      \field{year}{2006}
+      \field{pages}{547\bibrangedash 569}
+      \range{pages}{23}
+    \endentry
+    \entry{ansolabehere2002equal}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b4eb159d441c4c0f7b14bb55b6e910c7}{%
+           family={Ansolabehere},
+           familyi={A\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=947de587b5fcc8c8931af72a1ac326f4}{%
+           family={Gerber},
+           familyi={G\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50a13881daf2585c4f5f382bdd929eb9}{%
+           family={Snyder},
+           familyi={S\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c8e265e97024d2b0891f2b2a006b6ff6}
+      \strng{fullhash}{2c0bf3e4e9d6a95cc24643c3c87635a0}
+      \strng{bibnamehash}{2c0bf3e4e9d6a95cc24643c3c87635a0}
+      \strng{authorbibnamehash}{2c0bf3e4e9d6a95cc24643c3c87635a0}
+      \strng{authornamehash}{c8e265e97024d2b0891f2b2a006b6ff6}
+      \strng{authorfullhash}{2c0bf3e4e9d6a95cc24643c3c87635a0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{4}
+      \field{title}{Equal votes, equal money: Court-ordered redistricting and public expenditures in the American states}
+      \field{volume}{96}
+      \field{year}{2002}
+      \field{pages}{767\bibrangedash 777}
+      \range{pages}{11}
     \endentry
     \entry{aragon2005intergovernmental}{article}{}
       \name{author}{2}{}{%
@@ -663,6 +694,39 @@
       \field{year}{1998}
       \field{pages}{335\bibrangedash 361}
       \range{pages}{27}
+    \endentry
+    \entry{banful2011formula}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e584278bde37060beae21cdff11bfd1b}{%
+           family={Banful},
+           familyi={B\bibinitperiod},
+           given={Afua\bibnamedelima Branoah},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e584278bde37060beae21cdff11bfd1b}
+      \strng{fullhash}{e584278bde37060beae21cdff11bfd1b}
+      \strng{bibnamehash}{e584278bde37060beae21cdff11bfd1b}
+      \strng{authorbibnamehash}{e584278bde37060beae21cdff11bfd1b}
+      \strng{authornamehash}{e584278bde37060beae21cdff11bfd1b}
+      \strng{authorfullhash}{e584278bde37060beae21cdff11bfd1b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of development economics}
+      \field{number}{2}
+      \field{title}{Do formula-based intergovernmental transfer mechanisms eliminate politically motivated targeting? Evidence from Ghana}
+      \field{volume}{96}
+      \field{year}{2011}
+      \field{pages}{380\bibrangedash 390}
+      \range{pages}{11}
     \endentry
     \entry{banks2006general}{article}{}
       \name{author}{2}{}{%
@@ -1075,24 +1139,30 @@
       \field{pages}{24}
       \range{pages}{1}
     \endentry
-    \entry{boadway1986federal}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b5924348c3b9e77c627aa3ff2d97fb0c}{%
-           family={Boadway},
+    \entry{borck2003political}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a86451f9e21a07339f8010da1ec79870}{%
+           family={Borck},
            familyi={B\bibinitperiod},
-           given={Robin},
+           given={Rainald},
            giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1dd69e963a789ed16f381aa6f862a38a}{%
+           family={Owings},
+           familyi={O\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {University of Toronto Press}%
+        {Elsevier}%
       }
-      \strng{namehash}{b5924348c3b9e77c627aa3ff2d97fb0c}
-      \strng{fullhash}{b5924348c3b9e77c627aa3ff2d97fb0c}
-      \strng{bibnamehash}{b5924348c3b9e77c627aa3ff2d97fb0c}
-      \strng{authorbibnamehash}{b5924348c3b9e77c627aa3ff2d97fb0c}
-      \strng{authornamehash}{b5924348c3b9e77c627aa3ff2d97fb0c}
-      \strng{authorfullhash}{b5924348c3b9e77c627aa3ff2d97fb0c}
+      \strng{namehash}{4bab79604513703c3f6f359f34ee661e}
+      \strng{fullhash}{4bab79604513703c3f6f359f34ee661e}
+      \strng{bibnamehash}{4bab79604513703c3f6f359f34ee661e}
+      \strng{authorbibnamehash}{4bab79604513703c3f6f359f34ee661e}
+      \strng{authornamehash}{4bab79604513703c3f6f359f34ee661e}
+      \strng{authorfullhash}{4bab79604513703c3f6f359f34ee661e}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -1100,12 +1170,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Fiscal Federalism}
-      \field{title}{Federal-provincial transfers in Canada: a critical review of the existing arrangements}
-      \field{volume}{65}
-      \field{year}{1986}
-      \field{pages}{1\bibrangedash 47}
-      \range{pages}{47}
+      \field{journaltitle}{Regional Science and Urban Economics}
+      \field{number}{2}
+      \field{title}{The political economy of intergovernmental grants}
+      \field{volume}{33}
+      \field{year}{2003}
+      \field{pages}{139\bibrangedash 156}
+      \range{pages}{18}
     \endentry
     \entry{borge1995lump}{article}{}
       \name{author}{1}{}{%
@@ -1307,6 +1378,33 @@
       \field{year}{1977}
       \field{pages}{255\bibrangedash 273}
       \range{pages}{19}
+    \endentry
+    \entry{browning1973geography}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2dfd380926eb298a1257b2ba50e08c0f}{%
+           family={Browning},
+           familyi={B\bibinitperiod},
+           given={Clyde\bibnamedelima Eugene},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \strng{fullhash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \strng{bibnamehash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \strng{authorbibnamehash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \strng{authornamehash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \strng{authorfullhash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{geography of Federal outlays}
+      \field{year}{1973}
     \endentry
     \entry{brueckner2003strategic}{article}{}
       \name{author}{1}{}{%
@@ -1587,6 +1685,57 @@
       \field{pages}{817\bibrangedash 830}
       \range{pages}{14}
     \endentry
+    \entry{carlino2023partisanship}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6be1642172aa4fde4ca73067f3d94bb4}{%
+           family={Carlino},
+           familyi={C\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51b6b6a23ce55c11b1813f842fca29e7}{%
+           family={Drautzburg},
+           familyi={D\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c8a12e937e81c4b3aebca7eedc7ee16}{%
+           family={Inman},
+           familyi={I\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04bc2fc3e473849296e2e19841aba8ff}{%
+           family={Zarra},
+           familyi={Z\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203}%
+      }
+      \strng{namehash}{904c0abdc76840aeb8c91e83a99f0090}
+      \strng{fullhash}{af3c070c321f13a228b22b212503bcab}
+      \strng{bibnamehash}{af3c070c321f13a228b22b212503bcab}
+      \strng{authorbibnamehash}{af3c070c321f13a228b22b212503bcab}
+      \strng{authornamehash}{904c0abdc76840aeb8c91e83a99f0090}
+      \strng{authorfullhash}{af3c070c321f13a228b22b212503bcab}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{3}
+      \field{title}{Partisanship and fiscal policy in economic unions: Evidence from us states}
+      \field{volume}{113}
+      \field{year}{2023}
+      \field{pages}{701\bibrangedash 737}
+      \range{pages}{37}
+    \endentry
     \entry{carpini1996americans}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=95426f706578ff2381960cd559b8d91c}{%
@@ -1620,39 +1769,6 @@
       \field{labeltitlesource}{title}
       \field{title}{What Americans know about politics and why it matters}
       \field{year}{1996}
-    \endentry
-    \entry{carreras2014outsiders}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2c04f79be47f81d3b9ce77d1bdf304a8}{%
-           family={Carreras},
-           familyi={C\bibinitperiod},
-           given={Miguel},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \strng{fullhash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \strng{bibnamehash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \strng{authorbibnamehash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \strng{authornamehash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \strng{authorfullhash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Latin American Politics and Society}
-      \field{number}{3}
-      \field{title}{Outsiders and executive-legislative conflict in Latin America}
-      \field{volume}{56}
-      \field{year}{2014}
-      \field{pages}{70\bibrangedash 92}
-      \range{pages}{23}
     \endentry
     \entry{cepparulo2019public}{article}{}
       \name{author}{3}{}{%
@@ -1793,6 +1909,78 @@
       \field{year}{2011}
       \field{pages}{56\bibrangedash 78}
       \range{pages}{23}
+    \endentry
+    \entry{coleman1999unified}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=719840cf2b6df33481ee4e37bc8de170}{%
+           family={Coleman},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{719840cf2b6df33481ee4e37bc8de170}
+      \strng{fullhash}{719840cf2b6df33481ee4e37bc8de170}
+      \strng{bibnamehash}{719840cf2b6df33481ee4e37bc8de170}
+      \strng{authorbibnamehash}{719840cf2b6df33481ee4e37bc8de170}
+      \strng{authornamehash}{719840cf2b6df33481ee4e37bc8de170}
+      \strng{authorfullhash}{719840cf2b6df33481ee4e37bc8de170}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{4}
+      \field{title}{Unified government, divided government, and party responsiveness}
+      \field{volume}{93}
+      \field{year}{1999}
+      \field{pages}{821\bibrangedash 835}
+      \range{pages}{15}
+    \endentry
+    \entry{dahlberg2002vote}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a27930bfb01cbc0151f01d323da10ff2}{%
+           family={Dahlberg},
+           familyi={D\bibinitperiod},
+           given={Matz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1564c3662462a85a92085bf943e223e0}{%
+           family={Johansson},
+           familyi={J\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{9be7f3e108c8a6da481fc40dda500338}
+      \strng{fullhash}{9be7f3e108c8a6da481fc40dda500338}
+      \strng{bibnamehash}{9be7f3e108c8a6da481fc40dda500338}
+      \strng{authorbibnamehash}{9be7f3e108c8a6da481fc40dda500338}
+      \strng{authornamehash}{9be7f3e108c8a6da481fc40dda500338}
+      \strng{authorfullhash}{9be7f3e108c8a6da481fc40dda500338}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American political Science review}
+      \field{number}{1}
+      \field{title}{On the vote-purchasing behavior of incumbent governments}
+      \field{volume}{96}
+      \field{year}{2002}
+      \field{pages}{27\bibrangedash 40}
+      \range{pages}{14}
     \endentry
     \entry{dahlby1996fiscal}{article}{}
       \name{author}{1}{}{%
@@ -2119,45 +2307,6 @@
       \field{title}{Federal grants to state and local governments: A historical perspective on contemporary issues}
       \field{year}{2015}
     \endentry
-    \entry{dinan2020stability}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=33818232c0e11e6100b2d965dfa129a1}{%
-           family={Dinan},
-           familyi={D\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ee836ce67d1f1d82ce8457fe34eb5f58}{%
-           family={Heckelman},
-           familyi={H\bibinitperiod},
-           given={Jac\bibnamedelima C},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \strng{fullhash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \strng{bibnamehash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \strng{authorbibnamehash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \strng{authornamehash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \strng{authorfullhash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Public Administration Review}
-      \field{number}{2}
-      \field{title}{Stability and contingency in federalism preferences}
-      \field{volume}{80}
-      \field{year}{2020}
-      \field{pages}{234\bibrangedash 243}
-      \range{pages}{10}
-    \endentry
     \entry{dixit1995redistributive}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f84da1f0789e9be1355e60ec6c608482}{%
@@ -2436,39 +2585,6 @@
       \field{pages}{867\bibrangedash 893}
       \range{pages}{27}
     \endentry
-    \entry{farhang2012legislative}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=59920fe5b48c390c7277ada4edc1311f}{%
-           family={Farhang},
-           familyi={F\bibinitperiod},
-           given={Sean},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{59920fe5b48c390c7277ada4edc1311f}
-      \strng{fullhash}{59920fe5b48c390c7277ada4edc1311f}
-      \strng{bibnamehash}{59920fe5b48c390c7277ada4edc1311f}
-      \strng{authorbibnamehash}{59920fe5b48c390c7277ada4edc1311f}
-      \strng{authornamehash}{59920fe5b48c390c7277ada4edc1311f}
-      \strng{authorfullhash}{59920fe5b48c390c7277ada4edc1311f}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Law \& Social Inquiry}
-      \field{number}{3}
-      \field{title}{Legislative-executive conflict and private statutory litigation in the United States: Evidence from labor, civil rights, and environmental law}
-      \field{volume}{37}
-      \field{year}{2012}
-      \field{pages}{657\bibrangedash 685}
-      \range{pages}{29}
-    \endentry
     \entry{finegold2004block}{book}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a01bf9124adc1026ccd02bce058fe400}{%
@@ -2509,24 +2625,30 @@
       \field{title}{Block Grants: Details of the Bush Proposals}
       \field{year}{2004}
     \endentry
-    \entry{freeman1986political}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1b05cd7054f263fe716936174fd2eb85}{%
-           family={Freeman},
+    \entry{fry1970politics}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fd02c6b122080a02aafa360bca100174}{%
+           family={Fry},
            familyi={F\bibinitperiod},
-           given={Jo},
-           giveni={J\bibinitperiod},
+           given={Brian\bibnamedelima R},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
+        {{un=1,uniquepart=given,hash=068f0915f868aba646e37e1ed84655ac}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima F},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=1}}%
       }
       \list{publisher}{1}{%
-        {JSTOR}%
+        {Cambridge University Press}%
       }
-      \strng{namehash}{1b05cd7054f263fe716936174fd2eb85}
-      \strng{fullhash}{1b05cd7054f263fe716936174fd2eb85}
-      \strng{bibnamehash}{1b05cd7054f263fe716936174fd2eb85}
-      \strng{authorbibnamehash}{1b05cd7054f263fe716936174fd2eb85}
-      \strng{authornamehash}{1b05cd7054f263fe716936174fd2eb85}
-      \strng{authorfullhash}{1b05cd7054f263fe716936174fd2eb85}
+      \strng{namehash}{3f4daac1e912158a89ca6221ff086262}
+      \strng{fullhash}{3f4daac1e912158a89ca6221ff086262}
+      \strng{bibnamehash}{3f4daac1e912158a89ca6221ff086262}
+      \strng{authorbibnamehash}{3f4daac1e912158a89ca6221ff086262}
+      \strng{authornamehash}{3f4daac1e912158a89ca6221ff086262}
+      \strng{authorfullhash}{3f4daac1e912158a89ca6221ff086262}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -2534,13 +2656,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Political Science Quarterly}
-      \field{number}{3}
-      \field{title}{The political culture of the Democratic and Republican parties}
-      \field{volume}{101}
-      \field{year}{1986}
-      \field{pages}{327\bibrangedash 356}
-      \range{pages}{30}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{2}
+      \field{title}{The politics of redistribution}
+      \field{volume}{64}
+      \field{year}{1970}
+      \field{pages}{508\bibrangedash 522}
+      \range{pages}{15}
     \endentry
     \entry{fullwiler2020interest}{article}{}
       \name{author}{1}{}{%
@@ -3491,6 +3613,41 @@
       \field{pages}{345\bibrangedash 362}
       \range{pages}{18}
     \endentry
+    \entry{kiewiet2002here}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3d1a74b62ae53868305b6e4e733566a1}{%
+           family={Kiewiet},
+           familyi={K\bibinitperiod},
+           given={D\bibnamedelima Roderick},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7780ef7a2eda59206b58307dff7b9dc}{%
+           family={Krehbiel},
+           familyi={K\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \strng{fullhash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \strng{bibnamehash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \strng{authorbibnamehash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \strng{authornamehash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \strng{authorfullhash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leviathan}
+      \field{title}{Here's the president, where's the party? US appropriations on discretionary domestic spending, 1950--1999}
+      \field{volume}{30}
+      \field{year}{2002}
+      \field{pages}{115\bibrangedash 37}
+      \range{pages}{23}
+    \endentry
     \entry{doi:10.1080/13504850500425345}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=df86303b54e48fc3636a410bf5d9d7f5}{%
@@ -3776,51 +3933,6 @@
       \field{pages}{113\bibrangedash 115}
       \range{pages}{3}
     \endentry
-    \entry{larcinese2006allocating}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=3d697ab988cefee2d6da25b36164e2ef}{%
-           family={Larcinese},
-           familyi={L\bibinitperiod},
-           given={Valentino},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d87710d68e6aa8e7d71081c0a85ede3a}{%
-           family={Rizzo},
-           familyi={R\bibinitperiod},
-           given={Leonzio},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=552edb8b35530ee50a6e7aa49f50ff44}{%
-           family={Testa},
-           familyi={T\bibinitperiod},
-           given={Cecilia},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press New York, USA}%
-      }
-      \strng{namehash}{5457744819c860d4aec8046bf6e8b323}
-      \strng{fullhash}{b9db9175b61045e52d2c68011b18acb1}
-      \strng{bibnamehash}{b9db9175b61045e52d2c68011b18acb1}
-      \strng{authorbibnamehash}{b9db9175b61045e52d2c68011b18acb1}
-      \strng{authornamehash}{5457744819c860d4aec8046bf6e8b323}
-      \strng{authorfullhash}{b9db9175b61045e52d2c68011b18acb1}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Journal of Politics}
-      \field{number}{2}
-      \field{title}{Allocating the US federal budget to the states: The impact of the president}
-      \field{volume}{68}
-      \field{year}{2006}
-      \field{pages}{447\bibrangedash 456}
-      \range{pages}{10}
-    \endentry
     \entry{larkey2015evaluating}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2c51e457360bdc3977409b8084978f45}{%
@@ -3848,6 +3960,43 @@
       \field{labeltitlesource}{title}
       \field{title}{Evaluating public programs: The impact of general revenue sharing on municipal government}
       \field{year}{2015}
+    \endentry
+    \entry{levitt1995political}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bdc899291c3f95423410d258dc53054c}{%
+           family={Levitt},
+           familyi={L\bibinitperiod},
+           given={Steven\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5780645076cff729e3c94d9c4d135bd6}{%
+           family={Snyder\bibnamedelima Jr},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={James\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{07600e10276d5a8168fee96dbea8054c}
+      \strng{fullhash}{07600e10276d5a8168fee96dbea8054c}
+      \strng{bibnamehash}{07600e10276d5a8168fee96dbea8054c}
+      \strng{authorbibnamehash}{07600e10276d5a8168fee96dbea8054c}
+      \strng{authornamehash}{07600e10276d5a8168fee96dbea8054c}
+      \strng{authorfullhash}{07600e10276d5a8168fee96dbea8054c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American journal of political science}
+      \field{title}{Political parties and the distribution of federal outlays}
+      \field{year}{1995}
+      \field{pages}{958\bibrangedash 980}
+      \range{pages}{23}
     \endentry
     \entry{2011Procurement}{article}{}
       \name{author}{2}{}{%
@@ -3995,6 +4144,39 @@
       \field{year}{2011}
       \field{pages}{p.295\bibrangedash 300}
       \range{pages}{-1}
+    \endentry
+    \entry{lowery1987distribution}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3cb75d263b2bf2c5c0d58175dd53326b}{%
+           family={Lowery},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \strng{fullhash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \strng{bibnamehash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \strng{authorbibnamehash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \strng{authornamehash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \strng{authorfullhash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Western Political Quarterly}
+      \field{number}{1}
+      \field{title}{The distribution of tax burdens in the American states: The determinants of fiscal incidence}
+      \field{volume}{40}
+      \field{year}{1987}
+      \field{pages}{137\bibrangedash 158}
+      \range{pages}{22}
     \endentry
     \entry{lucas1983optimal}{article}{}
       \name{author}{2}{}{%
@@ -4183,6 +4365,43 @@
       \field{year}{1981}
       \field{pages}{5\bibrangedash 36}
       \range{pages}{32}
+    \endentry
+    \entry{marquette1981competition}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=98cffdbd8a1a6cc601e3ac33b9dc5182}{%
+           family={Marquette},
+           familyi={M\bibinitperiod},
+           given={Jesse\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3061a3e8eb99b8f469662cccd33dd05d}{%
+           family={Hinckley},
+           familyi={H\bibinitperiod},
+           given={Katherine\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{6c08a59158d4e611b8079ce23052b958}
+      \strng{fullhash}{6c08a59158d4e611b8079ce23052b958}
+      \strng{bibnamehash}{6c08a59158d4e611b8079ce23052b958}
+      \strng{authorbibnamehash}{6c08a59158d4e611b8079ce23052b958}
+      \strng{authornamehash}{6c08a59158d4e611b8079ce23052b958}
+      \strng{authorfullhash}{6c08a59158d4e611b8079ce23052b958}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{title}{Competition, control and spurious covariation: A longitudinal analysis of state spending}
+      \field{year}{1981}
+      \field{pages}{362\bibrangedash 375}
+      \range{pages}{14}
     \endentry
     \entry{martin2018dividing}{article}{}
       \name{author}{1}{}{%
@@ -4995,6 +5214,45 @@
       \field{pages}{349\bibrangedash 373}
       \range{pages}{25}
     \endentry
+    \entry{owens1984federal}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d4418ddbd7328cc60345384ebfe30b87}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={John\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35603a18ffaf96e07f9dfcbbdb75fb25}{%
+           family={Wade},
+           familyi={W\bibinitperiod},
+           given={Larry\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{d4fbe88449d3eb40758c027050a90a85}
+      \strng{fullhash}{d4fbe88449d3eb40758c027050a90a85}
+      \strng{bibnamehash}{d4fbe88449d3eb40758c027050a90a85}
+      \strng{authorbibnamehash}{d4fbe88449d3eb40758c027050a90a85}
+      \strng{authornamehash}{d4fbe88449d3eb40758c027050a90a85}
+      \strng{authorfullhash}{d4fbe88449d3eb40758c027050a90a85}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Western Political Quarterly}
+      \field{number}{3}
+      \field{title}{Federal spending in congressional districts}
+      \field{volume}{37}
+      \field{year}{1984}
+      \field{pages}{404\bibrangedash 423}
+      \range{pages}{20}
+    \endentry
     \entry{pack1993foreign}{article}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=fa3361178bf8d0484187f59536a5e69f}{%
@@ -5131,6 +5389,38 @@
       \field{title}{Manual of political economy: a critical and variorum edition}
       \field{year}{2014}
     \endentry
+    \entry{patashnik2000budgeting}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f98995f763fc0235bb9c813c56fb9b9}{%
+           family={Patashnik},
+           familyi={P\bibinitperiod},
+           given={Eric\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Affairs, Inc.}%
+      }
+      \strng{namehash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \strng{fullhash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \strng{bibnamehash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \strng{authorbibnamehash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \strng{authornamehash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \strng{authorfullhash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Interest}
+      \field{number}{138}
+      \field{title}{Budgeting more, deciding less}
+      \field{year}{2000}
+      \field{pages}{65}
+      \range{pages}{1}
+    \endentry
     \entry{persson2002political}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f1fa15cf0ff6f6015cc43a7429eab414}{%
@@ -5167,12 +5457,12 @@
     \endentry
     \entry{peterson1997decentralization}{book}{}
       \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=ec631271c0ba21f6262fd8aeeb3409ee}{%
+        {{un=0,uniquepart=base,hash=ec631271c0ba21f6262fd8aeeb3409ee}{%
            family={Peterson},
            familyi={P\bibinitperiod},
            given={George\bibnamedelima E},
            giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {World Bank Publications}%
@@ -5187,48 +5477,11 @@
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Decentralization in Latin America: learning through experience}
       \field{year}{1997}
-    \endentry
-    \entry{peterson1994executive}{article}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=3d71ceca843f7070b823c4df175fc71e}{%
-           family={Peterson},
-           familyi={P\bibinitperiod},
-           given={Paul\bibnamedelima E},
-           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=49b7a68b4c7c7bc2ed3b3dd4fcbe8784}{%
-           family={Greene},
-           familyi={G\bibinitperiod},
-           given={Jay\bibnamedelima P},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{92e76d120144dce05191565f2ad29f30}
-      \strng{fullhash}{92e76d120144dce05191565f2ad29f30}
-      \strng{bibnamehash}{92e76d120144dce05191565f2ad29f30}
-      \strng{authorbibnamehash}{92e76d120144dce05191565f2ad29f30}
-      \strng{authornamehash}{92e76d120144dce05191565f2ad29f30}
-      \strng{authorfullhash}{92e76d120144dce05191565f2ad29f30}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{British Journal of Political Science}
-      \field{number}{1}
-      \field{title}{Why executive-legislative conflict in the United States is dwindling}
-      \field{volume}{24}
-      \field{year}{1994}
-      \field{pages}{33\bibrangedash 55}
-      \range{pages}{23}
     \endentry
     \entry{petry1999electoral}{article}{}
       \name{author}{4}{}{%
@@ -5305,6 +5558,86 @@
       \field{labeltitlesource}{title}
       \field{title}{03 measuring the tax effort of developed and developing countries. cross country - panel data analysis -1985/95}
       \field{year}{2017}
+    \endentry
+    \entry{plotnick1985politico}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=897f4aac52339de01b531093e92ec3d3}{%
+           family={Plotnick},
+           familyi={P\bibinitperiod},
+           given={Robert\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=068f0915f868aba646e37e1ed84655ac}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima F},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{fullhash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{bibnamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authorbibnamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authornamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authorfullhash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{2}
+      \field{title}{A politico-economic theory of income redistribution}
+      \field{volume}{79}
+      \field{year}{1985}
+      \field{pages}{458\bibrangedash 473}
+      \range{pages}{16}
+    \endentry
+    \entry{plotnick1990party}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=897f4aac52339de01b531093e92ec3d3}{%
+           family={Plotnick},
+           familyi={P\bibinitperiod},
+           given={Robert\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=068f0915f868aba646e37e1ed84655ac}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima F},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{fullhash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{bibnamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authorbibnamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authornamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authorfullhash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Politics Quarterly}
+      \field{number}{4}
+      \field{title}{Party, political liberalism, and redistribution: An application to the American states}
+      \field{volume}{18}
+      \field{year}{1990}
+      \field{pages}{430\bibrangedash 458}
+      \range{pages}{29}
     \endentry
     \entry{pommerehne1978fiscal}{article}{}
       \name{author}{2}{}{%
@@ -5401,7 +5734,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{New Italian edition (1973) with an “Introduction” by F. Volpi, Isedi, Milano}
-      \field{title}{Teoria dell’illusione finanziaria, Palermo, Sandron}
+      \field{title}{Teoria dell'illusione finanziaria, Palermo, Sandron}
       \field{year}{1903}
     \endentry
     \entry{qian1998federalism}{article}{}
@@ -5512,6 +5845,36 @@
       \field{year}{2006}
       \field{pages}{459\bibrangedash 475}
       \range{pages}{17}
+    \endentry
+    \entry{ritt1976committee}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=72453544623cc18a62a4ef6c44693d68}{%
+           family={Ritt},
+           familyi={R\bibinitperiod},
+           given={Leonard\bibnamedelima G},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72453544623cc18a62a4ef6c44693d68}
+      \strng{fullhash}{72453544623cc18a62a4ef6c44693d68}
+      \strng{bibnamehash}{72453544623cc18a62a4ef6c44693d68}
+      \strng{authorbibnamehash}{72453544623cc18a62a4ef6c44693d68}
+      \strng{authornamehash}{72453544623cc18a62a4ef6c44693d68}
+      \strng{authorfullhash}{72453544623cc18a62a4ef6c44693d68}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Policy}
+      \field{number}{4}
+      \field{title}{Committee position, seniority, and the distribution of government expenditures}
+      \field{volume}{24}
+      \field{year}{1976}
+      \field{pages}{469\bibrangedash 97}
+      \range{pages}{29}
     \endentry
     \entry{rosenstiel2021congressional}{article}{}
       \name{author}{1}{}{%
@@ -5697,6 +6060,45 @@
       \field{year}{1985}
       \field{pages}{319\bibrangedash 327}
       \range{pages}{9}
+    \endentry
+    \entry{sole2008effects}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7bddc24af0506cacb79e0d7d96f939f5}{%
+           family={Solé-Ollé},
+           familyi={S\bibinithyphendelim O\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=901ec0a3aec006aab15040eb73e3442d}{%
+           family={Sorribas-Navarro},
+           familyi={S\bibinithyphendelim N\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{be3d90714fb6194414f414e365bd3b19}
+      \strng{fullhash}{be3d90714fb6194414f414e365bd3b19}
+      \strng{bibnamehash}{be3d90714fb6194414f414e365bd3b19}
+      \strng{authorbibnamehash}{be3d90714fb6194414f414e365bd3b19}
+      \strng{authornamehash}{be3d90714fb6194414f414e365bd3b19}
+      \strng{authorfullhash}{be3d90714fb6194414f414e365bd3b19}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Economics}
+      \field{number}{12}
+      \field{title}{The effects of partisan alignment on the allocation of intergovernmental transfers. Differences-in-differences estimates for Spain}
+      \field{volume}{92}
+      \field{year}{2008}
+      \field{pages}{2302\bibrangedash 2319}
+      \range{pages}{18}
     \endentry
     \entry{spahn2012conditioning}{article}{}
       \name{author}{1}{}{%
@@ -6039,24 +6441,25 @@
       \field{pages}{367\bibrangedash 385}
       \range{pages}{19}
     \endentry
-    \entry{ter1997fiscal}{book}{}
+    \entry{terman2015performance}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=501487a7b8b5d52992da84b15e6b5b9e}{%
-           family={Ter-Minassian},
-           familyi={T\bibinithyphendelim M\bibinitperiod},
-           given={Mrs\bibnamedelima Teresa},
-           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+        {{un=0,uniquepart=base,hash=5c81bd905776ec6f91891ebc5e2968f7}{%
+           family={Terman},
+           familyi={T\bibinitperiod},
+           given={Jessica\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {International Monetary Fund}%
+        {Wiley Online Library}%
       }
-      \strng{namehash}{501487a7b8b5d52992da84b15e6b5b9e}
-      \strng{fullhash}{501487a7b8b5d52992da84b15e6b5b9e}
-      \strng{bibnamehash}{501487a7b8b5d52992da84b15e6b5b9e}
-      \strng{authorbibnamehash}{501487a7b8b5d52992da84b15e6b5b9e}
-      \strng{authornamehash}{501487a7b8b5d52992da84b15e6b5b9e}
-      \strng{authorfullhash}{501487a7b8b5d52992da84b15e6b5b9e}
+      \strng{namehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{fullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{bibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorbibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authornamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorfullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \field{extraname}{1}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}
@@ -6064,8 +6467,120 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Fiscal federalism in theory and practice}
-      \field{year}{1997}
+      \field{journaltitle}{Policy Studies Journal}
+      \field{number}{3}
+      \field{title}{Performance goal achievement in fiscal federalism: The influence of state partisan environments and regulatory regimes}
+      \field{volume}{43}
+      \field{year}{2015}
+      \field{pages}{333\bibrangedash 354}
+      \range{pages}{22}
+    \endentry
+    \entry{terman2020getting}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c81bd905776ec6f91891ebc5e2968f7}{%
+           family={Terman},
+           familyi={T\bibinitperiod},
+           given={Jessica\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{fullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{bibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorbibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authornamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorfullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Administration Quarterly}
+      \field{number}{3}
+      \field{title}{Getting beyond Economic Stimulation: The Effects of Gubernatorial Partisan Commitment, Federal Resources and Regulatory Requirements on Final Performance Goal Achievement in Stimulus Grants}
+      \field{volume}{44}
+      \field{year}{2020}
+      \field{pages}{363\bibrangedash 393}
+      \range{pages}{31}
+    \endentry
+    \entry{terman2022even}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c81bd905776ec6f91891ebc5e2968f7}{%
+           family={Terman},
+           familyi={T\bibinitperiod},
+           given={Jessica\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{fullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{bibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorbibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authornamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorfullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Administration Quarterly}
+      \field{number}{3}
+      \field{title}{Even in a Pandemic, Partisanship and Capacity Matter: The Effects of Partisanship and Grant Experience in the CARES Act}
+      \field{volume}{46}
+      \field{year}{2022}
+      \field{pages}{282\bibrangedash 295}
+      \range{pages}{14}
+    \endentry
+    \entry{terman2015improving}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5c81bd905776ec6f91891ebc5e2968f7}{%
+           family={Terman},
+           familyi={T\bibinitperiod},
+           given={Jessica\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8476e4a072f3f97b4151d1c4cc27e0c}{%
+           family={Feiock},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press US}%
+      }
+      \strng{namehash}{21c322e8312127675f51e32e255fc1d6}
+      \strng{fullhash}{21c322e8312127675f51e32e255fc1d6}
+      \strng{bibnamehash}{21c322e8312127675f51e32e255fc1d6}
+      \strng{authorbibnamehash}{21c322e8312127675f51e32e255fc1d6}
+      \strng{authornamehash}{21c322e8312127675f51e32e255fc1d6}
+      \strng{authorfullhash}{21c322e8312127675f51e32e255fc1d6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Administration Research and Theory}
+      \field{number}{4}
+      \field{title}{Improving outcomes in fiscal federalism: Local political leadership and administrative capacity}
+      \field{volume}{25}
+      \field{year}{2015}
+      \field{pages}{1059\bibrangedash 1080}
+      \range{pages}{22}
     \endentry
     \entry{2010MEASURING}{article}{}
       \name{author}{2}{}{%
@@ -6255,6 +6770,44 @@
       \field{type}{techreport}
       \field{year}{2016}
     \endentry
+    \entry{veiga2013intergovernmental}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=7fa825665a0662a02f68f579b655a1e7}{%
+           family={Veiga},
+           familyi={V\bibinitperiod},
+           given={Linda\bibnamedelima Gonçalves},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=579e749ab7c2cb4853a7ce73b286093f}{%
+           family={Veiga},
+           familyi={V\bibinitperiod},
+           given={Francisco\bibnamedelima José},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{45035cbc1842774f64f89594c823a30e}
+      \strng{fullhash}{45035cbc1842774f64f89594c823a30e}
+      \strng{bibnamehash}{45035cbc1842774f64f89594c823a30e}
+      \strng{authorbibnamehash}{45035cbc1842774f64f89594c823a30e}
+      \strng{authornamehash}{45035cbc1842774f64f89594c823a30e}
+      \strng{authorfullhash}{45035cbc1842774f64f89594c823a30e}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public choice}
+      \field{title}{Intergovernmental fiscal transfers as pork barrel}
+      \field{volume}{155}
+      \field{year}{2013}
+      \field{pages}{335\bibrangedash 353}
+      \range{pages}{19}
+    \endentry
     \entry{volden2005intergovernmental}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ee9355e8e08102b30b7281f90148ac69}{%
@@ -6414,17 +6967,17 @@
       \field{pages}{516\bibrangedash 520}
       \range{pages}{5}
     \endentry
-    \entry{62b81da7-cc78-33f9-98a3-0a8d03976c2c}{article}{}
+    \entry{weatherford1978economic}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a18c1ed98c32917bd38dca3f6c7aa961}{%
            family={Weatherford},
            familyi={W\bibinitperiod},
-           given={M.\bibnamedelimi Stephen},
+           given={M\bibnamedelima Stephen},
            giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {[Midwest Political Science Association, Wiley]}%
+        {JSTOR}%
       }
       \strng{namehash}{a18c1ed98c32917bd38dca3f6c7aa961}
       \strng{fullhash}{a18c1ed98c32917bd38dca3f6c7aa961}
@@ -6439,24 +6992,44 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{00925853, 15405907}
       \field{journaltitle}{American Journal of Political Science}
-      \field{number}{4}
-      \field{title}{Economic Conditions and Electoral Outcomes: Class Differences in the Political Response to Recession}
-      \field{urlday}{28}
-      \field{urlmonth}{1}
-      \field{urlyear}{2024}
-      \field{volume}{22}
+      \field{title}{Economic conditions and electoral outcomes: Class differences in the political response to recession}
       \field{year}{1978}
-      \field{urldateera}{ce}
       \field{pages}{917\bibrangedash 938}
       \range{pages}{22}
-      \verb{urlraw}
-      \verb http://www.jstor.org/stable/2110599
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/2110599
-      \endverb
+    \endentry
+    \entry{weaver2010paths}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af64426858142eda0878b94c3b1d5350}{%
+           family={Weaver},
+           familyi={W\bibinitperiod},
+           given={Kent},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{af64426858142eda0878b94c3b1d5350}
+      \strng{fullhash}{af64426858142eda0878b94c3b1d5350}
+      \strng{bibnamehash}{af64426858142eda0878b94c3b1d5350}
+      \strng{authorbibnamehash}{af64426858142eda0878b94c3b1d5350}
+      \strng{authornamehash}{af64426858142eda0878b94c3b1d5350}
+      \strng{authorfullhash}{af64426858142eda0878b94c3b1d5350}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Policy}
+      \field{number}{2}
+      \field{title}{Paths and forks or chutes and ladders?: Negative feedbacks and policy regime change}
+      \field{volume}{30}
+      \field{year}{2010}
+      \field{pages}{137\bibrangedash 162}
+      \range{pages}{26}
     \endentry
     \entry{weicher1972aid}{article}{}
       \name{author}{1}{}{%
@@ -6493,12 +7066,12 @@
     \endentry
     \entry{1976A}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dfe17e6739841df2ae67f92326877385}{%
+        {{un=1,uniquepart=given,hash=dfe17e6739841df2ae67f92326877385}{%
            family={Weingast},
            familyi={W\bibinitperiod},
            given={Barry},
            giveni={B\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{dfe17e6739841df2ae67f92326877385}
       \strng{fullhash}{dfe17e6739841df2ae67f92326877385}
@@ -6510,11 +7083,40 @@
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A Rational Choice Perspective on Congressional Norms.}
       \field{year}{1976}
+    \endentry
+    \entry{weingast1979rational}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=768eb941bd10052947316c55458bb221}{%
+           family={Weingast},
+           familyi={W\bibinitperiod},
+           given={Barry\bibnamedelima R},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{768eb941bd10052947316c55458bb221}
+      \strng{fullhash}{768eb941bd10052947316c55458bb221}
+      \strng{bibnamehash}{768eb941bd10052947316c55458bb221}
+      \strng{authorbibnamehash}{768eb941bd10052947316c55458bb221}
+      \strng{authornamehash}{768eb941bd10052947316c55458bb221}
+      \strng{authorfullhash}{768eb941bd10052947316c55458bb221}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{title}{A rational choice perspective on congressional norms}
+      \field{year}{1979}
+      \field{pages}{245\bibrangedash 262}
+      \range{pages}{18}
     \endentry
     \entry{weist2007intergovernmental}{inbook}{}
       \name{author}{1}{}{%
@@ -6546,6 +7148,71 @@
       \field{year}{2007}
       \field{pages}{435\bibrangedash 451}
       \range{pages}{17}
+    \endentry
+    \entry{wildavsky2003new}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=79c341c0f5b8343e48662ca1ddacd83e}{%
+           family={Wildavsky},
+           familyi={W\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fca637ba234f15c715dbe1685657af4e}{%
+           family={Caiden},
+           familyi={C\bibinitperiod},
+           given={Naomi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Chicago, IL: Longman}%
+      }
+      \strng{namehash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \strng{fullhash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \strng{bibnamehash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \strng{authorbibnamehash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \strng{authornamehash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \strng{authorfullhash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The New Politics of the Budgetary Process (5-th ed.)}
+      \field{year}{2003}
+    \endentry
+    \entry{winters1976party}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=dbea1bdb7da5fe12550fa1a3aeaf3906}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \strng{fullhash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \strng{bibnamehash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \strng{authorbibnamehash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \strng{authornamehash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \strng{authorfullhash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{title}{Party control and policy change}
+      \field{year}{1976}
+      \field{pages}{597\bibrangedash 636}
+      \range{pages}{40}
     \endentry
     \entry{wlezien2021trends}{article}{}
       \name{author}{2}{}{%
@@ -6703,62 +7370,6 @@
       \field{pages}{1378\bibrangedash 1455}
       \range{pages}{78}
     \endentry
-    \entry{Ahmad:1995}{inbook}{}
-      \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=c3504b5dcd4c5e15605261f129aa00fb}{%
-           family={Ahmad},
-           familyi={A\bibinitperiod},
-           given={Ehtisham},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8aef9bd2b8022a8f05b80535df72bec7}{%
-           family={Craig},
-           familyi={C\bibinitperiod},
-           given={Jon},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1ab1a17741a143f068df07d06eb5620d}{%
-           family={Mihaljek},
-           familyi={M\bibinitperiod},
-           given={Dubravko},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ffbf03deb00e243d1601c58717d7b0a6}{%
-           family={Ehtisham},
-           familyi={E\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=980a475acdd8e0eb6b9e94bbe215ff62}{%
-           family={Qiang},
-           familyi={Q\bibinitperiod},
-           given={Gao},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=28671b66f608f008531fa9f0256c69af}{%
-           family={Tanzi},
-           familyi={T\bibinitperiod},
-           given={Vito},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {International Monetary Fund}%
-      }
-      \strng{namehash}{ad0d2759a40054a601d81cd7df3ba9be}
-      \strng{fullhash}{425c891ee425cf15f4baf5f9d42e305e}
-      \strng{bibnamehash}{425c891ee425cf15f4baf5f9d42e305e}
-      \strng{authorbibnamehash}{425c891ee425cf15f4baf5f9d42e305e}
-      \strng{authornamehash}{ad0d2759a40054a601d81cd7df3ba9be}
-      \strng{authorfullhash}{425c891ee425cf15f4baf5f9d42e305e}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Reforming China’s Public Finances}
-      \field{title}{“Implementing and Managing Grants—Institutional and Informational Requirements,”}
-      \field{year}{1995}
-    \endentry
     \entry{aizenman2008collection}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=496e682e090ae7b8261f5bf11f72f5f3}{%
@@ -6913,14 +7524,17 @@
       \field{title}{Partisanship, Political Control, and Economic Assessments}
       \field{year}{2009}
     \endentry
-    \entry{2006Economic}{article}{}
+    \entry{anderson2006economic}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6f4a712b8e9e92efba6cd8c72872fc10}{%
            family={Anderson},
            familyi={A\bibinitperiod},
-           given={Cameron\bibnamedelima D.},
+           given={Cameron\bibnamedelima D},
            giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
            givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
       }
       \strng{namehash}{6f4a712b8e9e92efba6cd8c72872fc10}
       \strng{fullhash}{6f4a712b8e9e92efba6cd8c72872fc10}
@@ -6935,9 +7549,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{American Journal of Political Science}
+      \field{journaltitle}{American journal of political science}
       \field{number}{2}
-      \field{title}{Economic Voting and Multilevel Governance: A Comparative Individual-Level Analysis}
+      \field{title}{Economic voting and multilevel governance: A comparative individual-level analysis}
       \field{volume}{50}
       \field{year}{2006}
       \field{pages}{449\bibrangedash 463}
@@ -7017,6 +7631,90 @@
       \field{year}{2012}
       \field{pages}{43\bibrangedash 57}
       \range{pages}{15}
+    \endentry
+    \entry{ansolabehere2002equal}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b4eb159d441c4c0f7b14bb55b6e910c7}{%
+           family={Ansolabehere},
+           familyi={A\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=947de587b5fcc8c8931af72a1ac326f4}{%
+           family={Gerber},
+           familyi={G\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50a13881daf2585c4f5f382bdd929eb9}{%
+           family={Snyder},
+           familyi={S\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c8e265e97024d2b0891f2b2a006b6ff6}
+      \strng{fullhash}{2c0bf3e4e9d6a95cc24643c3c87635a0}
+      \strng{bibnamehash}{2c0bf3e4e9d6a95cc24643c3c87635a0}
+      \strng{authorbibnamehash}{2c0bf3e4e9d6a95cc24643c3c87635a0}
+      \strng{authornamehash}{c8e265e97024d2b0891f2b2a006b6ff6}
+      \strng{authorfullhash}{2c0bf3e4e9d6a95cc24643c3c87635a0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{4}
+      \field{title}{Equal votes, equal money: Court-ordered redistricting and public expenditures in the American states}
+      \field{volume}{96}
+      \field{year}{2002}
+      \field{pages}{767\bibrangedash 777}
+      \range{pages}{11}
+    \endentry
+    \entry{ansolabehere2006party}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b4eb159d441c4c0f7b14bb55b6e910c7}{%
+           family={Ansolabehere},
+           familyi={A\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5780645076cff729e3c94d9c4d135bd6}{%
+           family={Snyder\bibnamedelima Jr},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={James\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{fullhash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{bibnamehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{authorbibnamehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{authornamehash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \strng{authorfullhash}{a29a0a18abba31465b0e41d7208a1cc4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Scandinavian Journal of Economics}
+      \field{number}{4}
+      \field{title}{Party control of state government and the distribution of public expenditures}
+      \field{volume}{108}
+      \field{year}{2006}
+      \field{pages}{547\bibrangedash 569}
+      \range{pages}{23}
     \endentry
     \entry{aragon2005intergovernmental}{article}{}
       \name{author}{2}{}{%
@@ -7263,6 +7961,39 @@
       \field{year}{1998}
       \field{pages}{335\bibrangedash 361}
       \range{pages}{27}
+    \endentry
+    \entry{banful2011formula}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e584278bde37060beae21cdff11bfd1b}{%
+           family={Banful},
+           familyi={B\bibinitperiod},
+           given={Afua\bibnamedelima Branoah},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e584278bde37060beae21cdff11bfd1b}
+      \strng{fullhash}{e584278bde37060beae21cdff11bfd1b}
+      \strng{bibnamehash}{e584278bde37060beae21cdff11bfd1b}
+      \strng{authorbibnamehash}{e584278bde37060beae21cdff11bfd1b}
+      \strng{authornamehash}{e584278bde37060beae21cdff11bfd1b}
+      \strng{authorfullhash}{e584278bde37060beae21cdff11bfd1b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of development economics}
+      \field{number}{2}
+      \field{title}{Do formula-based intergovernmental transfer mechanisms eliminate politically motivated targeting? Evidence from Ghana}
+      \field{volume}{96}
+      \field{year}{2011}
+      \field{pages}{380\bibrangedash 390}
+      \range{pages}{11}
     \endentry
     \entry{banks2006general}{article}{}
       \name{author}{2}{}{%
@@ -7675,24 +8406,30 @@
       \field{pages}{24}
       \range{pages}{1}
     \endentry
-    \entry{boadway1986federal}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b5924348c3b9e77c627aa3ff2d97fb0c}{%
-           family={Boadway},
+    \entry{borck2003political}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a86451f9e21a07339f8010da1ec79870}{%
+           family={Borck},
            familyi={B\bibinitperiod},
-           given={Robin},
+           given={Rainald},
            giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1dd69e963a789ed16f381aa6f862a38a}{%
+           family={Owings},
+           familyi={O\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {University of Toronto Press}%
+        {Elsevier}%
       }
-      \strng{namehash}{b5924348c3b9e77c627aa3ff2d97fb0c}
-      \strng{fullhash}{b5924348c3b9e77c627aa3ff2d97fb0c}
-      \strng{bibnamehash}{b5924348c3b9e77c627aa3ff2d97fb0c}
-      \strng{authorbibnamehash}{b5924348c3b9e77c627aa3ff2d97fb0c}
-      \strng{authornamehash}{b5924348c3b9e77c627aa3ff2d97fb0c}
-      \strng{authorfullhash}{b5924348c3b9e77c627aa3ff2d97fb0c}
+      \strng{namehash}{4bab79604513703c3f6f359f34ee661e}
+      \strng{fullhash}{4bab79604513703c3f6f359f34ee661e}
+      \strng{bibnamehash}{4bab79604513703c3f6f359f34ee661e}
+      \strng{authorbibnamehash}{4bab79604513703c3f6f359f34ee661e}
+      \strng{authornamehash}{4bab79604513703c3f6f359f34ee661e}
+      \strng{authorfullhash}{4bab79604513703c3f6f359f34ee661e}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -7700,12 +8437,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Fiscal Federalism}
-      \field{title}{Federal-provincial transfers in Canada: a critical review of the existing arrangements}
-      \field{volume}{65}
-      \field{year}{1986}
-      \field{pages}{1\bibrangedash 47}
-      \range{pages}{47}
+      \field{journaltitle}{Regional Science and Urban Economics}
+      \field{number}{2}
+      \field{title}{The political economy of intergovernmental grants}
+      \field{volume}{33}
+      \field{year}{2003}
+      \field{pages}{139\bibrangedash 156}
+      \range{pages}{18}
     \endentry
     \entry{borge1995lump}{article}{}
       \name{author}{1}{}{%
@@ -7907,6 +8645,33 @@
       \field{year}{1977}
       \field{pages}{255\bibrangedash 273}
       \range{pages}{19}
+    \endentry
+    \entry{browning1973geography}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2dfd380926eb298a1257b2ba50e08c0f}{%
+           family={Browning},
+           familyi={B\bibinitperiod},
+           given={Clyde\bibnamedelima Eugene},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \strng{fullhash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \strng{bibnamehash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \strng{authorbibnamehash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \strng{authornamehash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \strng{authorfullhash}{ae9a0c940c99674bcdb919abb4fc873b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{geography of Federal outlays}
+      \field{year}{1973}
     \endentry
     \entry{brueckner2003strategic}{article}{}
       \name{author}{1}{}{%
@@ -8187,6 +8952,57 @@
       \field{pages}{817\bibrangedash 830}
       \range{pages}{14}
     \endentry
+    \entry{carlino2023partisanship}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6be1642172aa4fde4ca73067f3d94bb4}{%
+           family={Carlino},
+           familyi={C\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51b6b6a23ce55c11b1813f842fca29e7}{%
+           family={Drautzburg},
+           familyi={D\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c8a12e937e81c4b3aebca7eedc7ee16}{%
+           family={Inman},
+           familyi={I\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04bc2fc3e473849296e2e19841aba8ff}{%
+           family={Zarra},
+           familyi={Z\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203}%
+      }
+      \strng{namehash}{904c0abdc76840aeb8c91e83a99f0090}
+      \strng{fullhash}{af3c070c321f13a228b22b212503bcab}
+      \strng{bibnamehash}{af3c070c321f13a228b22b212503bcab}
+      \strng{authorbibnamehash}{af3c070c321f13a228b22b212503bcab}
+      \strng{authornamehash}{904c0abdc76840aeb8c91e83a99f0090}
+      \strng{authorfullhash}{af3c070c321f13a228b22b212503bcab}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{3}
+      \field{title}{Partisanship and fiscal policy in economic unions: Evidence from us states}
+      \field{volume}{113}
+      \field{year}{2023}
+      \field{pages}{701\bibrangedash 737}
+      \range{pages}{37}
+    \endentry
     \entry{carpini1996americans}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=95426f706578ff2381960cd559b8d91c}{%
@@ -8220,39 +9036,6 @@
       \field{labeltitlesource}{title}
       \field{title}{What Americans know about politics and why it matters}
       \field{year}{1996}
-    \endentry
-    \entry{carreras2014outsiders}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2c04f79be47f81d3b9ce77d1bdf304a8}{%
-           family={Carreras},
-           familyi={C\bibinitperiod},
-           given={Miguel},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \strng{fullhash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \strng{bibnamehash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \strng{authorbibnamehash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \strng{authornamehash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \strng{authorfullhash}{2c04f79be47f81d3b9ce77d1bdf304a8}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Latin American Politics and Society}
-      \field{number}{3}
-      \field{title}{Outsiders and executive-legislative conflict in Latin America}
-      \field{volume}{56}
-      \field{year}{2014}
-      \field{pages}{70\bibrangedash 92}
-      \range{pages}{23}
     \endentry
     \entry{cepparulo2019public}{article}{}
       \name{author}{3}{}{%
@@ -8393,6 +9176,78 @@
       \field{year}{2011}
       \field{pages}{56\bibrangedash 78}
       \range{pages}{23}
+    \endentry
+    \entry{coleman1999unified}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=719840cf2b6df33481ee4e37bc8de170}{%
+           family={Coleman},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{719840cf2b6df33481ee4e37bc8de170}
+      \strng{fullhash}{719840cf2b6df33481ee4e37bc8de170}
+      \strng{bibnamehash}{719840cf2b6df33481ee4e37bc8de170}
+      \strng{authorbibnamehash}{719840cf2b6df33481ee4e37bc8de170}
+      \strng{authornamehash}{719840cf2b6df33481ee4e37bc8de170}
+      \strng{authorfullhash}{719840cf2b6df33481ee4e37bc8de170}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{4}
+      \field{title}{Unified government, divided government, and party responsiveness}
+      \field{volume}{93}
+      \field{year}{1999}
+      \field{pages}{821\bibrangedash 835}
+      \range{pages}{15}
+    \endentry
+    \entry{dahlberg2002vote}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a27930bfb01cbc0151f01d323da10ff2}{%
+           family={Dahlberg},
+           familyi={D\bibinitperiod},
+           given={Matz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1564c3662462a85a92085bf943e223e0}{%
+           family={Johansson},
+           familyi={J\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{9be7f3e108c8a6da481fc40dda500338}
+      \strng{fullhash}{9be7f3e108c8a6da481fc40dda500338}
+      \strng{bibnamehash}{9be7f3e108c8a6da481fc40dda500338}
+      \strng{authorbibnamehash}{9be7f3e108c8a6da481fc40dda500338}
+      \strng{authornamehash}{9be7f3e108c8a6da481fc40dda500338}
+      \strng{authorfullhash}{9be7f3e108c8a6da481fc40dda500338}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American political Science review}
+      \field{number}{1}
+      \field{title}{On the vote-purchasing behavior of incumbent governments}
+      \field{volume}{96}
+      \field{year}{2002}
+      \field{pages}{27\bibrangedash 40}
+      \range{pages}{14}
     \endentry
     \entry{dahlby1996fiscal}{article}{}
       \name{author}{1}{}{%
@@ -8719,45 +9574,6 @@
       \field{title}{Federal grants to state and local governments: A historical perspective on contemporary issues}
       \field{year}{2015}
     \endentry
-    \entry{dinan2020stability}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=33818232c0e11e6100b2d965dfa129a1}{%
-           family={Dinan},
-           familyi={D\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ee836ce67d1f1d82ce8457fe34eb5f58}{%
-           family={Heckelman},
-           familyi={H\bibinitperiod},
-           given={Jac\bibnamedelima C},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \strng{fullhash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \strng{bibnamehash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \strng{authorbibnamehash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \strng{authornamehash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \strng{authorfullhash}{f4308ed1e6e0df8677b1dfa4c7b63cdd}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Public Administration Review}
-      \field{number}{2}
-      \field{title}{Stability and contingency in federalism preferences}
-      \field{volume}{80}
-      \field{year}{2020}
-      \field{pages}{234\bibrangedash 243}
-      \range{pages}{10}
-    \endentry
     \entry{dixit1995redistributive}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f84da1f0789e9be1355e60ec6c608482}{%
@@ -9036,39 +9852,6 @@
       \field{pages}{867\bibrangedash 893}
       \range{pages}{27}
     \endentry
-    \entry{farhang2012legislative}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=59920fe5b48c390c7277ada4edc1311f}{%
-           family={Farhang},
-           familyi={F\bibinitperiod},
-           given={Sean},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{59920fe5b48c390c7277ada4edc1311f}
-      \strng{fullhash}{59920fe5b48c390c7277ada4edc1311f}
-      \strng{bibnamehash}{59920fe5b48c390c7277ada4edc1311f}
-      \strng{authorbibnamehash}{59920fe5b48c390c7277ada4edc1311f}
-      \strng{authornamehash}{59920fe5b48c390c7277ada4edc1311f}
-      \strng{authorfullhash}{59920fe5b48c390c7277ada4edc1311f}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Law \& Social Inquiry}
-      \field{number}{3}
-      \field{title}{Legislative-executive conflict and private statutory litigation in the United States: Evidence from labor, civil rights, and environmental law}
-      \field{volume}{37}
-      \field{year}{2012}
-      \field{pages}{657\bibrangedash 685}
-      \range{pages}{29}
-    \endentry
     \entry{finegold2004block}{book}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a01bf9124adc1026ccd02bce058fe400}{%
@@ -9109,24 +9892,30 @@
       \field{title}{Block Grants: Details of the Bush Proposals}
       \field{year}{2004}
     \endentry
-    \entry{freeman1986political}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1b05cd7054f263fe716936174fd2eb85}{%
-           family={Freeman},
+    \entry{fry1970politics}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fd02c6b122080a02aafa360bca100174}{%
+           family={Fry},
            familyi={F\bibinitperiod},
-           given={Jo},
-           giveni={J\bibinitperiod},
+           given={Brian\bibnamedelima R},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
+        {{un=1,uniquepart=given,hash=068f0915f868aba646e37e1ed84655ac}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima F},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=1}}%
       }
       \list{publisher}{1}{%
-        {JSTOR}%
+        {Cambridge University Press}%
       }
-      \strng{namehash}{1b05cd7054f263fe716936174fd2eb85}
-      \strng{fullhash}{1b05cd7054f263fe716936174fd2eb85}
-      \strng{bibnamehash}{1b05cd7054f263fe716936174fd2eb85}
-      \strng{authorbibnamehash}{1b05cd7054f263fe716936174fd2eb85}
-      \strng{authornamehash}{1b05cd7054f263fe716936174fd2eb85}
-      \strng{authorfullhash}{1b05cd7054f263fe716936174fd2eb85}
+      \strng{namehash}{3f4daac1e912158a89ca6221ff086262}
+      \strng{fullhash}{3f4daac1e912158a89ca6221ff086262}
+      \strng{bibnamehash}{3f4daac1e912158a89ca6221ff086262}
+      \strng{authorbibnamehash}{3f4daac1e912158a89ca6221ff086262}
+      \strng{authornamehash}{3f4daac1e912158a89ca6221ff086262}
+      \strng{authorfullhash}{3f4daac1e912158a89ca6221ff086262}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -9134,13 +9923,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Political Science Quarterly}
-      \field{number}{3}
-      \field{title}{The political culture of the Democratic and Republican parties}
-      \field{volume}{101}
-      \field{year}{1986}
-      \field{pages}{327\bibrangedash 356}
-      \range{pages}{30}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{2}
+      \field{title}{The politics of redistribution}
+      \field{volume}{64}
+      \field{year}{1970}
+      \field{pages}{508\bibrangedash 522}
+      \range{pages}{15}
     \endentry
     \entry{fullwiler2020interest}{article}{}
       \name{author}{1}{}{%
@@ -10091,6 +10880,41 @@
       \field{pages}{345\bibrangedash 362}
       \range{pages}{18}
     \endentry
+    \entry{kiewiet2002here}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3d1a74b62ae53868305b6e4e733566a1}{%
+           family={Kiewiet},
+           familyi={K\bibinitperiod},
+           given={D\bibnamedelima Roderick},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7780ef7a2eda59206b58307dff7b9dc}{%
+           family={Krehbiel},
+           familyi={K\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \strng{fullhash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \strng{bibnamehash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \strng{authorbibnamehash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \strng{authornamehash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \strng{authorfullhash}{5bf0c8b89f79e7f5eba7cf27611a294b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leviathan}
+      \field{title}{Here's the president, where's the party? US appropriations on discretionary domestic spending, 1950--1999}
+      \field{volume}{30}
+      \field{year}{2002}
+      \field{pages}{115\bibrangedash 37}
+      \range{pages}{23}
+    \endentry
     \entry{doi:10.1080/13504850500425345}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=df86303b54e48fc3636a410bf5d9d7f5}{%
@@ -10376,51 +11200,6 @@
       \field{pages}{113\bibrangedash 115}
       \range{pages}{3}
     \endentry
-    \entry{larcinese2006allocating}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=3d697ab988cefee2d6da25b36164e2ef}{%
-           family={Larcinese},
-           familyi={L\bibinitperiod},
-           given={Valentino},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d87710d68e6aa8e7d71081c0a85ede3a}{%
-           family={Rizzo},
-           familyi={R\bibinitperiod},
-           given={Leonzio},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=552edb8b35530ee50a6e7aa49f50ff44}{%
-           family={Testa},
-           familyi={T\bibinitperiod},
-           given={Cecilia},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press New York, USA}%
-      }
-      \strng{namehash}{5457744819c860d4aec8046bf6e8b323}
-      \strng{fullhash}{b9db9175b61045e52d2c68011b18acb1}
-      \strng{bibnamehash}{b9db9175b61045e52d2c68011b18acb1}
-      \strng{authorbibnamehash}{b9db9175b61045e52d2c68011b18acb1}
-      \strng{authornamehash}{5457744819c860d4aec8046bf6e8b323}
-      \strng{authorfullhash}{b9db9175b61045e52d2c68011b18acb1}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Journal of Politics}
-      \field{number}{2}
-      \field{title}{Allocating the US federal budget to the states: The impact of the president}
-      \field{volume}{68}
-      \field{year}{2006}
-      \field{pages}{447\bibrangedash 456}
-      \range{pages}{10}
-    \endentry
     \entry{larkey2015evaluating}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2c51e457360bdc3977409b8084978f45}{%
@@ -10448,6 +11227,43 @@
       \field{labeltitlesource}{title}
       \field{title}{Evaluating public programs: The impact of general revenue sharing on municipal government}
       \field{year}{2015}
+    \endentry
+    \entry{levitt1995political}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bdc899291c3f95423410d258dc53054c}{%
+           family={Levitt},
+           familyi={L\bibinitperiod},
+           given={Steven\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5780645076cff729e3c94d9c4d135bd6}{%
+           family={Snyder\bibnamedelima Jr},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={James\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{07600e10276d5a8168fee96dbea8054c}
+      \strng{fullhash}{07600e10276d5a8168fee96dbea8054c}
+      \strng{bibnamehash}{07600e10276d5a8168fee96dbea8054c}
+      \strng{authorbibnamehash}{07600e10276d5a8168fee96dbea8054c}
+      \strng{authornamehash}{07600e10276d5a8168fee96dbea8054c}
+      \strng{authorfullhash}{07600e10276d5a8168fee96dbea8054c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American journal of political science}
+      \field{title}{Political parties and the distribution of federal outlays}
+      \field{year}{1995}
+      \field{pages}{958\bibrangedash 980}
+      \range{pages}{23}
     \endentry
     \entry{2011Procurement}{article}{}
       \name{author}{2}{}{%
@@ -10595,6 +11411,39 @@
       \field{year}{2011}
       \field{pages}{p.295\bibrangedash 300}
       \range{pages}{-1}
+    \endentry
+    \entry{lowery1987distribution}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3cb75d263b2bf2c5c0d58175dd53326b}{%
+           family={Lowery},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \strng{fullhash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \strng{bibnamehash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \strng{authorbibnamehash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \strng{authornamehash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \strng{authorfullhash}{3cb75d263b2bf2c5c0d58175dd53326b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Western Political Quarterly}
+      \field{number}{1}
+      \field{title}{The distribution of tax burdens in the American states: The determinants of fiscal incidence}
+      \field{volume}{40}
+      \field{year}{1987}
+      \field{pages}{137\bibrangedash 158}
+      \range{pages}{22}
     \endentry
     \entry{lucas1983optimal}{article}{}
       \name{author}{2}{}{%
@@ -10783,6 +11632,43 @@
       \field{year}{1981}
       \field{pages}{5\bibrangedash 36}
       \range{pages}{32}
+    \endentry
+    \entry{marquette1981competition}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=98cffdbd8a1a6cc601e3ac33b9dc5182}{%
+           family={Marquette},
+           familyi={M\bibinitperiod},
+           given={Jesse\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3061a3e8eb99b8f469662cccd33dd05d}{%
+           family={Hinckley},
+           familyi={H\bibinitperiod},
+           given={Katherine\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{6c08a59158d4e611b8079ce23052b958}
+      \strng{fullhash}{6c08a59158d4e611b8079ce23052b958}
+      \strng{bibnamehash}{6c08a59158d4e611b8079ce23052b958}
+      \strng{authorbibnamehash}{6c08a59158d4e611b8079ce23052b958}
+      \strng{authornamehash}{6c08a59158d4e611b8079ce23052b958}
+      \strng{authorfullhash}{6c08a59158d4e611b8079ce23052b958}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{title}{Competition, control and spurious covariation: A longitudinal analysis of state spending}
+      \field{year}{1981}
+      \field{pages}{362\bibrangedash 375}
+      \range{pages}{14}
     \endentry
     \entry{martin2018dividing}{article}{}
       \name{author}{1}{}{%
@@ -11595,6 +12481,45 @@
       \field{pages}{349\bibrangedash 373}
       \range{pages}{25}
     \endentry
+    \entry{owens1984federal}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d4418ddbd7328cc60345384ebfe30b87}{%
+           family={Owens},
+           familyi={O\bibinitperiod},
+           given={John\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35603a18ffaf96e07f9dfcbbdb75fb25}{%
+           family={Wade},
+           familyi={W\bibinitperiod},
+           given={Larry\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{d4fbe88449d3eb40758c027050a90a85}
+      \strng{fullhash}{d4fbe88449d3eb40758c027050a90a85}
+      \strng{bibnamehash}{d4fbe88449d3eb40758c027050a90a85}
+      \strng{authorbibnamehash}{d4fbe88449d3eb40758c027050a90a85}
+      \strng{authornamehash}{d4fbe88449d3eb40758c027050a90a85}
+      \strng{authorfullhash}{d4fbe88449d3eb40758c027050a90a85}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Western Political Quarterly}
+      \field{number}{3}
+      \field{title}{Federal spending in congressional districts}
+      \field{volume}{37}
+      \field{year}{1984}
+      \field{pages}{404\bibrangedash 423}
+      \range{pages}{20}
+    \endentry
     \entry{pack1993foreign}{article}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=fa3361178bf8d0484187f59536a5e69f}{%
@@ -11731,6 +12656,38 @@
       \field{title}{Manual of political economy: a critical and variorum edition}
       \field{year}{2014}
     \endentry
+    \entry{patashnik2000budgeting}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f98995f763fc0235bb9c813c56fb9b9}{%
+           family={Patashnik},
+           familyi={P\bibinitperiod},
+           given={Eric\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Affairs, Inc.}%
+      }
+      \strng{namehash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \strng{fullhash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \strng{bibnamehash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \strng{authorbibnamehash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \strng{authornamehash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \strng{authorfullhash}{7f98995f763fc0235bb9c813c56fb9b9}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Interest}
+      \field{number}{138}
+      \field{title}{Budgeting more, deciding less}
+      \field{year}{2000}
+      \field{pages}{65}
+      \range{pages}{1}
+    \endentry
     \entry{persson2002political}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f1fa15cf0ff6f6015cc43a7429eab414}{%
@@ -11767,12 +12724,12 @@
     \endentry
     \entry{peterson1997decentralization}{book}{}
       \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=ec631271c0ba21f6262fd8aeeb3409ee}{%
+        {{un=0,uniquepart=base,hash=ec631271c0ba21f6262fd8aeeb3409ee}{%
            family={Peterson},
            familyi={P\bibinitperiod},
            given={George\bibnamedelima E},
            giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {World Bank Publications}%
@@ -11787,48 +12744,11 @@
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Decentralization in Latin America: learning through experience}
       \field{year}{1997}
-    \endentry
-    \entry{peterson1994executive}{article}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=3d71ceca843f7070b823c4df175fc71e}{%
-           family={Peterson},
-           familyi={P\bibinitperiod},
-           given={Paul\bibnamedelima E},
-           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=49b7a68b4c7c7bc2ed3b3dd4fcbe8784}{%
-           family={Greene},
-           familyi={G\bibinitperiod},
-           given={Jay\bibnamedelima P},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{92e76d120144dce05191565f2ad29f30}
-      \strng{fullhash}{92e76d120144dce05191565f2ad29f30}
-      \strng{bibnamehash}{92e76d120144dce05191565f2ad29f30}
-      \strng{authorbibnamehash}{92e76d120144dce05191565f2ad29f30}
-      \strng{authornamehash}{92e76d120144dce05191565f2ad29f30}
-      \strng{authorfullhash}{92e76d120144dce05191565f2ad29f30}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{British Journal of Political Science}
-      \field{number}{1}
-      \field{title}{Why executive-legislative conflict in the United States is dwindling}
-      \field{volume}{24}
-      \field{year}{1994}
-      \field{pages}{33\bibrangedash 55}
-      \range{pages}{23}
     \endentry
     \entry{petry1999electoral}{article}{}
       \name{author}{4}{}{%
@@ -11905,6 +12825,86 @@
       \field{labeltitlesource}{title}
       \field{title}{03 measuring the tax effort of developed and developing countries. cross country - panel data analysis -1985/95}
       \field{year}{2017}
+    \endentry
+    \entry{plotnick1985politico}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=897f4aac52339de01b531093e92ec3d3}{%
+           family={Plotnick},
+           familyi={P\bibinitperiod},
+           given={Robert\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=068f0915f868aba646e37e1ed84655ac}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima F},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{fullhash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{bibnamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authorbibnamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authornamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authorfullhash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{2}
+      \field{title}{A politico-economic theory of income redistribution}
+      \field{volume}{79}
+      \field{year}{1985}
+      \field{pages}{458\bibrangedash 473}
+      \range{pages}{16}
+    \endentry
+    \entry{plotnick1990party}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=897f4aac52339de01b531093e92ec3d3}{%
+           family={Plotnick},
+           familyi={P\bibinitperiod},
+           given={Robert\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=068f0915f868aba646e37e1ed84655ac}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima F},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Thousand Oaks, CA}%
+      }
+      \strng{namehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{fullhash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{bibnamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authorbibnamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authornamehash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \strng{authorfullhash}{d6432d896cd59f33a6c3d62484cb47f5}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Politics Quarterly}
+      \field{number}{4}
+      \field{title}{Party, political liberalism, and redistribution: An application to the American states}
+      \field{volume}{18}
+      \field{year}{1990}
+      \field{pages}{430\bibrangedash 458}
+      \range{pages}{29}
     \endentry
     \entry{pommerehne1978fiscal}{article}{}
       \name{author}{2}{}{%
@@ -12001,7 +13001,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{New Italian edition (1973) with an “Introduction” by F. Volpi, Isedi, Milano}
-      \field{title}{Teoria dell’illusione finanziaria, Palermo, Sandron}
+      \field{title}{Teoria dell'illusione finanziaria, Palermo, Sandron}
       \field{year}{1903}
     \endentry
     \entry{qian1998federalism}{article}{}
@@ -12112,6 +13112,36 @@
       \field{year}{2006}
       \field{pages}{459\bibrangedash 475}
       \range{pages}{17}
+    \endentry
+    \entry{ritt1976committee}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=72453544623cc18a62a4ef6c44693d68}{%
+           family={Ritt},
+           familyi={R\bibinitperiod},
+           given={Leonard\bibnamedelima G},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72453544623cc18a62a4ef6c44693d68}
+      \strng{fullhash}{72453544623cc18a62a4ef6c44693d68}
+      \strng{bibnamehash}{72453544623cc18a62a4ef6c44693d68}
+      \strng{authorbibnamehash}{72453544623cc18a62a4ef6c44693d68}
+      \strng{authornamehash}{72453544623cc18a62a4ef6c44693d68}
+      \strng{authorfullhash}{72453544623cc18a62a4ef6c44693d68}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Policy}
+      \field{number}{4}
+      \field{title}{Committee position, seniority, and the distribution of government expenditures}
+      \field{volume}{24}
+      \field{year}{1976}
+      \field{pages}{469\bibrangedash 97}
+      \range{pages}{29}
     \endentry
     \entry{rosenstiel2021congressional}{article}{}
       \name{author}{1}{}{%
@@ -12297,6 +13327,45 @@
       \field{year}{1985}
       \field{pages}{319\bibrangedash 327}
       \range{pages}{9}
+    \endentry
+    \entry{sole2008effects}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7bddc24af0506cacb79e0d7d96f939f5}{%
+           family={Solé-Ollé},
+           familyi={S\bibinithyphendelim O\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=901ec0a3aec006aab15040eb73e3442d}{%
+           family={Sorribas-Navarro},
+           familyi={S\bibinithyphendelim N\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{be3d90714fb6194414f414e365bd3b19}
+      \strng{fullhash}{be3d90714fb6194414f414e365bd3b19}
+      \strng{bibnamehash}{be3d90714fb6194414f414e365bd3b19}
+      \strng{authorbibnamehash}{be3d90714fb6194414f414e365bd3b19}
+      \strng{authornamehash}{be3d90714fb6194414f414e365bd3b19}
+      \strng{authorfullhash}{be3d90714fb6194414f414e365bd3b19}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Economics}
+      \field{number}{12}
+      \field{title}{The effects of partisan alignment on the allocation of intergovernmental transfers. Differences-in-differences estimates for Spain}
+      \field{volume}{92}
+      \field{year}{2008}
+      \field{pages}{2302\bibrangedash 2319}
+      \range{pages}{18}
     \endentry
     \entry{spahn2012conditioning}{article}{}
       \name{author}{1}{}{%
@@ -12639,24 +13708,25 @@
       \field{pages}{367\bibrangedash 385}
       \range{pages}{19}
     \endentry
-    \entry{ter1997fiscal}{book}{}
+    \entry{terman2015performance}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=501487a7b8b5d52992da84b15e6b5b9e}{%
-           family={Ter-Minassian},
-           familyi={T\bibinithyphendelim M\bibinitperiod},
-           given={Mrs\bibnamedelima Teresa},
-           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+        {{un=0,uniquepart=base,hash=5c81bd905776ec6f91891ebc5e2968f7}{%
+           family={Terman},
+           familyi={T\bibinitperiod},
+           given={Jessica\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {International Monetary Fund}%
+        {Wiley Online Library}%
       }
-      \strng{namehash}{501487a7b8b5d52992da84b15e6b5b9e}
-      \strng{fullhash}{501487a7b8b5d52992da84b15e6b5b9e}
-      \strng{bibnamehash}{501487a7b8b5d52992da84b15e6b5b9e}
-      \strng{authorbibnamehash}{501487a7b8b5d52992da84b15e6b5b9e}
-      \strng{authornamehash}{501487a7b8b5d52992da84b15e6b5b9e}
-      \strng{authorfullhash}{501487a7b8b5d52992da84b15e6b5b9e}
+      \strng{namehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{fullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{bibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorbibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authornamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorfullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \field{extraname}{1}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}
@@ -12664,8 +13734,120 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Fiscal federalism in theory and practice}
-      \field{year}{1997}
+      \field{journaltitle}{Policy Studies Journal}
+      \field{number}{3}
+      \field{title}{Performance goal achievement in fiscal federalism: The influence of state partisan environments and regulatory regimes}
+      \field{volume}{43}
+      \field{year}{2015}
+      \field{pages}{333\bibrangedash 354}
+      \range{pages}{22}
+    \endentry
+    \entry{terman2020getting}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c81bd905776ec6f91891ebc5e2968f7}{%
+           family={Terman},
+           familyi={T\bibinitperiod},
+           given={Jessica\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{fullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{bibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorbibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authornamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorfullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Administration Quarterly}
+      \field{number}{3}
+      \field{title}{Getting beyond Economic Stimulation: The Effects of Gubernatorial Partisan Commitment, Federal Resources and Regulatory Requirements on Final Performance Goal Achievement in Stimulus Grants}
+      \field{volume}{44}
+      \field{year}{2020}
+      \field{pages}{363\bibrangedash 393}
+      \range{pages}{31}
+    \endentry
+    \entry{terman2022even}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c81bd905776ec6f91891ebc5e2968f7}{%
+           family={Terman},
+           familyi={T\bibinitperiod},
+           given={Jessica\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{fullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{bibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorbibnamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authornamehash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \strng{authorfullhash}{5c81bd905776ec6f91891ebc5e2968f7}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Administration Quarterly}
+      \field{number}{3}
+      \field{title}{Even in a Pandemic, Partisanship and Capacity Matter: The Effects of Partisanship and Grant Experience in the CARES Act}
+      \field{volume}{46}
+      \field{year}{2022}
+      \field{pages}{282\bibrangedash 295}
+      \range{pages}{14}
+    \endentry
+    \entry{terman2015improving}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5c81bd905776ec6f91891ebc5e2968f7}{%
+           family={Terman},
+           familyi={T\bibinitperiod},
+           given={Jessica\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8476e4a072f3f97b4151d1c4cc27e0c}{%
+           family={Feiock},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press US}%
+      }
+      \strng{namehash}{21c322e8312127675f51e32e255fc1d6}
+      \strng{fullhash}{21c322e8312127675f51e32e255fc1d6}
+      \strng{bibnamehash}{21c322e8312127675f51e32e255fc1d6}
+      \strng{authorbibnamehash}{21c322e8312127675f51e32e255fc1d6}
+      \strng{authornamehash}{21c322e8312127675f51e32e255fc1d6}
+      \strng{authorfullhash}{21c322e8312127675f51e32e255fc1d6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Administration Research and Theory}
+      \field{number}{4}
+      \field{title}{Improving outcomes in fiscal federalism: Local political leadership and administrative capacity}
+      \field{volume}{25}
+      \field{year}{2015}
+      \field{pages}{1059\bibrangedash 1080}
+      \range{pages}{22}
     \endentry
     \entry{2010MEASURING}{article}{}
       \name{author}{2}{}{%
@@ -12855,6 +14037,44 @@
       \field{type}{techreport}
       \field{year}{2016}
     \endentry
+    \entry{veiga2013intergovernmental}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=7fa825665a0662a02f68f579b655a1e7}{%
+           family={Veiga},
+           familyi={V\bibinitperiod},
+           given={Linda\bibnamedelima Gonçalves},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=579e749ab7c2cb4853a7ce73b286093f}{%
+           family={Veiga},
+           familyi={V\bibinitperiod},
+           given={Francisco\bibnamedelima José},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{45035cbc1842774f64f89594c823a30e}
+      \strng{fullhash}{45035cbc1842774f64f89594c823a30e}
+      \strng{bibnamehash}{45035cbc1842774f64f89594c823a30e}
+      \strng{authorbibnamehash}{45035cbc1842774f64f89594c823a30e}
+      \strng{authornamehash}{45035cbc1842774f64f89594c823a30e}
+      \strng{authorfullhash}{45035cbc1842774f64f89594c823a30e}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public choice}
+      \field{title}{Intergovernmental fiscal transfers as pork barrel}
+      \field{volume}{155}
+      \field{year}{2013}
+      \field{pages}{335\bibrangedash 353}
+      \range{pages}{19}
+    \endentry
     \entry{volden2005intergovernmental}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ee9355e8e08102b30b7281f90148ac69}{%
@@ -13014,17 +14234,17 @@
       \field{pages}{516\bibrangedash 520}
       \range{pages}{5}
     \endentry
-    \entry{62b81da7-cc78-33f9-98a3-0a8d03976c2c}{article}{}
+    \entry{weatherford1978economic}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a18c1ed98c32917bd38dca3f6c7aa961}{%
            family={Weatherford},
            familyi={W\bibinitperiod},
-           given={M.\bibnamedelimi Stephen},
+           given={M\bibnamedelima Stephen},
            giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {[Midwest Political Science Association, Wiley]}%
+        {JSTOR}%
       }
       \strng{namehash}{a18c1ed98c32917bd38dca3f6c7aa961}
       \strng{fullhash}{a18c1ed98c32917bd38dca3f6c7aa961}
@@ -13039,24 +14259,44 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{00925853, 15405907}
       \field{journaltitle}{American Journal of Political Science}
-      \field{number}{4}
-      \field{title}{Economic Conditions and Electoral Outcomes: Class Differences in the Political Response to Recession}
-      \field{urlday}{28}
-      \field{urlmonth}{1}
-      \field{urlyear}{2024}
-      \field{volume}{22}
+      \field{title}{Economic conditions and electoral outcomes: Class differences in the political response to recession}
       \field{year}{1978}
-      \field{urldateera}{ce}
       \field{pages}{917\bibrangedash 938}
       \range{pages}{22}
-      \verb{urlraw}
-      \verb http://www.jstor.org/stable/2110599
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/2110599
-      \endverb
+    \endentry
+    \entry{weaver2010paths}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af64426858142eda0878b94c3b1d5350}{%
+           family={Weaver},
+           familyi={W\bibinitperiod},
+           given={Kent},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{af64426858142eda0878b94c3b1d5350}
+      \strng{fullhash}{af64426858142eda0878b94c3b1d5350}
+      \strng{bibnamehash}{af64426858142eda0878b94c3b1d5350}
+      \strng{authorbibnamehash}{af64426858142eda0878b94c3b1d5350}
+      \strng{authornamehash}{af64426858142eda0878b94c3b1d5350}
+      \strng{authorfullhash}{af64426858142eda0878b94c3b1d5350}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Policy}
+      \field{number}{2}
+      \field{title}{Paths and forks or chutes and ladders?: Negative feedbacks and policy regime change}
+      \field{volume}{30}
+      \field{year}{2010}
+      \field{pages}{137\bibrangedash 162}
+      \range{pages}{26}
     \endentry
     \entry{weicher1972aid}{article}{}
       \name{author}{1}{}{%
@@ -13093,12 +14333,12 @@
     \endentry
     \entry{1976A}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dfe17e6739841df2ae67f92326877385}{%
+        {{un=1,uniquepart=given,hash=dfe17e6739841df2ae67f92326877385}{%
            family={Weingast},
            familyi={W\bibinitperiod},
            given={Barry},
            giveni={B\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{dfe17e6739841df2ae67f92326877385}
       \strng{fullhash}{dfe17e6739841df2ae67f92326877385}
@@ -13110,11 +14350,40 @@
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A Rational Choice Perspective on Congressional Norms.}
       \field{year}{1976}
+    \endentry
+    \entry{weingast1979rational}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=768eb941bd10052947316c55458bb221}{%
+           family={Weingast},
+           familyi={W\bibinitperiod},
+           given={Barry\bibnamedelima R},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{768eb941bd10052947316c55458bb221}
+      \strng{fullhash}{768eb941bd10052947316c55458bb221}
+      \strng{bibnamehash}{768eb941bd10052947316c55458bb221}
+      \strng{authorbibnamehash}{768eb941bd10052947316c55458bb221}
+      \strng{authornamehash}{768eb941bd10052947316c55458bb221}
+      \strng{authorfullhash}{768eb941bd10052947316c55458bb221}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{title}{A rational choice perspective on congressional norms}
+      \field{year}{1979}
+      \field{pages}{245\bibrangedash 262}
+      \range{pages}{18}
     \endentry
     \entry{weist2007intergovernmental}{inbook}{}
       \name{author}{1}{}{%
@@ -13146,6 +14415,71 @@
       \field{year}{2007}
       \field{pages}{435\bibrangedash 451}
       \range{pages}{17}
+    \endentry
+    \entry{wildavsky2003new}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=79c341c0f5b8343e48662ca1ddacd83e}{%
+           family={Wildavsky},
+           familyi={W\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fca637ba234f15c715dbe1685657af4e}{%
+           family={Caiden},
+           familyi={C\bibinitperiod},
+           given={Naomi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Chicago, IL: Longman}%
+      }
+      \strng{namehash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \strng{fullhash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \strng{bibnamehash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \strng{authorbibnamehash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \strng{authornamehash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \strng{authorfullhash}{a2bb8afb9ca8d6148cac45ab090a6dd2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The New Politics of the Budgetary Process (5-th ed.)}
+      \field{year}{2003}
+    \endentry
+    \entry{winters1976party}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=dbea1bdb7da5fe12550fa1a3aeaf3906}{%
+           family={Winters},
+           familyi={W\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \strng{fullhash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \strng{bibnamehash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \strng{authorbibnamehash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \strng{authornamehash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \strng{authorfullhash}{dbea1bdb7da5fe12550fa1a3aeaf3906}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{title}{Party control and policy change}
+      \field{year}{1976}
+      \field{pages}{597\bibrangedash 636}
+      \range{pages}{40}
     \endentry
     \entry{wlezien2021trends}{article}{}
       \name{author}{2}{}{%
